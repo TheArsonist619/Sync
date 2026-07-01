@@ -6,7 +6,7 @@ tags:
 image: blackbeanburgers.webp
 source: https://www.seriouseats.com/the-best-black-bean-burger-recipe
 ---
-![[blackbeanburgers.webp|hs-med locr]]
+![[z-Assets/Images/blackbeanburgers.webp|hs-med locr]]
 
 
 ## Ingredients

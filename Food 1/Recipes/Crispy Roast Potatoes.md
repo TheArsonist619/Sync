@@ -7,7 +7,7 @@ tags:
 image: crispyroastpotatoes.webp
 source: https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe
 ---
-![[crispyroastpotatoes.webp|hs-med locr]]
+![[z-Assets/Images/crispyroastpotatoes.webp|hs-med locr]]
 
 ## Ingredients
 

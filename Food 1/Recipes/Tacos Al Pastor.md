@@ -5,7 +5,7 @@ tags:
 image: tacosalpastor.webp
 source: https://www.seriouseats.com/tacos-al-pastor-recipe
 ---
-![[tacosalpastor.webp|hs-med locr]]
+![[z-Assets/Images/tacosalpastor.webp|hs-med locr]]
 
 
 ## Ingredients

@@ -6,7 +6,7 @@ image: chiliconcarne.webp
 source: https://www.seriouseats.com/real-texas-chili-con-carne
 ---
 
-![[chiliconcarne.webp|hs-med locr]]
+![[z-Assets/Images/chiliconcarne.webp|hs-med locr]]
 
 ## Ingredients
 

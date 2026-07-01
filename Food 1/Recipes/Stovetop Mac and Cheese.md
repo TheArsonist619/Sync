@@ -7,7 +7,7 @@ image: stovetopmac.webp
 source: https://www.seriouseats.com/ingredient-stovetop-mac-and-cheese-recipe
 ---
 
-![[stovetopmac.webp|locr hs-med]]
+![[z-Assets/Images/stovetopmac.webp|locr hs-med]]
 
 ## Ingredients
 

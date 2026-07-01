@@ -8,7 +8,7 @@ source: https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta
 ---
 
 
-![[shakshuka.webp|locr hs-med]]
+![[z-Assets/Images/shakshuka.webp|locr hs-med]]
 
 
 ## Ingredients

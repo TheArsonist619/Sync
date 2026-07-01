@@ -6,7 +6,7 @@ tags:
 image: smashburgers.webp
 source: https://www.seriouseats.com/ultra-smashed-cheeseburger-recipe-food-lab
 ---
-![[smashburgers.webp|hs-med locr]]
+![[z-Assets/Images/smashburgers.webp|hs-med locr]]
 
 
 ## Ingredients

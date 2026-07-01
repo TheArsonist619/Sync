@@ -6,7 +6,7 @@ image: mayonaise.webp
 source: https://www.seriouseats.com/two-minute-mayonnaise
 ---
 
-![[mayonaise.webp|locr hs-med]]
+![[z-Assets/Images/mayonaise.webp|locr hs-med]]
 
 ## Ingredients
 

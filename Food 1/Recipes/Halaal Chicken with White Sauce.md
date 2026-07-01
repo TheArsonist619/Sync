@@ -6,7 +6,7 @@ image: halaalchicken.webp
 source: https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe
 ---
 
-![[halaalchicken.webp|hs-med locr]]
+![[z-Assets/Images/halaalchicken.webp|hs-med locr]]
 
 ## Ingredients
 

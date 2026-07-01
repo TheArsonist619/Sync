@@ -5,7 +5,7 @@ tags:
 image: overnightfrenchtoast.webp
 source: https://cooking.nytimes.com/recipes/1019102-overnight-french-toast?eafs_enabled=false
 ---
-![[overnightfrenchtoast.webp|hs-med locr]]
+![[z-Assets/Images/overnightfrenchtoast.webp|hs-med locr]]
 
 ## Ingredients
 

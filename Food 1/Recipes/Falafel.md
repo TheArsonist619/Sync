@@ -5,7 +5,7 @@ tags:
 image: falafel.webp
 source: https://www.seriouseats.com/the-food-lab-vegan-experience-best-homemade-falafel-recipe
 ---
-![[falafel.webp|hs-med locr]]
+![[z-Assets/Images/falafel.webp|hs-med locr]]
 
 
 ## Ingredients

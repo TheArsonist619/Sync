@@ -4,7 +4,7 @@ tags:
 image: mangolimetart.webp
 source: https://patijinich.com/mango-lime-tart/
 ---
-![[mangolimetart.webp|locr hs-med]]
+![[z-Assets/Images/mangolimetart.webp|locr hs-med]]
 
 ## Ingredients
 

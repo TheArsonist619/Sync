@@ -6,7 +6,7 @@ image: dutchbaby.webp
 source: https://altonbrown.com/recipes/dutch-baby-pancake/
 ---
 
-![[dutchbaby.webp|hs-med locr]]
+![[z-Assets/Images/dutchbaby.webp|hs-med locr]]
 
 ## Ingredients
 - 3 tablespoons unsalted butter, divided

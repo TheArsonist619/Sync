@@ -6,7 +6,7 @@ image: chilicrisp.webp
 source: https://www.seriouseats.com/homemade-spicy-chili-crisp
 ---
 
-![[chilicrisp.webp|hs-med locr]]
+![[z-Assets/Images/chilicrisp.webp|hs-med locr]]
 
 ## Ingredients 
 

@@ -6,7 +6,7 @@ tags:
 image: kitchari.webp
 source: https://www.veganricha.com/instant-pot-kitchari/#wprm-recipe-container-30791
 ---
-![[kitchari.webp|hs-med locr]]
+![[z-Assets/Images/kitchari.webp|hs-med locr]]
 
 ## Ingredients
 

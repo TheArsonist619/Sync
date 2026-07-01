@@ -5,7 +5,7 @@ tags:
 image: sweetpotatocasserole.webp
 source: https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945
 ---
-![[sweetpotatocasserole.webp|locr hs-med]]
+![[z-Assets/Images/sweetpotatocasserole.webp|locr hs-med]]
 
 ## Ingredients
 

@@ -7,7 +7,7 @@ image: chilaquiles.webp
 source: https://cooking.nytimes.com/recipes/1017908-green-chilaquiles-with-eggs
 ---
 
-![[Chilaquiles.webp| locr hs-med]]
+![[z-Assets/Images/Chilaquiles.webp| locr hs-med]]
 
 ## Ingredients
 

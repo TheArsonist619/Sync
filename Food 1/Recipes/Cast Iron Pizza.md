@@ -6,7 +6,7 @@ tags:
 image: castironpizza.webp
 source: https://www.seriouseats.com/foolproof-pan-pizza-recipe
 ---
-![[castironpizza.webp|hs-med locr]]
+![[z-Assets/Images/castironpizza.webp|hs-med locr]]
 
 
 ## Ingredients

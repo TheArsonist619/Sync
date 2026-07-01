@@ -5,7 +5,7 @@ tags:
 image: overnightoats.webp
 source: https://cooking.nytimes.com/recipes/1019516-overnight-oats?eafs_enabled=false
 ---
-![[overnightoats.webp|locr hs-med]]
+![[z-Assets/Images/overnightoats.webp|locr hs-med]]
 
 ## Ingredients
 

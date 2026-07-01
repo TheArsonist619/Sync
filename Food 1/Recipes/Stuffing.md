@@ -7,7 +7,7 @@ image: stuffing.webp
 source: https://www.bonappetit.com/recipe/simple-is-best-stuffing-dressing
 ---
 
-![[Stuffing.webp|locr hs-med]]
+![[z-Assets/Images/Stuffing.webp|locr hs-med]]
 
 ## Ingredients
 
