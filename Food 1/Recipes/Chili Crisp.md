@@ -1,10 +1,23 @@
 ---
 tags:
-  - condiment
-  - hard
-image: chilicrisp.webp
+  - peanuts
+  - ginger
+  - sichuan
+  - chile/dried
 source: https://www.seriouseats.com/homemade-spicy-chili-crisp
+Cuisine:
+  - Asian
+Type:
+  - Main
+Meal:
+  - Breakfast
+  - Dinner
+  - Lunch
+Difficulty: Medium
+Author: Sohla El-Waylly
+image: chilicrisp.webp
 ---
+
 
 ![[z-Assets/Images/chilicrisp.webp|hs-med locr]]
 

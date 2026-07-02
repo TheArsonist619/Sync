@@ -1,10 +1,20 @@
 ---
 tags:
-  - dinner
-  - lunch
-  - easy
-image: stovetopmac.webp
+  - cheese/cheddar
+  - cheese
 source: https://www.seriouseats.com/ingredient-stovetop-mac-and-cheese-recipe
+Cuisine:
+  - American
+Type:
+  - Main
+  - Side
+  - Party
+Meal:
+  - Dinner
+  - Lunch
+Difficulty: Easy
+Author: Kenji Lopez-Alt
+image: stovetopmac.webp
 ---
 
 ![[z-Assets/Images/stovetopmac.webp|locr hs-med]]

@@ -1,28 +1,32 @@
 ---
 tags:
-  - dessert
-image: mangolimetart.webp
+  - mango
+  - heavycream
 source: https://patijinich.com/mango-lime-tart/
+Cuisine:
+  - Mexican
+Type:
+  - Party
+Meal:
+  - Dessert
+Difficulty: Medium
+Author: N/A
+image: mangolimetart.webp
 ---
 ![[z-Assets/Images/mangolimetart.webp|locr hs-med]]
 
 ## Ingredients
 
-Yield:2 cups
-
-- ½ cup old-fashioned oats
-    
-- ¼ cup dried fruit, cut into small pieces, if needed (see Tip)
-    
-- 1 tablespoon chia, flax, poppy or sesame seeds
-    
-- 1 cup milk or unsweetened dairy alternative, such as almond or oat milk
-    
-- ¼ teaspoon kosher salt
-    
-- Maple syrup, honey or brown sugar (optional)
-    
-- 2 tablespoons chopped or sliced nuts, toasted, if desired
+- 6 ounces Maria Cookies ground to a fine crumb about 2 cups cookie crumbs
+- 8 tablespoons unsalted butter melted
+- 1/2 cup granulated sugar divided
+- 1/2 teaspoon kosher or sea salt
+- 1 large ripe mango peeled, cored and cut into chunks (about 1-1½ cups)
+- 1/3 cup freshly squeezed lime juice
+- 3 egg yolks
+- 1 14-ounce can sweetened condensed milk
+- 1 cup heavy cream divided
+- 1/4 cup cream of coconut
 
 ## Preparation
 

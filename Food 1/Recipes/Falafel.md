@@ -1,10 +1,24 @@
 ---
 tags:
-  - dinner
-  - medium
-image: falafel.webp
+  - chickpeas
+  - parsley
+  - mint
+  - cilantro
+  - oil
 source: https://www.seriouseats.com/the-food-lab-vegan-experience-best-homemade-falafel-recipe
+Cuisine:
+  - Mediterranian
+Type:
+  - Main
+Meal:
+  - Dinner
+  - Lunch
+Difficulty: Medium
+Author: Kenji Lopez-Alt
+image: falafel.webp
 ---
+
+
 ![[z-Assets/Images/falafel.webp|hs-med locr]]
 
 

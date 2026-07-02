@@ -1,10 +1,20 @@
 ---
 tags:
-  - dinner
-  - lunch
+  - rice/basmati
+  - lentils
   - instapot
-image: kitchari.webp
 source: https://www.veganricha.com/instant-pot-kitchari/#wprm-recipe-container-30791
+Cuisine:
+  - Indian
+Type:
+  - Main
+  - Side
+Meal:
+  - Dinner
+  - Lunch
+Difficulty: Medium
+Author: Richa Hingle
+image: kitchari.webp
 ---
 ![[z-Assets/Images/kitchari.webp|hs-med locr]]
 

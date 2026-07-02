@@ -1,9 +1,20 @@
 ---
 tags:
-  - dinner
-  - hard
-image: chiliconcarne.webp
+  - beef/chuck
+  - chipotleinadobo
+  - tortilla
+  - chile/dried
 source: https://www.seriouseats.com/real-texas-chili-con-carne
+Cuisine:
+  - Mexican
+Type:
+  - Main
+  - Party
+Meal:
+  - Dinner
+Difficulty: Hard
+Author: Kenji Lopez-Alt
+image: chiliconcarne.webp
 ---
 
 ![[z-Assets/Images/chiliconcarne.webp|hs-med locr]]

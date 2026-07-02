@@ -1,11 +1,22 @@
 ---
 tags:
-  - "#breakfast"
-  - lunch
-  - easy
-image: chilaquiles.webp
+  - jalapeno
+  - tomatillos
+  - eggs
+  - tortilla/chips
 source: https://cooking.nytimes.com/recipes/1017908-green-chilaquiles-with-eggs
+Cuisine:
+  - Mexican
+Type:
+  - Main
+  - Party
+Meal:
+  - Breakfast
+Difficulty: Medium
+Author: Martha Rose Shulman
+image: chilaquiles.webp
 ---
+
 
 ![[z-Assets/Images/Chilaquiles.webp| locr hs-med]]
 

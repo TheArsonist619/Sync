@@ -1,10 +1,17 @@
 ---
 tags:
-  - breakfast
-  - lunch
-  - easy
-image: shakshuka.webp
+  - tomatoes
+  - eggs
 source: https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta
+Cuisine:
+  - Mediterranian
+Type:
+  - Main
+Meal:
+  - Breakfast
+Difficulty: Easy
+Author: Melissa Clark
+image: shakshuka.webp
 ---
 
 

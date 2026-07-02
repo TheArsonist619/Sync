@@ -1,10 +1,18 @@
 ---
 tags:
-  - dinner
+  - bread
   - thanksgiving
-  - medium
-image: stuffing.webp
 source: https://www.bonappetit.com/recipe/simple-is-best-stuffing-dressing
+Cuisine:
+  - American
+Type:
+  - Side
+  - Party
+Meal:
+  - Dinner
+Difficulty: Medium
+Author: Bon Apetit
+image: stuffing.webp
 ---
 
 ![[z-Assets/Images/Stuffing.webp|locr hs-med]]

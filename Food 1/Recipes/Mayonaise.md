@@ -1,9 +1,16 @@
 ---
 tags:
-  - condiment
-  - easy
-image: mayonaise.webp
 source: https://www.seriouseats.com/two-minute-mayonnaise
+Cuisine:
+  - American
+Type:
+  - Main
+  - condiment
+Meal:
+  - Dinner
+Difficulty: Easy
+Author: Kenji Lopez-Alt
+image: mayonaise.webp
 ---
 
 ![[z-Assets/Images/mayonaise.webp|locr hs-med]]

@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.folder.contains("Recipes")
+        - '!file.folder.contains("remote-blog")'
     image: note.image
     cardSize: 180
   - type: cards
@@ -11,7 +12,7 @@ views:
     filters:
       and:
         - file.folder.contains("Recipes")
-        - file.tags.contains("breakfast")
+        - Meal.contains("Breakfast")
     image: note.image
     cardSize: 180
   - type: cards
@@ -19,7 +20,7 @@ views:
     filters:
       and:
         - file.folder.contains("Recipes")
-        - file.tags.contains("lunch")
+        - Meal.contains("Lunch")
     image: note.image
     cardSize: 180
   - type: cards
@@ -27,6 +28,6 @@ views:
     filters:
       and:
         - file.folder.contains("Recipes")
-        - file.tags.contains("dinner")
+        - Meal.contains("Dinner")
     image: note.image
     cardSize: 180

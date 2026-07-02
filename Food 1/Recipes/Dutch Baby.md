@@ -1,10 +1,20 @@
 ---
 tags:
-  - breakfast
-  - easy
-image: dutchbaby.webp
+  - flour
+  - eggs
 source: https://altonbrown.com/recipes/dutch-baby-pancake/
+Cuisine:
+  - American
+Type:
+  - Main
+Meal:
+  - Breakfast
+  - Dessert
+Difficulty: Easy
+Author: Alton Brown
+image: dutchbaby.webp
 ---
+
 
 ![[z-Assets/Images/dutchbaby.webp|hs-med locr]]
 

@@ -1,11 +1,18 @@
 ---
 tags:
-  - dinner
-  - breakfast
-  - lunch
-  - medium
-image: crispyroastpotatoes.webp
+  - Potatoes/Russet
 source: https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe
+Cuisine:
+  - American
+Type:
+  - Side
+Meal:
+  - Dinner
+  - Breakfast
+  - Lunch
+Difficulty: Medium
+Author: Kenji Lopez-Alt
+image: crispyroastpotatoes.webp
 ---
 ![[z-Assets/Images/crispyroastpotatoes.webp|hs-med locr]]
 

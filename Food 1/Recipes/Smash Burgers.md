@@ -1,10 +1,20 @@
 ---
 tags:
-  - dinner
-  - easy
-  - lunch
-image: smashburgers.webp
+  - beef/ground
+  - buns
+  - cheese/american
 source: https://www.seriouseats.com/ultra-smashed-cheeseburger-recipe-food-lab
+Cuisine:
+  - American
+Type:
+  - Main
+  - Party
+Meal:
+  - Dinner
+  - Lunch
+Difficulty: Easy
+Author: Kenji Lopez-Alt
+image: smashburgers.webp
 ---
 ![[z-Assets/Images/smashburgers.webp|hs-med locr]]
 

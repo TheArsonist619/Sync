@@ -1,11 +1,24 @@
 ---
 tags:
-  - dinner
-  - medium
-  - lunch
-image: blackbeanburgers.webp
+  - blackbeans
+  - poblano
+  - feta
+  - cashews
+  - hardboiledeggs
 source: https://www.seriouseats.com/the-best-black-bean-burger-recipe
+Cuisine:
+  - American
+Type:
+  - Main
+Meal:
+  - Dinner
+  - Lunch
+Difficulty: Medium
+Author: Kenji Lopez-Alt
+image: blackbeanburgers.webp
 ---
+
+
 ![[z-Assets/Images/blackbeanburgers.webp|hs-med locr]]
 
 

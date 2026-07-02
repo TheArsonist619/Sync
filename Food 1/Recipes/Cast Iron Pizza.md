@@ -1,11 +1,21 @@
 ---
 tags:
-  - lunch
-  - dinner
-  - medium
-image: castironpizza.webp
+  - breadflour
+  - yeast
+  - cheese/mozzarella
 source: https://www.seriouseats.com/foolproof-pan-pizza-recipe
+Cuisine:
+  - Italian
+Type:
+  - Main
+Meal:
+  - Dinner
+  - Lunch
+Difficulty: Medium
+Author: Kenji Lopez-Alt
+image: castironpizza.webp
 ---
+
 ![[z-Assets/Images/castironpizza.webp|hs-med locr]]
 
 

@@ -1,9 +1,19 @@
 ---
 tags:
-  - dinner
-  - lunch
-image: tacosalpastor.webp
+  - pork/roast
+  - tortilla/corn
+  - chipotleinadobo
 source: https://www.seriouseats.com/tacos-al-pastor-recipe
+Cuisine:
+  - Mexican
+Type:
+  - Main
+  - Party
+Meal:
+  - Dinner
+Difficulty: Medium
+Author: Kenji Lopez-Alt
+image: tacosalpastor.webp
 ---
 ![[z-Assets/Images/tacosalpastor.webp|hs-med locr]]
 

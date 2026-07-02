@@ -1,10 +1,21 @@
 ---
 tags:
-  - dinner
-  - medium
-image: halaalchicken.webp
+  - chicken/thighs
+  - pita
+  - rice
+  - tomatoes
 source: https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe
+Cuisine:
+  - Middle Eastern
+Type:
+  - Main
+Meal:
+  - Dinner
+Difficulty: Medium
+Author: Kenji Lopez-Alt
+image: halaalchicken.webp
 ---
+
 
 ![[z-Assets/Images/halaalchicken.webp|hs-med locr]]
 
