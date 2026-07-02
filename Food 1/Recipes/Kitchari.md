@@ -1,0 +1,60 @@
+---
+tags:
+  - rice/basmati
+  - lentils
+  - instapot
+source: https://www.veganricha.com/instant-pot-kitchari/#wprm-recipe-container-30791
+Cuisine:
+  - Indian
+Type:
+  - Main
+  - Side
+Meal:
+  - Dinner
+  - Lunch
+Difficulty: Medium
+Author: Richa Hingle
+image: kitchari.webp
+---
+![[z-Assets/Images/kitchari.webp|hs-med locr]]
+
+## Ingredients
+
+- [ ] 1/2 cup long grain white basmati rice
+- [ ] 1/2 cup quick cooking lentils such as split Red lentils, (masoor dal) or (petite yellow lentils)Mung Dal or both
+- [ ] 1 tsp oil
+- [ ] 1/3 tsp cumin seeds or 1/2 tsp mustard seeds
+- [ ] 1/2 onion, finely chopped
+- [ ] 2 cloves of garlic, finely chopped
+- [ ] 1 inch ginger, finely chopped
+- [ ] 1 green Chili, chopped serrano or birds eye, or use half a jalapeño
+- [ ] 1 bay leaf or 6 curry leaves, , optional
+- [ ] 1 tsp coriander powder
+- [ ] 1/2 tsp ground cumin
+- [ ] 1/2 tsp [garam masala](https://www.veganricha.com/2016/05/garam-masala-recipe.html), , optional
+- [ ] 1/2 tsp turmeric
+- [ ] 1/4 tsp cayenne, optional
+- [ ] 1 tomato chopped
+- [ ] 1 to 2 cups chopped vegetables
+- [ ] 1/2 tsp salt
+- [ ] 2 cups water, 2.5 for saucier
+
+## Preparation
+
+1.  [ ] Wash the lentils and rice then soak in hot water for 15 minutes. 
+    
+2. [ ] Heat the Instant Pot on saute. Add oil and let it heat up. Add cumin or mustard seeds and cook for half a minute. 
+    
+3. [ ] Add the onion, chile, garlic, ginger and a pinch of salt (and bay leaves or curry leaves) and cook for 2 mins.
+    
+4. [ ] Add spices and mix in. 
+    
+5. [ ] Add tomato and cook for 3 mins. Mash the larger pieces. Add 2 tbsp water to deglaze mid way.
+    
+6. [ ] Drain and add the lentils and rice. Add water, salt, veggies and mix well to pick up any stuck bits. 
+    
+7. [ ] Close the lid and pressure cook one of the following times. Low pressure for 3 mins for pictured version. High pressure for 3 to 6 minutes for a porridge and if using mung dal. Once the cooking cycle is done, quick release the pressure after 5 mins. 
+    
+8. [ ] Fold in a few tbsp chopped cilantro and lemon juice to taste and fluff. Taste and adjust salt and flavor. 
+    
+    Store refrigerated for upto 3 days. For brown rice [kitchari, try this.](https://www.veganricha.com/brown-rice-mung-bean-kitchari-mung-bean-stew/)
