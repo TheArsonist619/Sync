@@ -4,7 +4,10 @@ views:
     filters:
       and:
         - file.folder.contains("Recipes")
-        - '!file.folder.contains("remote-blog")'
+        - '!file.folder.contains("Sync")'
+    order:
+      - file.name
+      - aliases
     image: note.image
     cardSize: 180
   - type: cards
@@ -29,5 +32,6 @@ views:
       and:
         - file.folder.contains("Recipes")
         - Meal.contains("Dinner")
+        - '!file.folder.contains("Sync")'
     image: note.image
     cardSize: 180

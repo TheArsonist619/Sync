@@ -48,19 +48,19 @@ Yield:4 to 6 servings
 
 ## Preparation
 
-1. [ ] Step 1
+1. [x] Step 1
     
     Heat broiler. Place tomatillos and chiles on a baking sheet and set about 4 inches below broiler. Roast until dark and blackened in spots, about 5 minutes. Flip over and roast on other side until tomatillos are soft and charred in spots and chiles are soft all the way through, 4 to 5 minutes. Remove from heat and allow to cool for 5 minutes.
     
-2. [ ] Step 2
+2. [x] Step 2
     
     Transfer tomatillos and chiles to a blender along with juices on baking sheet. Add cilantro sprigs, then blend to a coarse purée.
     
-3. [ ] Step 3
+3. [x] Step 3
     
     Heat oil over medium heat in a large, wide casserole or saucepan and add onion. Cook, stirring often, until tender, 5 to 8 minutes. Add a little salt, stir in garlic and cook, stirring, until fragrant, about 1 minute.
     
-4. [ ] Step 4
+4. [x] Step 4
     
     Turn heat to medium-high and add tomatillo purée. Cook, stirring often, until salsa thickens and leaves a canal when you run a wooden spoon down the middle. Add broth, bring to a simmer, and simmer 10 minutes or until salsa coats the back of a spoon.
     
