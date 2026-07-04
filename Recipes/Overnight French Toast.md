@@ -14,6 +14,8 @@ Meal:
 Difficulty: Easy
 Author: Samantha Seneviratne
 image: overnightfrenchtoast.webp
+aliases:
+  - French Toast Casserole
 ---
 ![[z-Assets/Images/overnightfrenchtoast.webp|hs-med locr]]
 
@@ -49,8 +51,7 @@ Yield:6 to 8 servings
     
 - [ ] Maple syrup, for serving
 
-## Preparation
-
+## Directions
 1. [ ] Step 1
     
     Butter a 2-quart baking dish. Butter the front sides of the slices of bread and shingle the slices upright in the dish, overlapping as necessary. Nestle the raisins, if using, evenly between the slices of bread but not on top.

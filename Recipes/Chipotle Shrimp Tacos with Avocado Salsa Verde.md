@@ -41,8 +41,7 @@ image: shrimptaco.webp
 - [ ] 8 sprigs cilantro for garnish 
 - [ ] 2 limes, cut into wedges
 
-## Preparation
-
+## Directions
 1. [ ] Put the onion, jalapeno, and garlic in a food processor and finely chop. Add the tomatillos, avocado, and salt and pulse until chopped but still chunky. Transfer to a bowl and stir in the cilantro. 
 2. [ ] Heat a stovetop or outdoor grill to medium-high. Mix the olive oil, chipotle or chili powder, and salt in a large bowl. Add the shrimp and toss to coat. 
 3. [ ] Grill the shrimp until translucent, about 1 1/2 to 2 minutes on each side. Grill tortillas, until slightly charred and pliable, about 20 seconds per side. (Alternatively, wrap in a damp paper towel and heat in a microwave.) Spoon sauce on the tortilla, then top with about 2 or 3 shrimp and a sprig of cilantro. Serve 2 tacos per person, with a lime wedge on the side.

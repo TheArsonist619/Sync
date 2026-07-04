@@ -16,6 +16,8 @@ Meal:
 Difficulty: Medium
 Author: Steve P.
 image: pancitcanton.webp
+aliases:
+  - Pancit
 ---
 ![[z-Assets/Images/pancitcanton.webp|locr hs-med]]
 
@@ -40,8 +42,7 @@ image: pancitcanton.webp
 - [ ] 4[green onions](https://www.food.com/about/green-onion-363), sliced
 - [ ] 1[lemons](https://www.food.com/about/lemon-125) or 1 kalamansi, cut into wedges
 
-## Preparation
-
+## Directions
 1. [ ] If using mushrooms, soak them in warm water for 30 minutes, then cut into strips, discarding the tough stems.
 2. [ ] Set aside.
 3. [ ] Heat oil over medium-high heat in wok or large skillet.

@@ -46,8 +46,7 @@ Yield:4 to 6 servings
     
 - [ ] ½ cup crumbled queso fresco or feta
 
-## Preparation
-
+## Directions
 1. [x] Step 1
     
     Heat broiler. Place tomatillos and chiles on a baking sheet and set about 4 inches below broiler. Roast until dark and blackened in spots, about 5 minutes. Flip over and roast on other side until tomatillos are soft and charred in spots and chiles are soft all the way through, 4 to 5 minutes. Remove from heat and allow to cool for 5 minutes.

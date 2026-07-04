@@ -68,8 +68,7 @@ image: fishtacos.webp
     
 - [ ] ½ medium head cabbage, finely shredded
 
-## Preparation
-
+## Directions
 1. [ ] To make the beer batter: Combine flour, cornstarch, baking powder, and salt in a large bowl. Blend beer and egg in a separate bowl, then quickly stir into flour mixture until combined with a few lumps remaining.
 
 2. [ ] To make the sauce: Mix yogurt and mayonnaise together in a medium bowl; gradually stir in fresh lime juice until consistency is slightly runny. Season with jalapeño, capers, cayenne, oregano, cumin, and dill.

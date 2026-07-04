@@ -4,7 +4,7 @@ tags:
   - pita
 source: https://www.seriouseats.com/traditional-toum
 Cuisine:
-  - Mediterranian
+  - Mediterranean
   - Middle Eastern
 Type:
   - condiment
@@ -15,6 +15,9 @@ Meal:
 Difficulty: Medium
 Author: Sohla El-Waylly
 image: toum.webp
+aliases:
+  - Garlic Sauce
+  - White Sauce
 ---
 
 ![[z-Assets/Images/toum.webp|locr hs-med]]
@@ -58,16 +61,15 @@ image: toum.webp
 4. [ ] **Mortar and Pestle Method:** Depending on the size of your mortar, you may need to make the recipe in smaller batches, halving or quartering the ingredient amounts. In the mortar, combine garlic and salt and grind until it becomes a smooth paste. Work oil into paste 1 teaspoon at a time. After adding 1 tablespoon oil, work in a few drops of lemon juice. Repeat until all the oil, lemon juice, and water have been incorporated.
     
 
-## Special Equipment
-
-[Food processor](https://www.seriouseats.com/best-food-processor-equipment-review) or [mortar and pestle](https://www.seriouseats.com/best-mortars-and-pestles), [paring knife](https://www.seriouseats.com/the-best-paring-knives)
-
 ## Notes
 
 For the ideal light and fluffy texture, stick with either the food processor or mortar-and-pestle method described here. Trying to make the toum in a blender or with an immersion blender will result in a thin and dense texture closer to that of a mayonnaise or dressing than traditional toum.
 
 If the emulsion breaks, it can easily be brought back together with the help of an egg white. Combine 1 egg white with 1/4 cup of the broken emulsion in the bowl of a food processor until fluffy. With the food processor running, slowly pour in the remaining broken emulsion.
 
-## Make-Ahead and Storage
-
 Toum may be refrigerated in an airtight container for up to 1 month.
+
+## Special Equipment
+
+[Food processor](https://www.seriouseats.com/best-food-processor-equipment-review) or [mortar and pestle](https://www.seriouseats.com/best-mortars-and-pestles), [paring knife](https://www.seriouseats.com/the-best-paring-knives)
+

@@ -35,7 +35,7 @@ image: shepardspie.webp
 - [ ] 1.2 tsp thyme
 
 
-## Preparation
+## Directions
 1. [ ] preheat oven to 375
 2. [ ] Put potatoes in large saucepan and add enough water to cover. Bring to boil. Reduce heat and simmer until potatoes are tender, about 20 minutes. Mash potatoes and add yogurt, parsley, 1/2 tsp salt, 1/4 tsp pepper.
 3. [ ] Heat oil in skillet over medium heat. Add onions and cook until softened, about 5 minutes. Add meat and cook until browned. 

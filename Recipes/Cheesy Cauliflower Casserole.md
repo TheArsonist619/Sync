@@ -41,8 +41,7 @@ aliases:
 - [ ] 1 teaspoon Frank's RedHot or other hot sauce, or more to taste
 - [ ] 1/2 teaspoon ground mustard
 - [ ] 8 oz. cheese (American, Cheddar, Jack, Fontina, young Swiss, Gruyere, Muenster, young provolone, and/or young Gouda)
-## Preparation
-
+## Directions
 1. [ ] Adjust an oven rack to the middle position and preheat the oven to 400 degrees. Combine the bread, shallot, parsley, 1 tablespoon of the butter and a pinch of salt in the bowl of a food processor and pulse until coarse bread crumbs have formed and no large chunks of butter remain. Set aside.
 2. [ ] Bring 4 quarts water and 1/4 cup salt to a boil in a Dutch oven over high heat. Add the broccoli (or cauliflower) and cook until just tender but still with a bit of a bite, about 3 minutes. Drain, spread on a rimmed baking sheet. and set aside.
 3. [ ] Place the whole milk in a small bowl and sprinkle the gelatin evenly over the top. Set aside to soften.

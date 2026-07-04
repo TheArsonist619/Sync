@@ -39,8 +39,7 @@ image: kitchari.webp
 - [ ] 1/2 tsp salt
 - [ ] 2 cups water, 2.5 for saucier
 
-## Preparation
-
+## Directions
 1.  [ ] Wash the lentils and rice then soak in hot water for 15 minutes. 
     
 2. [ ] Heat the Instant Pot on saute. Add oil and let it heat up. Add cumin or mustard seeds and cook for half a minute. 

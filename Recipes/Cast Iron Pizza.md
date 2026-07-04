@@ -14,6 +14,8 @@ Meal:
 Difficulty: Medium
 Author: Kenji Lopez-Alt
 image: castironpizza.webp
+aliases:
+  - Pan Pizza
 ---
 
 ![[z-Assets/Images/castironpizza.webp|hs-med locr]]
@@ -41,8 +43,7 @@ image: castironpizza.webp
     
 - [ ] 2 ounces grated Parmesan or Pecorino Romano cheese (optional)
 
-## Preparation
-
+## Directions
 1. [ ] Combine flour, salt, yeast, water, and oil in a large bowl. Mix with hands or a wooden spoon until no dry flour remains. (The bowl should be at least 4 to 6 times the volume of the dough to account for rising.)
 
 2. [ ] Cover bowl tightly with plastic wrap, making sure that the edges are well sealed, then let rest at cool room temperature (no warmer than 75°F or 24°C) for at least 8 hours and up to 24. Dough should rise dramatically and fill bowl. In a hot kitchen, the dough may overproof near the end of that range.

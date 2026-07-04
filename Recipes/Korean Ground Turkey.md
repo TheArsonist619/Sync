@@ -31,7 +31,7 @@ image: koreanturkey.webp
 - [ ] 2 teaspoons sesame seeds
 - [ ] 2 scallions, greens only, sliced
 
-## Preparation
+## Directions
 1. [ ] Combine the soy sauce, brown sugar, cornstarch, ground ginger, red pepper flakes, and black pepper in a bowl and stir to mix. Set aside.
     
 2. [ ] Add the sesame oil to a large saute pan or skillet and bring over medium heat. Once the oil is hot, add the ground turkey and stir to break them up and coat them in the oil. Cook the ground turkey for about 2 minutes, breaking up with a spoon, until it starts to break into chunks and “brown.” Add the chopped onion and stir together. Continue to cook, stirring occasionally, for another 4 minutes or so until the turkey is cooked through and broken into small chunks and the onions are softened. Add the garlic and stir together. Cook for another 30-60 seconds.

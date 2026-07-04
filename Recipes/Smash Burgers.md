@@ -9,6 +9,7 @@ Cuisine:
 Type:
   - Main
   - Party
+  - Camping
 Meal:
   - Dinner
   - Lunch
@@ -31,8 +32,7 @@ image: smashburgers.webp
     
 - [ ] 1 slice good melting cheese, such as [American](https://www.seriouseats.com/the-burger-lab-what-is-the-best-american-cheese-for-cheeseburgers-taste-test), [cheddar](https://www.seriouseats.com/best-cheddar-cheese-for-cheeseburgers-taste-test-7500466), or [homemade melting cheese](https://www.seriouseats.com/seared-burgers-with-easy-melting-comte-cheese-slices-recipe)
 
-## Preparation
-
+## Directions
 1. [ ] Prepare burger bun by laying toppings on bottom half of bun. Have it nearby and ready for when your burger is cooked.
 
 2. [ ] Preheat a large stainless steel sauté pan or skillet over high heat for 2 minutes. Place balls of beef in pan and smash down with a stiff metal spatula, using a second spatula to add pressure. Smashed patties should be slightly wider than burger bun.

@@ -35,7 +35,7 @@ image: risottoscallop.webp
 - [ ] 1/2 cup freshly grated Parmigiano-Reggiano 
 - [ ] Fresh flat-leaf parsley, for garnish
 
-## Preparation
+## Directions
 1. [ ] Place a large, deep skillet over medium-high heat and drizzle with a 2-count of oil. When the oil is hot, sprinkle the scallops with salt and pepper and brown well on both sides, about 2 minutes. Remove to a plate and cover to keep warm while you make the risotto. 
 2. [ ] Reduce the heat to medium. Drizzle in another 2-count of olive oil. Add the onion and garlic and cook, stirring, for 5 minutes until soft. Toss in the mushrooms and herbs and cook until the mushrooms lose their liquid and are lightly browned, about 10 minutes. Season with salt and pepper. Add the rice and stir 2 minutes to coat with the oil; the grains will turn opaque. Season again. Stir in the wine and cook 1 minute to evaporate the alcohol.
 3. [ ] Now pour in 1 cup of the warm stock and stir with a wooden spoon until the rice has absorbed all of the liquid. Add another cup of stock. Continue in this way, stirring constantly and adding the stock 1 cup at a time, allowing the rice to absorb the liquid before adding more. (You may not need all of the stock; the risotto is done when it is slightly firm but creamy.) Fold in the scallops with the last cup of stock to warm them up. When the risotto is cooked, fold in the butter and cheese, and drizzle with a little more olive oil. Serve hot. Garnish with parsley.

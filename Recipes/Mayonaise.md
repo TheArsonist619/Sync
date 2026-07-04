@@ -11,6 +11,8 @@ Meal:
 Difficulty: Easy
 Author: Kenji Lopez-Alt
 image: mayonaise.webp
+aliases:
+  - Mayo
 ---
 
 ![[z-Assets/Images/mayonaise.webp|locr hs-med]]
@@ -29,17 +31,15 @@ image: mayonaise.webp
     
 - [ ] Kosher salt
 
-## Preparation
-
+## Directions
 1. [ ] Egg, lemon juice, and mustard in the bottom of a glass jar just large enough to fit the head of an immersion blender.
 2. [ ] Add garlic, if using. Pour oil on top and allow to settle for 15 seconds. Place head of immersion blender at bottom of cup and turn it on high speed. Do not pulse or move the head. As mayonnaise forms, slowly tilt and lift the head of the immersion blender until all oil is emulsified. Season mayonnaise to taste with salt. Refrigerate in an airtight container for up to 2 weeks.
-
-## Special Equipment
-
-[Immersion blender](https://www.seriouseats.com/best-immersion-blenders)
 
 ## Notes
 
 It is imperative that the jar you use be just slightly larger than the head of the immersion blender, and the egg/lemon mixture must be in contact with the blades of the blender before you switch it on for this to work. The head of the blender must be firmly planted against the bottom of the jar until the mayonnaise starts to come together. If you can't find a jar the right size, double the recipe in order to increase the starting volume of the egg/lemon mixture.
 
-If your mayonnaise is watery, that means it has not emulsified properly. Let the mixture settle and separate, then try blending again.
+If your mayonnaise is watery, that means it has not emulsified properly. Let the mixture settle and separate, then try blending again.## Special Equipment
+
+[Immersion blender](https://www.seriouseats.com/best-immersion-blenders)
+

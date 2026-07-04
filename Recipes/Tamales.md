@@ -31,7 +31,7 @@ image: tamales.webp
 - [ ] 3 oz(CHECK) Guajillo chiles
 - [ ] 2 handfuls(Candi sized) chile de arbol
 - [ ] Hojas
-#### Sauce
+**Sauce**
 - [ ] 1/2 onion
 - [ ] 5 garlic cloves
 - [ ] 1/2 tsp cumin

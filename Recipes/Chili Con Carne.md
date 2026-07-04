@@ -15,6 +15,9 @@ Meal:
 Difficulty: Hard
 Author: Kenji Lopez-Alt
 image: chiliconcarne.webp
+aliases:
+  - Texax Chili
+  - Chili
 ---
 
 ![[z-Assets/Images/chiliconcarne.webp|hs-med locr]]
@@ -60,8 +63,7 @@ image: chiliconcarne.webp
 - [ ] Cilantro, chopped onions, scallions, grated cheese, avocado, and warm tortillas for serving as desired
 
 
-## Preparation
-
+## Directions
 1. [ ] Add dried chiles to a large heavy-bottomed Dutch oven or stock pot and cook over medium-high heat, stirring frequently, until slightly darkened with intense, roasted aroma, 2 to 5 minutes. Do not allow to smoke. Remove chiles to a 2 quart microwave-safe liquid measuring cup or bowl, set aside. (Alternatively, place dried chiles on a microwave-safe plate and microwave on high power in 15-second increments until pliable and toasted-smelling, about 30 seconds total. Transfer to a 2-quart microwave-safe liquid measuring cup or bowl.) Add half of chicken broth and chipotle chiles and their sauce, cover with plastic wrap, and microwave on high power until gently simmering, about 5 minutes. Remove from microwave and set aside for 5 minutes. Transfer chiles and liquid to blender and blend, starting on the lowest possible setting and gradually increasing speed to high (make sure to hold the lid down with a clean kitchen towel or a potholder to prevent it from blowing out). Blend until smooth, about 1 minute.
  
 2. [ ] Season beef cubes generously with salt and pepper. Heat oil in the base of a Dutch oven over high heat until just starting to smoke. Add half of the beef cubes in a single layer and cook until deeply browned on a single side, about 3 minutes. Remove from pot, set aside with remaining unseared beef.

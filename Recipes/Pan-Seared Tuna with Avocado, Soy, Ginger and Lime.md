@@ -35,7 +35,6 @@ image: pansearedtuna.webp
 - [ ] 1 (6-ounce) block sushi-quality tuna 
 - [ ] 1 ripe avocado, halved, peeled, pitted, and sliced
 
-## Preparation
-
+## Directions
 1. [ ] In a mixing bowl, combine the cilantro, jalapeno, ginger, garlic, lime juice, soy sauce, sugar, salt, pepper, and 2 tablespoons of olive oil. Stir the ingredients together until well incorporated. 
 2.  [ ] Place a skillet over medium-high heat and coat with the remaining 2 tablespoons of olive oil. Season the tuna generously with salt and pepper. Lay the tuna in the hot oil and sear for 1 minute on each side to form a slight crust. Pour 1/2 of the cilantro mixture into the pan to coat the fish. Serve the seared tuna with the sliced avocado and the remaining cilantro sauce drizzled over the whole plate.

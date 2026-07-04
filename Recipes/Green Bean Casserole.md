@@ -24,4 +24,4 @@ image: greenbeancasserole.webp
 
 
 
-## Preparation
+## Directions

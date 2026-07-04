@@ -65,8 +65,7 @@ image: tacosalpastor.webp
     
 - [ ] 3 to 4 limes, cut into 8 wedges each
 
-## Preparation
-
+## Directions
 1. [ ] Place chiles in a large saucepan over medium high heat and cook, turning chiles occasionally, until puffed, pliable, lightly browned in spots, and very aromatic, about 5 minutes. Add chicken stock (it should boil immediately), then pour contents of pan into a small bowl. Cover loosely and set aside.
 
 2. [ ] Wipe out saucepan, add oil, and return to medium-high heat until oil is shimmering. Add cumin, oregano, and achiote and cook, stirring frequently, until aromatic but not browned, about 30 seconds. Add chipotle chile and sauce and cook until aromatic, about 30 seconds longer. Add vinegar, salt, and sugar and remove from heat.

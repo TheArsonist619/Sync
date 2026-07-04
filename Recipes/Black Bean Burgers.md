@@ -56,8 +56,7 @@ image: blackbeanburgers.webp
 - [ ] Toppings as desired, such as shredded lettuce, sliced onions, and pickles
 
 
-## Preparation
-
+## Directions
 1. [ ] Adjust oven rack to center position and preheat oven to 350°F (175°C). Spread black beans in a single layer on a foil-lined rimmed baking sheet. Roast until beans are mostly split open and outer skins are beginning to get crunchy, about 20 minutes. Remove from oven and allow to cool slightly.
 
 2. [ ] While beans roast, heat 2 tablespoons oil in a medium skillet over medium-high heat until shimmering. Add onion and poblano and cook, stirring frequently, until softened, about 5 minutes. Add garlic and cook, stirring constantly, until fragrant, about 2 minutes. Add chipotle chile and sauce and cook, stirring, until fragrant, about 30 seconds. Transfer mixture to a large bowl.

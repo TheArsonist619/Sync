@@ -1,8 +1,12 @@
 ---
 tags:
+  - carrots
+  - yogurt
+  - feta
+  - pistachios
 source: https://shredhappens.substack.com/p/mediterranean-charred-carrots
 Cuisine:
-  - Mediterranian
+  - Mediterranean
 Type:
   - Side
   - Party
@@ -17,41 +21,37 @@ image: medicarrots.webp
 
 ## Ingredients
 
-#### For the Charred Carrots
-
-- 2 pounds carrots
+**For the Charred Carrots**
+- [ ] 2 pounds carrots
     
-- 2 tablespoons olive oil
+- [ ] 2 tablespoons olive oil
     
-- 1/2 tsp sweet paprika
+- [ ] 1/2 tsp sweet paprika
     
-- 1/2 tsp onion powder
+- [ ] 1/2 tsp onion powder
     
-- A couple pinches salt & pepper
-    
-
-#### For the Whipped Feta
-
-- 1/2 small lemon (zest and juice)
-    
-- 1 cup thick greek yogurt
-    
-- 3-4 ounces feta
+- [ ] A couple pinches salt & pepper
     
 
-#### Toppings
-
-- 2 to 3 tablespoons crushed pecans or pistachios
+**For the Whipped Feta**
+- [ ] 1/2 small lemon (zest and juice)
     
-- 2 tablespoons finely chopped dill/mint/parsley (use one, or all)
+- [ ] 1 cup thick greek yogurt
     
-- 1-2 tbsp honey drizzles
-    
-- Aleppo pepper or sumac
+- [ ] 3-4 ounces feta
     
 
-## **Directions**
+**Toppings**
+- [ ] 2 to 3 tablespoons crushed pecans or pistachios
+    
+- [ ] 2 tablespoons finely chopped dill/mint/parsley (use one, or all)
+    
+- [ ] 1-2 tbsp honey drizzles
+    
+- [ ] Aleppo pepper or sumac
+    
 
+## Directions
  1. [ ] Preheat your oven to 450°F.
  2. [ ] Peel 2 pounds of small carrots and slice any thick ones in half lengthwise so they roast evenly.
  3. [ ] Toss the carrots with 2 tbsp olive oil, salt, sweet paprika, onion powder, then spread them on a baking sheet. Roast for 18-20 minutes until the edges are dark and blistered.

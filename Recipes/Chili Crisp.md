@@ -21,7 +21,7 @@ image: chilicrisp.webp
 
 ![[z-Assets/Images/chilicrisp.webp|hs-med locr]]
 
-## Ingredients 
+## Ingredients
 
 - [ ] 27 g (1 cup) dried árbol chiles, stems removed (see note)
     
@@ -58,8 +58,7 @@ image: chilicrisp.webp
 - [ ] 3/4 cup (65 g) thinly sliced garlic (about 1mm thick; see note)
 
 
-## Preparation
-
+## Directions
 1. [ ] Put on disposable latex gloves.
     
 2. [ ] Place a wire rack inside a quarter- or half-sheet tray. Using your hands and kitchen shears, cut open chiles and place them on rack. Shake rack to sift off most of the seeds (don't worry about removing all the seeds). Transfer chiles to a bowl and discard seeds. Using a spice grinder and working in batches, process chiles until they are ground to a size just larger than standard chile flakes. Transfer processed chiles to a heatproof bowl or pot large enough to accommodate bubbling oil (at least 4 quarts in size). Combine chile flakes with peanuts, ginger, star anise, cardamom, Sichuan peppercorn, mushroom powder, sugar, salt, cumin, MSG (if using), and black pepper. Set aside.
@@ -78,6 +77,5 @@ You can find Sichuan peppercorns online at The Málà Market.
 
 The easiest way to thinly slice the shallots and garlic is to use a mandoline.
 
-## Make-Ahead and Storage
-
 Chili crisp should be refrigerated in an airtight container for up to 3 months; it's very important, however, that the garlic and shallots are fried until fully crisp, as garlic and shallots that still have water content carry the risk of botulism.
+

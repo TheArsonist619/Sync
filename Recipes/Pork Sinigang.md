@@ -38,8 +38,7 @@ image: porksinigang.webp
     
 - [ ] ½ pound fresh green beans, trimmed
 
-## Preparation
-
+## Directions
 1. [ ] Heat vegetable oil in a skillet over medium heat. Add onion; cook and stir until softened and translucent, about 5 minutes. Season with salt.
     
     ![Overhead of onions cooking on a skillet.](https://www.allrecipes.com/thmb/DWE3_ls3D1OcQJ_J-_fiisASH8E=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/204958-pork-sinigang-mfs-step-1-6a49a6c5f05941bbbbe91ed06a471532.jpg)

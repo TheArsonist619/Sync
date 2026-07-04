@@ -27,8 +27,7 @@ image: currylimecauliflower.webp
 - [ ] juice of 1 lime + zest  
 - [ ] 1-2 cloves garlic, minced  
 - [ ] 1 tablespoon fresh chopped cilantro
-## Preparation
-
+## Directions
 1. [ ] Preheat the oven to 450F and line a large baking sheet with parchment paper.  
 2. [ ] In a large bowl, drizzle the cauliflower pieces with avocado oil and season evenly with the curry powder, and cumin. Season with a generous pinch of salt and pepper, and toss together.  
 3. [ ] Roast for 15-20 minutes, tossing halfway through, until the cauliflower begins to brown and crisp up on the edges. Set Aside to cool slightly.  

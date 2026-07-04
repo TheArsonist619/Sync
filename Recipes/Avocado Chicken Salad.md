@@ -40,8 +40,7 @@ image: avocadochickensalad.webp
 - [ ] 1 tsp [sea salt](https://amzlink.to/az0CIpYZjvBmu), or to taste
 - [ ] 1/8 tsp black pepper
 
-## Preparation
-
+## Directions
 - [ ] **Dice** or shred the 2 large cooked chicken breasts and place them into a large mixing bowl.
     
 - [ ] **Peel** and pit 2 large avocados, slice into bite-sized pieces and add to the mixing bowl.
@@ -51,7 +50,7 @@ image: avocadochickensalad.webp
 - [ ] **Make the dressing** – add the ingredients in a small bowl and stir to combine. Drizzle the dressing over your salad and toss to combine. Serve with slices of hard-boiled egg if desired.
     
 
-### Notes
+## Notes
 
 *Use rotisserie chicken, cook your own chicken breast seasoned with salt and pepper, or use well-drained canned chicken.  
 **For a healthier salad, you can use uncured turkey bacon which tastes amazing but has less fat. 

@@ -35,8 +35,7 @@ image: sweetpotatocasserole.webp
 - [ ]  1/4 teaspoon kosher salt
 - [ ]  3/4 cup chopped pecans
 
-## Preparation 
-
+## Directions
 1. [ ] Mix oats, dried fruit, seeds, milk and salt in a pint jar or 2-cup airtight resealable container. Seal tightly and refrigerate for at least 5 hours or up to 5 days. (The soaked oat mixture will keep in the refrigerator for up to 5 days.)
 2. [ ] 
 3. [ ] Uncover, stir well, and taste. If you prefer more sweetness, stir in some sweetener. Top with the nuts just before eating.

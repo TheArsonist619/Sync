@@ -32,8 +32,7 @@ Yield:2 cups
     
 - [ ] 2 tablespoons chopped or sliced nuts, toasted, if desired
 
-## Preparation
-
+## Directions
 1. [ ] Step 1
     
     Mix oats, dried fruit, seeds, milk and salt in a pint jar or 2-cup airtight resealable container. Seal tightly and refrigerate for at least 5 hours or up to 5 days. (The soaked oat mixture will keep in the refrigerator for up to 5 days.)

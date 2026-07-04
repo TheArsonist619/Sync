@@ -36,7 +36,7 @@ image: bunuelos.webp
 
 
 
-## Preparation
+## Directions
 1. [ ] Mix together. Get consistency right, slightly tacky and stiff. Fry in oil.
 
 2. [ ] Pour boiling water over piloncillo to let it melt, 5 minutes. bring to boil and simmer for 15-30 minutes. 

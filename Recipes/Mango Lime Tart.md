@@ -28,8 +28,7 @@ image: mangolimetart.webp
 - [ ] 1 cup heavy cream divided
 - [ ] 1/4 cup cream of coconut
 
-## Preparation
-
+## Directions
 1. [ ] Preheat oven to 350 degrees Fahrenheit.
     
 2. [ ] In the bowl of a food processor, or in a medium mixing bowl, pulse or stir together the cookie crumbs, butter, 1/4 cup of the sugar, and salt until completely combined. Press the mixture into a 9” tart pan so that it covers the bottom and the sides completely. Place on a baking sheet and bake for 10 minutes. Remove from the oven and baking sheet and cool on a rack until ready to use.

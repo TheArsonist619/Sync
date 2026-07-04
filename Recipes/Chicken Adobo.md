@@ -28,6 +28,6 @@ image: chickenadobo.webp
 
 
 
-## Preparation
+## Directions
 - [ ] Marinate at least 1 hour
 - [ ] Bring to boil and simmer for 40 minutes

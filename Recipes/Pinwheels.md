@@ -11,6 +11,8 @@ Meal:
 Difficulty:
 Author: Paula Deen
 image: pinwheels.webp
+aliases:
+  - holiday cookies
 ---
 
 ![[z-Assets/Images/pinwheels.webp]]
@@ -29,8 +31,7 @@ image: pinwheels.webp
 - [ ] 1 teaspoon ~~peppermint~~ vanilla extract
 - [ ] ~~1 teaspoon red food coloring~~
 - [ ] Powdered sugar, for rolling out dough
-## Preparation
-
+## Directions
 Special equipment: 24 lollipop sticks
 
 1. [ ] Sift together the flour, salt and baking powder and set aside.

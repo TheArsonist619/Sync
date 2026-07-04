@@ -58,8 +58,7 @@ image: chickenmushroomoystersauce.webp
     
 - [ ] Cooked white rice, for serving
 
-## Preparation
-
+## Directions
 1. [ ] **For the Velveted Chicken:** In a small bowl, thoroughly combine egg white, cornstarch, rice wine, and salt. Place chicken in a bowl and add cornstarch mixture, tossing to combine. Refrigerate for 30 minutes.
     
     ![Overhead view of chicken strips marinating in cornstarch-egg white mixture.](https://www.seriouseats.com/thmb/7T_Q-AM6xJDw6EY-kfNLSaQIifw=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__20140714-chicken-with-mushrooms-and-oyster-sauce-shao-zhong-1-1e14eef9f2514831829c33a3d86286b9.jpg)

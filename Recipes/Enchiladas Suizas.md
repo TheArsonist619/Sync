@@ -15,6 +15,8 @@ Meal:
 Difficulty: Medium
 Author: Marcela Valladolid
 image: enchiladassuizas.webp
+aliases:
+  - Enchiladas Verdes
 ---
 ![[z-Assets/Images/enchiladassuizas.webp|locr hs-med]]
 
@@ -38,7 +40,7 @@ image: enchiladassuizas.webp
 - [ ] 1/2 cup shredded Oaxaca or mozzarella cheese
 
 
-## Preparation
+## Directions
 1. [ ] Preheat the oven to 350 degrees F. 
 2. [ ] Put the tomatillos, onion and both chiles in a medium heavy saucepan, cover with water and bring to a boil over medium-high heat. Boil until the tomatillos turn an olive-green color, about 10 minutes. Drain and transfer the tomatillos, onions and chiles to a blender. Add the garlic and cilantro and blend until smooth. Season with salt and freshly ground black pepper. 
 3. [ ] Mix the Mexican crema and heavy cream together in a small bowl and season with salt. Set aside. 

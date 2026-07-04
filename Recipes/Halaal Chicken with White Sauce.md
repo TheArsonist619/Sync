@@ -14,6 +14,8 @@ Meal:
 Difficulty: Medium
 Author: Kenji Lopez-Alt
 image: halaalchicken.webp
+aliases:
+  - Chicken with White Sauce
 ---
 
 
@@ -82,9 +84,7 @@ image: halaalchicken.webp
     
 - [ ] Harissa-style hot sauce, for serving
 
-## Preparation
-
-
+## Directions
 1. [ ] **For the chicken:** Combine the lemon juice, oregano, coriander, garlic, and olive oil in a blender. Blend until smooth. Season the marinade to taste with kosher salt and black pepper. Place the chicken in a 1-gallon zipper-lock bag and add half of the marinade (reserve the remaining marinade in the refrigerator). Turn the chicken to coat, seal the bag, and marinate the chicken in the refrigerator for at least 1 hour and up to 4 hours, turning occasionally to redistribute the marinade (see Note).
 
 2. [ ] Remove the chicken from the bag and pat it dry with paper towels. Season with kosher salt and pepper, going heavy on the pepper. Heat the oil in a 12-inch heavy-bottomed cast iron or stainless-steel skillet over medium-high heat until it is lightly smoking. Add the chicken pieces and cook without disturbing until they are lightly browned on the first side, about 4 minutes. Using tongs, flip the chicken. Reduce the heat to medium and cook until the chicken is cooked through and the center of each thigh registers 165°F. on an instant-read thermometer, about 6 minutes longer. Transfer the chicken to a cutting board and allow to cool for 5 minutes.

@@ -1,5 +1,9 @@
 ---
 tags:
+  - rice
+  - christmas
+  - milk/evaporated
+  - milk/sweetenedcondensed
 source: https://www.foodnetwork.com/recipes/marcela-valladolid/mexican-rice-pudding-arroz-con-leche-recipe-1921815
 Cuisine:
   - Mexican

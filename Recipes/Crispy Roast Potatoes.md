@@ -34,8 +34,7 @@ image: crispyroastpotatoes.webp
     
 - [ ] Small handful fresh parsley leaves, minced
 
-## Preparation
-
+## Directions
 1. [ ] Adjust oven rack to center position and preheat oven to 450°F (230°C) or 400°F (200°C) if using convection. Heat 2 quarts (2L) water in a large pot over high heat until boiling. Add 2 tablespoons kosher salt (about 1 ounce; 25g), baking soda, and potatoes and stir. Return to a boil, reduce to a simmer, and cook until a knife meets little resistance when inserted into a potato chunk, about 10 minutes after returning to a boil.
     
 2. [ ] Meanwhile, combine olive oil, duck fat, or beef fat with rosemary, garlic, and a few grinds of black pepper in a small saucepan and heat over medium heat. Cook, stirring and shaking pan constantly, until garlic just begins to turn golden, about 3 minutes. Immediately strain oil through a fine-mesh strainer set in a large bowl. Set garlic/rosemary mixture aside and reserve separately.

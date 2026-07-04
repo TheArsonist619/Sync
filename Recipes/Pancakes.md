@@ -30,8 +30,7 @@ image: pancakes.webp
 - [ ] 1/4 apple cider vinegar
 - [ ] 3 eggs
 
-## Preparation
-
+## Directions
 1. [ ] whisk dry stuff. whisky wet stuff. Combine and fold together 20-25 times. **Do not over mix.  Lumps are okay**
 2. [ ] salted whipped butter is preffered
 3. [ ] 1/4 cup per pancake. Do no mix when scooping. Do not press down

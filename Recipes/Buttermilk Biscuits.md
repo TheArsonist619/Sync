@@ -38,8 +38,7 @@ image: biscuits.webp
 - [ ] 8 tablespoons cold unsalted butter (4 ounces; 113 g), cut into 1/4-inch pats, plus 2 tablespoons (1 ounce; 28 g) melted unsalted butter for brushing
 
 
-## Preparation
-
+## Directions
 1. [ ] Adjust an oven rack to the middle position and preheat the oven to 425°F (220°C). In a small bowl, whisk together the buttermilk and sour cream.
     
     ![Buttermilk and sour cream being whisked together in a bowl.](https://www.seriouseats.com/thmb/5gkttqsTLvQ0bpyMbc4md8VW9yU=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/20210510-The-Food-Labs-Buttermilk-Biscuits-liz-voltz-seriouseats-7e446255edf248bfaadeeea82c9b1863.jpg)
@@ -73,10 +72,9 @@ image: biscuits.webp
     
     
 
-## Special Equipment
+## Notes
+
+**To make cheddar cheese and scallion biscuits:** In Step 4, sprinkle 6 ounces grated cheddar cheese and 1/4 cup sliced scallions over the 12- by 8-inch dough rectangle before folding it the second time, and continue as directed.## Special Equipment
 
 [Food processor](https://www.seriouseats.com/best-food-processor-equipment-review), 2 1/2-inch [biscuit cutter](https://www.seriouseats.com/guide-to-essential-baking-tools), [rolling pin](https://www.seriouseats.com/how-to-choose-the-best-rolling-pin), [bench scraper](https://www.seriouseats.com/best-bench-scrapers-6341995), [rimmed baking sheet](https://www.seriouseats.com/best-half-sheet-pans-6385742), [rubber or silicon spatula](https://www.seriouseats.com/best-silicone-spatulas-6361864), [parchment paper](https://www.seriouseats.com/parchment-paper-vs-silicone-baking-mats-8405032)
 
-## Notes
-
-**To make cheddar cheese and scallion biscuits:** In Step 4, sprinkle 6 ounces grated cheddar cheese and 1/4 cup sliced scallions over the 12- by 8-inch dough rectangle before folding it the second time, and continue as directed.

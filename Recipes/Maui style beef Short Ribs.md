@@ -14,6 +14,8 @@ Meal:
 Difficulty: Easy
 Author: N/A
 image: mauishortribs.webp
+aliases:
+  - Hawaiian short ribs
 ---
 
 ![[z-Assets/Images/mauishortribs.webp|locr hs-med]]
@@ -28,5 +30,5 @@ image: mauishortribs.webp
 
 
 
-## Preparation
+## Directions
 - [ ] Place short ribs in shallow dish and try not to overlap. Combine ingredients and stir to dissolve sugar. Pour over ribs. Cover and marinate for at least 8 hours to overnight. Cook on grill at high heat. 

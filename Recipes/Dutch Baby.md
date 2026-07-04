@@ -13,6 +13,8 @@ Meal:
 Difficulty: Easy
 Author: Alton Brown
 image: dutchbaby.webp
+aliases:
+  - Dutch Pancake
 ---
 
 
@@ -29,8 +31,7 @@ image: dutchbaby.webp
 - [ ] [confectioners' sugar](https://shrsl.com/49k77), for serving
 - [ ] Lemon wedges, for serving
 
-## Procedure
-
+## Directions
 1.  [ ] Heat oven to 375ºF.
     
 2. [ ] Put 1 tablespoon butter in a 10-inch cast-iron skillet and heat the skillet in the oven for 10 minutes. Melt the remaining 2 tablespoons butter and set aside to cool slightly.

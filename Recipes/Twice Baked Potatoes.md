@@ -35,8 +35,7 @@ image: twicebakedpotatoes.webp
 - [ ] ½ teaspoon salt
     
 - [ ] ½ teaspoon ground black pepper
-## Preparation
-
+## Directions
 1. [ ] Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C).
     
     ![an overhead view of everything to make the ultimate twice baked potatoes.](https://www.allrecipes.com/thmb/SbBHE6IvUMy9Jn4i4YDGZoo5M-Q=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/24332-ultimate-twice-baked-potato-DDMFS-step-01-1598-78266aba7f4949a88c8f0f45fa58bebf.jpg)

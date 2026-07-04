@@ -21,8 +21,7 @@ image: Magicgreensauce.webp
 
 
 ## Ingredients
-####   Roasted Vegetables
-
+**Roasted Vegetables**
 - [ ] 1 large sweet potato (chopped)
 - [ ] 6-7 baby yellow or red potatoes (quartered)
 - [ ] 2 whole carrots (halved and chopped)
@@ -33,8 +32,7 @@ image: Magicgreensauce.webp
 - [ ] 2 cups chopped red cabbage
 - [ ] 1 medium red bell pepper (sliced)
 
-#### Magic Green Sauce
-
+**Magic Green Sauce**
 - [ ] 5 cloves garlic (peeled and crushed)
 - [ ] 1 medium serrano or jalapeño pepper (seeds + stems removed // omit if not into spicy food)
 - [ ] 1 cup packed cilantro (thick bottom stems cut off)
@@ -45,14 +43,12 @@ image: Magicgreensauce.webp
 - [ ] 1 Tbsp maple syrup (or other sweetener of choice)
 - [ ] Water to thin (~3 Tbsp or 45 ml as original recipe is written)
 
-#### Salad
-
+**Salad**
 - [ ] 4 cups hearty greens (spinach, kale, or mustard greens // chopped)
 - [ ] 1 medium ripe avocado (chopped)
 - [ ] 3 Tbsp hemp seeds
 - [ ] fresh herbs (cilantro, parsley, thyme, etc. // _optional_)
 - [ ] 5-7 medium sliced radishes (_optional_)
 - [ ] 1/4 cup [](https://minimalistbaker.com/5-minute-macadamia-cheese-vegan-crudite/)[Macadamia Nut Cheese](https://minimalistbaker.com/5-minute-macadamia-cheese-vegan-crudite/) (_optional_)
-## Preparation
-
+## Directions
 1. [ ] sample

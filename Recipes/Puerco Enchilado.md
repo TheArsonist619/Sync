@@ -28,8 +28,7 @@ image: puercoenchilado.webp
 - [ ] salt and pepper
 - [ ] season with salt, pepper and garlic powder
 
-## Preparation
-
+## Directions
 1. [ ] Boil chiles until soft. Blend with tomatoes, onion and garlic. Blend until very fine. Strain solids. 
 2. [ ] cook ribs in a pan with a little bit of water until well done. 
 3. [ ] Add sauce to pork with cumin, salt, pepper and bay leaf.

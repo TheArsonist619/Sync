@@ -13,6 +13,8 @@ Meal:
 Difficulty: Hard
 Author: N/A
 image: stuffedchickenbreast.webp
+aliases:
+  - Chicken breasts with Spinach and Sun-dried Tomatoes
 ---
 ![[z-Assets/Images/stuffedchickenbreast.webp|locr hs-med]]
 
@@ -22,4 +24,4 @@ image: stuffedchickenbreast.webp
 
 
 
-## Preparation
+## Directions

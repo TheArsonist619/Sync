@@ -1,9 +1,9 @@
 ---
 tags:
   - beef
-  - chuckroast
+  - beef/chuckroast
   - mushrooms
-  - eggnoodles
+  - pasta/eggnoodles
 source: https://www.seriouseats.com/rich-and-creamy-slow-cooker-beef-stroganoff-recipe-11892781
 Cuisine:
   - American
@@ -23,9 +23,6 @@ image: beefstroganoff.webp
 >[Betty Crocker](https://www.bettycrocker.com/recipes/traditional-beef-stroganoff-recipe/c17a904f-a8f6-48ae-bedb-5b301a8ea317)
 >[AllRecipes](https://www.allrecipes.com/recipe/25202/beef-stroganoff-iii/)
 > 
-## Note
-
-
 
 ## Ingredients
 
@@ -63,8 +60,7 @@ image: beefstroganoff.webp
     
 - [ ] 1 1/2 tablespoons minced parsley, for serving
 
-## Preparation
-
+## Directions
 1. [ ] Using paper towels, blot beef dry and season generously season with salt and pepper.
     
 2. [ ] In a large carbon steel, cast iron, or stainless steel skillet, heat oil over high heat until just smoking. Add half of the meat and cook until browned all over, flipping occasionally, 6 to 8 minutes.
@@ -102,10 +98,10 @@ image: beefstroganoff.webp
     Serious Eats / Melati Citrawireja
     
 
+## Notes
+
+Leftovers can be refrigerated in an airtight container for up to 5 days. Once cooled, the stew can be frozen in an airtight container for up to 1 month. Thaw overnight in the fridge and reheat in the microwave until warmed through.
+
 ## Special Equipment
 
 Large carbon steel, cast iron, or stainless steel skillet, slow cooker
-
-## Make-Ahead and Storage
-
-Leftovers can be refrigerated in an airtight container for up to 5 days. Once cooled, the stew can be frozen in an airtight container for up to 1 month. Thaw overnight in the fridge and reheat in the microwave until warmed through.
