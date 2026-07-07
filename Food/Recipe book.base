@@ -1,0 +1,72 @@
+views:
+  - type: cards
+    name: All
+    filters:
+      and:
+        - file.folder.contains("Recipes")
+    order:
+      - file.name
+      - aliases
+      - tags
+    image: note.image
+    cardSize: 180
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.contains("Recipes")
+    order:
+      - file.name
+      - Difficulty
+      - Cuisine
+      - Meal
+      - aliases
+      - Author
+      - tags
+      - source
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Author
+        direction: ASC
+      - property: Cuisine
+        direction: ASC
+      - property: aliases
+        direction: DESC
+      - property: Meal
+        direction: DESC
+      - property: Difficulty
+        direction: DESC
+    image: note.image
+    cardSize: 180
+    columnSize:
+      note.Difficulty: 68
+      note.Cuisine: 90
+      note.Meal: 170
+      note.aliases: 157
+      note.Author: 167
+  - type: cards
+    name: Breakfast
+    filters:
+      and:
+        - file.folder.contains("Recipes")
+        - Meal.contains("Breakfast")
+    image: note.image
+    cardSize: 180
+  - type: cards
+    name: Lunch
+    filters:
+      and:
+        - file.folder.contains("Recipes")
+        - Meal.contains("Lunch")
+    image: note.image
+    cardSize: 180
+  - type: cards
+    name: Dinner
+    filters:
+      and:
+        - file.folder.contains("Recipes")
+        - Meal.contains("Dinner")
+        - '!file.folder.contains("Sync")'
+    image: note.image
+    cardSize: 180
