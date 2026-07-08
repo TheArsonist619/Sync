@@ -6,10 +6,10 @@ tags:
   - milk
 source: https://cooking.nytimes.com/recipes/1012636-simple-bread-pudding
 Cuisine: American
-Type: Side
+Type:
+  - Side
 Meal:
   - Breakfast
-  - Dessert
 Difficulty: Easy
 Author: Mark Bittman
 image: breadpudding.webp

@@ -2,13 +2,13 @@
 tags:
   - Beef/thinshortribs
   - grill
+  - party
 source: N/A
 Cuisine:
   - Hawaiian
   - Asian
 Type:
   - Main
-  - Party
 Meal:
   - Dinner
 Difficulty: Easy

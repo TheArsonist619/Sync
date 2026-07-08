@@ -7,12 +7,13 @@ tags:
   - milk/evaporated
   - parsley
   - cheese/cheddar
+  - party
+  - casserole
 source: The food Lab, p. 420
 Cuisine:
   - American
 Type:
   - Side
-  - Party
 Meal:
   - Dinner
   - Lunch

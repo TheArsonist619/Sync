@@ -1,10 +1,10 @@
 ---
 tags:
-  - pasta
   - garlic
   - parsley
   - wine
   - seafood/shrimp
+  - noodles
 source: The Food Lab, p. 690
 Cuisine: Italian
 Type: Main

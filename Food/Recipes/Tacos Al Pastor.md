@@ -3,12 +3,13 @@ tags:
   - pork/roast
   - tortilla/corn
   - chipotleinadobo
+  - party
+  - tacos
 source: https://www.seriouseats.com/tacos-al-pastor-recipe
 Cuisine:
   - Mexican
 Type:
   - Main
-  - Party
 Meal:
   - Dinner
 Difficulty: Medium

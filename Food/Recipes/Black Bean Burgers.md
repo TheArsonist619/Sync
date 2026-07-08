@@ -5,6 +5,7 @@ tags:
   - feta
   - cashews
   - hardboiledeggs
+  - sandwich
 source: https://www.seriouseats.com/the-best-black-bean-burger-recipe
 Cuisine:
   - American

@@ -4,14 +4,13 @@ tags:
   - christmas
   - milk/evaporated
   - milk/sweetenedcondensed
+  - party
 source: https://www.foodnetwork.com/recipes/marcela-valladolid/mexican-rice-pudding-arroz-con-leche-recipe-1921815
 Cuisine:
   - Mexican
 Type:
   - Side
-  - Party
 Meal:
-  - Dessert
 Difficulty: Easy
 Author: Marcela Valladolid
 image: arrozconleche.webp

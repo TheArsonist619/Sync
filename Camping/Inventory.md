@@ -13,139 +13,161 @@ kanban-plugin: board
 - [ ] Fishing Kayak
 - [ ] Albert Sleeping bag
 - [ ] Jamie Sleeping bag
+- [ ] birkenstock/camp shoes
 
 
 ## Camp supplies
 
-- [x] ball
-- [x] bikes
-- [x] helmets
-- [x] camp box
-- [x] mini generator
-- [x] pillows
-- [x] pocket knife
-- [x] storage racks
-- [x] water bottles
-- [x] fishing poles
-- [x] Fishing supplies
-- [x] axe
-- [x] canopy
-- [x] chairs
-- [x] duct tape
-- [x] frisbee
-- [x] hammocks
-- [x] Hatchet
-- [x] machete
-- [x] pendleton blanket
-- [x] sleeping bags
-- [x] Sleeping pads
-- [x] speaker
-- [x] table
-- [x] tent
-- [x] tent footprint
-- [x] Trash Bags
-- [x] wagon
-- [x] Green
+- [ ] ball
+- [ ] bikes
+- [ ] helmets
+- [ ] camp box
+- [ ] mini generator
+- [ ] pillows
+- [ ] pocket knife
+- [ ] storage racks
+- [ ] water bottles
+- [ ] fishing poles
+- [ ] Fishing supplies
+- [ ] axe
+- [ ] canopy
+- [ ] chairs
+- [ ] duct tape
+- [ ] frisbee
+- [ ] hammocks
+- [ ] Hatchet
+- [ ] machete
+- [ ] pendleton blanket
+- [ ] sleeping bags
+- [ ] Sleeping pads
+- [ ] speaker
+- [ ] table
+- [ ] tent
+- [ ] tent footprint
+- [ ] Trash Bags
+- [ ] wagon
+- [ ] Green
+- [ ] Lantern
+- [ ] multi tool
 
 
 ## Sleep/Hygiene
 
-- [x] swim trucks
-- [x] long sleeves for bugs
-- [x] slides/camp shoes
-- [x] sweater
-- [x] sandals
-- [x] shoes
+- [ ] long sleeves for bugs
+- [ ] slides/camp shoes
+- [ ] sweater
+- [ ] sandals
+- [ ] shoes
+- [ ] Wet wipes
 
 
 ## Groceries
 
 - [ ] all the snacks
-- [ ] american cheese
 - [ ] apples
 - [ ] bacon
 - [ ] bananas
 - [ ] beer
-- [ ] buns
 - [ ] butter
 - [ ] chips
+- [ ] creamer
+- [ ] eggs
+- [ ] fruit
+- [ ] gogurt
+- [ ] goldfish
+- [ ] granola
+- [ ] honey
+- [ ] kids drinks
+- [ ] loaf of bread
+- [ ] mayo
+- [ ] meat sticks
+- [ ] peanut butter
+- [ ] pickles
+- [ ] popcorn
+- [ ] potatoes
+- [ ] salad
+- [ ] smore stuff
+- [ ] snack cheese
+- [ ] tapatio
+- [ ] tortillas
+- [ ] wine
+- [ ] yogurt
+- [ ] yogurt drinks
+- [ ] uncrustubales
+- [ ] grahama cracker
+- [ ] bagels
+- [ ] deli meat
+- [ ] deli cheese
+- [ ] pancake mix
+- [ ] sour cream
+- [ ] cream cheese
+- [ ] foil containers
+- [ ] dino nuggets
+- [ ] chips
+
+
+## Home Pantry
+
+- [ ] onions
+- [ ] buns
 - [ ] chorizo
-- [x] cookies
-- [x] creamer
-- [x] eggs
-- [x] fruit
-- [x] gogurt
-- [x] goldfish
-- [x] granola
-- [x] ground beef
-- [x] Ham
-- [x] honey
-- [x] ketchup
-- [x] kids drinks
-- [x] loaf of bread
-- [x] mayo
-- [x] meat sticks
-- [x] onions
-- [x] peanut butter
-- [x] pickles
-- [x] popcorn
-- [x] potatoes
-- [x] salad
-- [x] shredded cheddar
-- [x] smore stuff
-- [x] snack cheese
-- [x] tapatio
-- [x] tortillas
-- [x] wine
-- [x] yogurt
-- [x] yogurt drinks
-- [x] spicy mayo
-- [x] mama lils
-- [x] uncrustubales
-- [x] grahama cracker
+- [ ] cookies
+- [ ] ground beef
+- [ ] spicy mayo
+- [ ] shredded cheddar
+- [ ] ketchup
+- [ ] mama lils
+- [ ] Ham
 
 
 ## Kitchen
 
-- [x] blackstone
-- [x] cast iron
-- [x] coffee mug
-- [x] cooler
-- [x] cutting board
-- [x] gloves
-- [x] hot saucex2
-- [x] kitchen table
-- [x] knife
-- [x] big propane
-- [x] salt/pepper/oil
-- [x] scale
-- [x] scissors
-- [x] spatulas, tongs, etc
-- [x] squeeze bottles
-- [x] travel cooler
-- [x] paper towels
-- [x] dish soap
-- [x] big bowl
-- [x] salad utensils
-- [x] Thermometer
+- [ ] blackstone
+- [ ] cast iron
+- [ ] coffee mug
+- [ ] cooler
+- [ ] cutting board
+- [ ] gloves
+- [ ] hot saucex2
+- [ ] kitchen table
+- [ ] knife
+- [ ] big propane
+- [ ] salt/pepper/oil
+- [ ] scale
+- [ ] scissors
+- [ ] spatulas, tongs, etc
+- [ ] squeeze bottles
+- [ ] travel cooler
+- [ ] paper towels
+- [ ] dish soap
+- [ ] big bowl
+- [ ] salad utensils
+- [ ] Thermometer
 
 
 ## Water
 
-- [x] beach toys
-- [x] dry bag
-- [x] float toys
-- [x] Kids boat
-- [x] paddles
-- [x] sunscreen
-- [x] SUP
-- [x] swim clothes
-- [x] towels
-- [x] pump
+- [ ] swim trunks
+- [ ] beach toys
+- [ ] dry bag
+- [ ] float toys
+- [ ] Kids boat
+- [ ] paddles
+- [ ] sunscreen
+- [ ] SUP
+- [ ] swim clothes
+- [ ] towels
+- [ ] pump
+- [ ] water shoes
 
 
 ## To do
 
+- [ ] grind coffee
+- [ ] sponge in bin
+- [ ] macrolens
+- [ ] bike lights
+- [ ] kite
 - [ ] charge radios
 
 
@@ -155,13 +177,7 @@ kanban-plugin: board
 
 ## Completed
 
-- [ ] marker/pen in car
-- [ ] grind coffee
-- [ ] soap in bin
-- [ ] bike lights
-- [ ] check bin for soap
 - [ ] head lamp batteries
-- [ ] sponge in bin
 
 
 ## Not this trip
@@ -169,8 +185,6 @@ kanban-plugin: board
 - [ ] hiking boots
 - [ ] bike pump
 - [ ] camp stove
-- [ ] macrolens
-- [ ] kite
 - [ ] ponchos
 
 
@@ -178,6 +192,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,false,false,false,false,false,true],"show-checkboxes":true,"lane-width":215,"tag-colors":[]}
+{"kanban-plugin":"board","list-collapse":[true,true,true,false,false,true,true,true,false,false,false],"show-checkboxes":true,"lane-width":215,"tag-colors":[]}
 ```
 %%

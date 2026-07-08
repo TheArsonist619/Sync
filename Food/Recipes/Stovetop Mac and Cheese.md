@@ -2,13 +2,14 @@
 tags:
   - cheese/cheddar
   - cheese
+  - party
+  - noodles
 source: https://www.seriouseats.com/ingredient-stovetop-mac-and-cheese-recipe
 Cuisine:
   - American
 Type:
   - Main
   - Side
-  - Party
 Meal:
   - Dinner
   - Lunch

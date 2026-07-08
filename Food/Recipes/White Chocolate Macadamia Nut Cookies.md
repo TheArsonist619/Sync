@@ -6,12 +6,13 @@ tags:
   - wishlist
 source: https://cooking.nytimes.com/recipes/1023680-white-chocolate-macadamia-nut-cookies?smid=ck-recipe-iOS-share
 Cuisine: American
-Type: Side
-Meal: Dessert
+Type:
+  - Side
+Meal: 
 Difficulty: Medium
 Author: Sohla El-Waylly
 image: whitechocnutcookies.webp
-aliases:
+aliases: 
 ---
 ![[whitechocnutcookies.webp|hs-med locr]]
 

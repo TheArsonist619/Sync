@@ -3,14 +3,13 @@ tags:
   - fried
   - christmas
   - oil
+  - party
 source: Mom
 Cuisine:
   - Mexican
 Type:
-  - Party
   - Side
 Meal:
-  - Dessert
 Difficulty: Hard
 Author: Mom
 image: bunuelos.webp

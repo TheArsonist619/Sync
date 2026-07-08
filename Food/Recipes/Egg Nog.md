@@ -6,8 +6,9 @@ tags:
   - bourbon
 source: https://altonbrown.com/recipes/aged-eggnog/
 Cuisine: American
-Type: Drink
-Meal: Drink
+Type:
+  - Drink
+Meal:
 Difficulty: Easy
 Author: Alton Brown
 image: eggnog.webp

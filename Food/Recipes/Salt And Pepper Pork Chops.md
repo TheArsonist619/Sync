@@ -4,12 +4,12 @@ tags:
   - pork/sirloin
   - scallions
   - oil
+  - party
 source: https://www.madewithlau.com/recipes/salt-pepper-pork-chops
 Cuisine:
   - Asian
 Type:
   - Main
-  - Party
   - Side
 Meal:
   - Dinner

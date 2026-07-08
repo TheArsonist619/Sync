@@ -1,6 +1,5 @@
 ---
 tags:
-  - pasta
   - beef/chuck
   - pork/shoulder
   - lamb/shoulder
@@ -14,6 +13,7 @@ tags:
   - wine
   - heavycream
   - cheese/parmesan
+  - noodles
 source: https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe
 Cuisine: Italian
 Type: Main

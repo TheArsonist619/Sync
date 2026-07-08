@@ -3,12 +3,13 @@ tags:
   - greenbeans
   - thanksgiving
   - incomplete
+  - party
+  - casserole
 source: https://www.bonappetit.com/recipe/bas-best-green-bean-casserole
 Cuisine:
   - American
 Type:
   - Side
-  - Party
 Meal:
   - Dinner
 Difficulty: Medium

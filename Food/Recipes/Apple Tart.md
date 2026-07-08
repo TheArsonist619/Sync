@@ -5,12 +5,13 @@ tags:
   - wishlist
 source: Dessert Person, p. 91
 Cuisine: French
-Type: Side
-Meal: Dessert
+Type:
+  - Side
+Meal:
 Difficulty: Medium
 Author: Claire Saffitz
 image: appletart.webp
-aliases:
+aliases: 
 ---
 
 ![[appletart.webp|hs-med locr]]

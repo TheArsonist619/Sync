@@ -11,6 +11,9 @@ kanban-plugin: board
 - [ ] kids backpacks
 - [ ] books
 - [ ] wash and store berries
+- [ ] rice
+- [ ] beans
+- [ ] bacon
 
 
 ## Priority

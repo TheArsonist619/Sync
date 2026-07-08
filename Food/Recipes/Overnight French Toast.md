@@ -2,13 +2,13 @@
 tags:
   - bread
   - syrup
+  - party
 source: https://cooking.nytimes.com/recipes/1019102-overnight-french-toast?eafs_enabled=false
 Cuisine:
   - American
 Type:
   - Main
   - Side
-  - Party
 Meal:
   - Breakfast
 Difficulty: Easy

@@ -2,16 +2,18 @@
 tags:
   - arugula
   - cheese/parmesan
+  - salad
 source: https://cooking.nytimes.com/recipes/1023337-arugula-salad-with-parmesan
 Cuisine: Italian
-Type: Side
+Type:
+  - Side
 Meal:
   - Lunch
   - Dinner
 Difficulty: Easy
 Author: Ali Slagle
 image: arugulasalad.webp
-aliases:
+aliases: 
 ---
 ![[arugulasalad.webp|locr hs-med]]
 ## Ingredients

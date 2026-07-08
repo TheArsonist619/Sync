@@ -3,12 +3,12 @@ tags:
   - beef/tritip
   - chile/dried
   - christmas
+  - party
 source: Marissa Medrano, Candi Medrano
 Cuisine:
   - Mexican
 Type:
   - Main
-  - Party
   - Side
 Meal:
   - Breakfast

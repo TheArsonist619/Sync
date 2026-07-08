@@ -4,12 +4,12 @@ tags:
   - tomatillos
   - eggs
   - tortilla/chips
+  - party
 source: https://cooking.nytimes.com/recipes/1017908-green-chilaquiles-with-eggs
 Cuisine:
   - Mexican
 Type:
   - Main
-  - Party
 Meal:
   - Breakfast
 Difficulty: Medium

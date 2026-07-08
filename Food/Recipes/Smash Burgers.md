@@ -3,13 +3,14 @@ tags:
   - beef/ground
   - buns
   - cheese/american
+  - party
+  - camping
+  - sandwich
 source: https://www.seriouseats.com/ultra-smashed-cheeseburger-recipe-food-lab
 Cuisine:
   - American
 Type:
   - Main
-  - Party
-  - Camping
 Meal:
   - Dinner
   - Lunch

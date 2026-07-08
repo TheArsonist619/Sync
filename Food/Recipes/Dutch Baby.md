@@ -9,7 +9,6 @@ Type:
   - Main
 Meal:
   - Breakfast
-  - Dessert
 Difficulty: Easy
 Author: Alton Brown
 image: dutchbaby.webp

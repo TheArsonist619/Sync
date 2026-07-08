@@ -7,8 +7,7 @@ Cuisine:
 Type:
   - Side
 Meal:
-  - Dessert
-Difficulty:
+Difficulty: 
 Author: Paula Deen
 image: pinwheels.webp
 aliases:

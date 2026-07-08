@@ -5,8 +5,9 @@ tags:
   - bananas
 source: https://www.pauladeen.com/recipe/not-yo-mamas-banana-pudding/
 Cuisine: American
-Type: Side
-Meal: Dessert
+Type:
+  - Side
+Meal:
 Difficulty: Easy
 Author: Paula Deen
 image: bananapudding.webp

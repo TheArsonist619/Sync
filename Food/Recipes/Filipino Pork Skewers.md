@@ -2,12 +2,12 @@
 tags:
   - pork/shoulder
   - pork/pulled
+  - party
 source: https://www.seriouseats.com/filipino-barcecue-meat-recipe-11714939
 Cuisine:
   - Filipino
 Type:
   - Main
-  - Party
   - Side
 Meal:
   - Lunch
@@ -15,7 +15,7 @@ Meal:
 Difficulty: Medium
 Author: Joshua Bousel
 image: filipinoskewers.webp
-aliases:
+aliases: 
 ---
 ![[filipinoskewers.webp|locr hs-med]]
 

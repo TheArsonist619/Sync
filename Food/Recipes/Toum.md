@@ -7,7 +7,7 @@ Cuisine:
   - Mediterranean
   - Middle Eastern
 Type:
-  - condiment
+  - Condiment
 Meal:
   - Breakfast
   - Lunch

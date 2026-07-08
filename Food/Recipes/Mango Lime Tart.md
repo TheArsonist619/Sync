@@ -2,13 +2,12 @@
 tags:
   - mango
   - heavycream
+  - party
 source: https://patijinich.com/mango-lime-tart/
 Cuisine:
   - Mexican
 Type:
-  - Party
 Meal:
-  - Dessert
 Difficulty: Medium
 Author: N/A
 image: mangolimetart.webp

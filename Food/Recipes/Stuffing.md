@@ -2,12 +2,12 @@
 tags:
   - bread
   - thanksgiving
+  - party
 source: https://www.bonappetit.com/recipe/simple-is-best-stuffing-dressing
 Cuisine:
   - American
 Type:
   - Side
-  - Party
 Meal:
   - Dinner
 Difficulty: Medium

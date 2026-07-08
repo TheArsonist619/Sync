@@ -8,10 +8,10 @@ tags:
   - milk/butter
 source: The Food Lab, p. 167
 Cuisine: American
-Type: Side
+Type:
+  - Side
 Meal:
   - Breakfast
-  - Dessert
 Difficulty: Hard
 Author: Kenji Lopez-Alt
 image: stickybuns.webp

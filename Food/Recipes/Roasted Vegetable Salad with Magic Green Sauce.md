@@ -3,13 +3,14 @@ tags:
   - potatoes/sweet
   - carrots
   - cabbage
+  - party
+  - salad
 source: https://minimalistbaker.com/roasted-vegetable-salad-with-chimichurri/
 Cuisine:
   - American
 Type:
   - Side
-  - condiment
-  - Party
+  - Condiment
 Meal:
   - Lunch
   - Dinner

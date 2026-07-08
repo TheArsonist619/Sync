@@ -19,16 +19,16 @@ image: arrozcaldo.webp
 
 %% #ingredients %%
 
-- [x] 2 tbsp olive oil
-- [x] 1 onion, diced
-- [x] 2 garlic cloves, crushed
-- [x] 1 two inch piece of ginger, peeled and thinly sliced
-- [x] 2 1/4 lbs chicken wings or less for just chicken
-- [x] 1 tbsp fish sauce
-- [x] 5 1/4 cups chicken broth
-- [x] 1 cup glutinous sweet rice
-- [x] salt and pepper to taste
-- [x] lemon to serve
+- [ ] 2 tbsp olive oil
+- [ ] 1 onion, diced
+- [ ] 2 garlic cloves, crushed
+- [ ] 1 two inch piece of ginger, peeled and thinly sliced
+- [ ] 2 1/4 lbs chicken wings or less for just chicken
+- [ ] 1 tbsp fish sauce
+- [ ] 5 1/4 cups chicken broth
+- [ ] 1 cup glutinous sweet rice
+- [ ] salt and pepper to taste
+- [ ] lemon to serve
 
 
 ## Directions

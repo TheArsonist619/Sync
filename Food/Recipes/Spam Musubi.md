@@ -3,11 +3,11 @@ tags:
   - rice
   - spam
   - nori
+  - party
+  - camping
 source: https://cooking.nytimes.com/recipes/1020160-spam-musubi?eafs_enabled=false
 Cuisine: Hawaiian
 Type:
-  - Party
-  - Camping
   - Side
 Meal:
   - Snack
@@ -15,7 +15,7 @@ Meal:
 Difficulty: Easy
 Author: Alana Kysar
 image: spammusubi.webp
-aliases:
+aliases: 
 ---
 
 ![[spammusubi.webp|hs-med locr]]

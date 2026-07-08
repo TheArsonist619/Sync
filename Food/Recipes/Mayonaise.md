@@ -1,11 +1,12 @@
 ---
 tags:
+  - 
 source: https://www.seriouseats.com/two-minute-mayonnaise
 Cuisine:
   - American
 Type:
   - Main
-  - condiment
+  - Condiment
 Meal:
   - Dinner
 Difficulty: Easy

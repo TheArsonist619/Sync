@@ -4,12 +4,12 @@ tags:
   - chipotleinadobo
   - tortilla
   - chile/dried
+  - party
 source: https://www.seriouseats.com/real-texas-chili-con-carne
 Cuisine:
   - Mexican
 Type:
   - Main
-  - Party
 Meal:
   - Dinner
 Difficulty: Hard

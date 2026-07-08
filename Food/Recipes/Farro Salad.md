@@ -1,13 +1,14 @@
 ---
 tags:
   - farro
+  - party
+  - salad
 source: https://cooking.nytimes.com/recipes/1015843-charlie-birds-farro-salad?eafs_enabled=false
 Cuisine:
   - American
 Type:
   - Main
   - Side
-  - Party
 Meal:
   - Lunch
   - Dinner

@@ -4,6 +4,7 @@ tags:
   - tortilla/corn
   - oil
   - cabbage
+  - tacos
 source: https://www.allrecipes.com/recipe/53729/fish-tacos/
 Cuisine:
   - Mexican

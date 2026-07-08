@@ -2,13 +2,13 @@
 tags:
   - buttermilk
   - flour
+  - party
 source: https://www.seriouseats.com/the-food-lab-buttermilk-biscuits-recipe
 Cuisine:
   - American
 Type:
   - Main
   - Side
-  - Party
 Meal:
   - Dinner
   - Breakfast
