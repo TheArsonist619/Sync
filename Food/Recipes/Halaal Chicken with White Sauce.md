@@ -13,7 +13,9 @@ Meal:
   - Dinner
 Difficulty: Medium
 Author: Kenji Lopez-Alt
+Date added: 2026-07-09
 image: halaalchicken.webp
+obsidianUIMode: preview
 aliases:
   - Chicken with White Sauce
 ---

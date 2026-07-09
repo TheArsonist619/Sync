@@ -14,7 +14,9 @@ Meal:
   - Dinner
 Difficulty: Easy
 Author: Melissa Clark
+Date added: 2026-07-09
 image: farrosalad.webp
+obsidianUIMode: preview
 ---
 
 ![[farrosalad.webp|locr hs-med]]

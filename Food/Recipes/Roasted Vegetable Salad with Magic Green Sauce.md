@@ -1,6 +1,8 @@
 ---
 tags:
+  - potatoes
   - potatoes/sweet
+  - potatoes/red
   - carrots
   - cabbage
   - party
@@ -16,7 +18,9 @@ Meal:
   - Dinner
 Difficulty: Medium
 Author: Minimalist Baker
+Date added: 2026-07-09
 image: Magicgreensauce.webp
+obsidianUIMode: preview
 ---
 ![[magicgreensauce.webp|locr hs-med]]
 

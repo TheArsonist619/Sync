@@ -10,9 +10,11 @@ Type:
 Meal:
   - Lunch
   - Dinner
-Difficulty: Easy
+Difficulty:
 Author: Ali Slagle
+Date added: 2026-07-09
 image: arugulasalad.webp
+obsidianUIMode: preview
 aliases: 
 ---
 ![[arugulasalad.webp|locr hs-med]]

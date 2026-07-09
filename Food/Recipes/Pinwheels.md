@@ -9,7 +9,9 @@ Type:
 Meal:
 Difficulty: 
 Author: Paula Deen
+Date added: 2026-07-09
 image: pinwheels.webp
+obsidianUIMode: preview
 aliases:
   - holiday cookies
 ---

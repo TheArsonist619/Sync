@@ -12,7 +12,9 @@ Meal:
   - Breakfast
 Difficulty: Easy
 Author: N/A
+Date added: 2026-07-09
 image: pancakes.webp
+obsidianUIMode: preview
 ---
 
 ![[pancakes.webp|locr hs-med]]

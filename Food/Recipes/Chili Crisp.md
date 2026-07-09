@@ -15,7 +15,9 @@ Meal:
   - Lunch
 Difficulty: Medium
 Author: Sohla El-Waylly
+Date added: 2026-07-09
 image: chilicrisp.webp
+obsidianUIMode: preview
 ---
 
 

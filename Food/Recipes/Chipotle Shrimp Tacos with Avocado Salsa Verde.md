@@ -18,7 +18,9 @@ Meal:
   - Lunch
 Difficulty: Medium
 Author: Food Network Kitchen
+Date added: 2026-07-09
 image: shrimptaco.webp
+obsidianUIMode: preview
 ---
 
 

@@ -2,6 +2,8 @@
 tags:
   - chicken
   - chicken/breast
+  - potatoes
+  - potatoes/yukonGold
   - noodles
   - soup
   - wishlist
@@ -13,7 +15,9 @@ Meal:
   - Dinner
 Difficulty:
 Author: Naz Deravian
+Date added: 2026-07-09
 image: Vermicellisoup.webp
+obsidianUIMode: preview
 aliases:
 ---
 

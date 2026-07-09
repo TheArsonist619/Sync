@@ -14,7 +14,9 @@ Meal:
   - Dinner
 Difficulty: Medium
 Author: Joshua Bousel
+Date added: 2026-07-09
 image: filipinoskewers.webp
+obsidianUIMode: preview
 aliases: 
 ---
 ![[filipinoskewers.webp|locr hs-med]]

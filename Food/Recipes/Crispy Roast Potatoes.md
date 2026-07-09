@@ -1,6 +1,8 @@
 ---
 tags:
-  - Potatoes/Russet
+  - potatoes
+  - potatoes/russet
+  - potatoes/yukonGold
 source: https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe
 Cuisine:
   - American
@@ -12,7 +14,9 @@ Meal:
   - Lunch
 Difficulty: Medium
 Author: Kenji Lopez-Alt
+Date added: 2026-07-09
 image: crispyroastpotatoes.webp
+obsidianUIMode: preview
 ---
 ![[crispyroastpotatoes.webp|hs-med locr]]
 

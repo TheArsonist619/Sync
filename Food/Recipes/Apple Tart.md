@@ -8,9 +8,11 @@ Cuisine: French
 Type:
   - Side
 Meal:
-Difficulty: Medium
+Difficulty:
 Author: Claire Saffitz
+Date added: 2026-07-09
 image: appletart.webp
+obsidianUIMode: preview
 aliases: 
 ---
 

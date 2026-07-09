@@ -11,7 +11,9 @@ Type:
 Meal:
 Difficulty: 
 Author: Alison Roman
+Date added: 2026-07-09
 image: chocshortbreadcookies.webp
+obsidianUIMode: preview
 aliases: 
 ---
 

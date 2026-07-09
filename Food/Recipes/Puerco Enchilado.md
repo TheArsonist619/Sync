@@ -11,7 +11,9 @@ Meal:
   - Dinner
 Difficulty: Easy
 Author: Mom
+Date added: 2026-07-09
 image: puercoenchilado.webp
+obsidianUIMode: preview
 ---
 
 ![[puercoenchilado.webp|locr hs-med]]

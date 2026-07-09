@@ -13,7 +13,9 @@ Meal:
   - Dinner
 Difficulty: Medium
 Author: Jennifer Olvera
+Date added: 2026-07-09
 image: beefstroganoff.webp
+obsidianUIMode: preview
 ---
 
 ![[beefstroganoff.webp|locr hs-med]]

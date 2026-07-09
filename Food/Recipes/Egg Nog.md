@@ -11,7 +11,9 @@ Type:
 Meal:
 Difficulty: Easy
 Author: Alton Brown
+Date added: 2026-07-09
 image: eggnog.webp
+obsidianUIMode: preview
 aliases:
   - Aged Egg Nog
 ---

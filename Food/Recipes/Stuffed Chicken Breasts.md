@@ -12,7 +12,9 @@ Meal:
   - Dinner
 Difficulty: Hard
 Author: N/A
+Date added: 2026-07-09
 image: stuffedchickenbreast.webp
+obsidianUIMode: preview
 aliases:
   - Chicken breasts with Spinach and Sun-dried Tomatoes
 ---

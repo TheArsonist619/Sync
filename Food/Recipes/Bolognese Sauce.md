@@ -20,7 +20,9 @@ Type: Main
 Meal: Dinner
 Difficulty: Hard
 Author: Kenji Lopez-Alt
+Date added: 2026-07-09
 image: bolognese.webp
+obsidianUIMode: preview
 aliases:
   - The Best Slow-Cooked Bolognese Sauce Recipe
 ---

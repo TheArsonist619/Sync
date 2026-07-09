@@ -13,7 +13,9 @@ Meal:
   - Dinner
 Difficulty: Easy
 Author: N/A
+Date added: 2026-07-09
 image: mauishortribs.webp
+obsidianUIMode: preview
 aliases:
   - Hawaiian short ribs
 ---

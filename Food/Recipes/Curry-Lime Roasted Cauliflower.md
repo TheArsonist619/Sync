@@ -11,7 +11,9 @@ Meal:
   - Dinner
 Difficulty: Easy
 Author: Instagram
+Date added: 2026-07-09
 image: currylimecauliflower.webp
+obsidianUIMode: preview
 ---
 
 ![[currylimecauliflower.webp|hs-med locr]]

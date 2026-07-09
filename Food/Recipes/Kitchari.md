@@ -14,7 +14,9 @@ Meal:
   - Lunch
 Difficulty: Medium
 Author: Richa Hingle
+Date added: 2026-07-09
 image: kitchari.webp
+obsidianUIMode: preview
 ---
 ![[kitchari.webp|hs-med locr]]
 

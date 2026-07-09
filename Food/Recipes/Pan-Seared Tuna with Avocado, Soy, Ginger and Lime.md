@@ -10,7 +10,9 @@ Meal:
   - Dinner
 Difficulty: Easy
 Author: Tyler Florence
+Date added: 2026-07-09
 image: pansearedtuna.webp
+obsidianUIMode: preview
 ---
 
 

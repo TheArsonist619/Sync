@@ -1,5 +1,6 @@
 ---
 tags:
+  - potatoes
   - potatoes/sweet
   - thanksgiving
   - party
@@ -13,7 +14,9 @@ Meal:
   - Dinner
 Difficulty: Medium
 Author: Food Network Kitchen
+Date added: 2026-07-09
 image: sweetpotatocasserole.webp
+obsidianUIMode: preview
 ---
 ![[sweetpotatocasserole.webp|locr hs-med]]
 

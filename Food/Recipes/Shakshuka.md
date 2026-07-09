@@ -11,7 +11,9 @@ Meal:
   - Breakfast
 Difficulty: Easy
 Author: Melissa Clark
+Date added: 2026-07-09
 image: shakshuka.webp
+obsidianUIMode: preview
 ---
 
 

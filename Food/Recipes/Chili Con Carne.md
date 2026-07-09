@@ -14,7 +14,9 @@ Meal:
   - Dinner
 Difficulty: Hard
 Author: Kenji Lopez-Alt
+Date added: 2026-07-09
 image: chiliconcarne.webp
+obsidianUIMode: preview
 aliases:
   - Texax Chili
   - Chili

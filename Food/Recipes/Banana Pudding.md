@@ -10,7 +10,9 @@ Type:
 Meal:
 Difficulty: Easy
 Author: Paula Deen
+Date added: 2026-07-09
 image: bananapudding.webp
+obsidianUIMode: preview
 aliases:
   - Not Yo Mama's Banana Pudding
 ---

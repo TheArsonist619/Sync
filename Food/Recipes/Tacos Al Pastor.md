@@ -14,7 +14,9 @@ Meal:
   - Dinner
 Difficulty: Medium
 Author: Kenji Lopez-Alt
+Date added: 2026-07-09
 image: tacosalpastor.webp
+obsidianUIMode: preview
 ---
 ![[tacosalpastor.webp|hs-med locr]]
 

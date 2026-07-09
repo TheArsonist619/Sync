@@ -10,7 +10,9 @@ Meal:
   - Breakfast
 Difficulty: Easy
 Author: Genevieve Ko
+Date added: 2026-07-09
 image: overnightoats.webp
+obsidianUIMode: preview
 ---
 ![[overnightoats.webp|locr hs-med]]
 

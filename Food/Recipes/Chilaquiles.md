@@ -14,7 +14,9 @@ Meal:
   - Breakfast
 Difficulty: Medium
 Author: Martha Rose Shulman
+Date added: 2026-07-09
 image: chilaquiles.webp
+obsidianUIMode: preview
 ---
 
 

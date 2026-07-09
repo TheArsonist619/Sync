@@ -3,6 +3,7 @@ tags:
   - beef/ground
   - lamb/ground
   - potatoes
+  - potatoes/yukonGold
   - healthy
   - tomatoes/canned/diced
   - peas
@@ -15,7 +16,9 @@ Meal:
   - Dinner
 Difficulty: Easy
 Author: N/A
+Date added: 2026-07-09
 image: shepardspie.webp
+obsidianUIMode: preview
 ---
 ![[shepardspie.webp|locr hs-med]]
 

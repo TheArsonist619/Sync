@@ -14,7 +14,9 @@ Meal:
   - Dinner
 Difficulty: Medium
 Author: Gregory Gourdet
+Date added: 2026-07-09
 image: akra.webp
+obsidianUIMode: preview
 aliases:
   - Fritters
   - Taro Fritters

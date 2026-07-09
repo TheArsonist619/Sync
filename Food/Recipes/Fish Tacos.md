@@ -15,7 +15,9 @@ Meal:
   - Lunch
 Difficulty: Hard
 Author: N/A
+Date added: 2026-07-09
 image: fishtacos.webp
+obsidianUIMode: preview
 ---
 
 ![[fishtacos.webp|locr hs-med]]

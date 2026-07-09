@@ -14,7 +14,9 @@ Meal:
   - Dinner
 Difficulty: Medium
 Author: Sohla El-Waylly
+Date added: 2026-07-09
 image: toum.webp
+obsidianUIMode: preview
 aliases:
   - Garlic Sauce
   - White Sauce

@@ -15,7 +15,9 @@ Meal:
   - Lunch
 Difficulty: Medium
 Author: Steve P.
+Date added: 2026-07-09
 image: pancitcanton.webp
+obsidianUIMode: preview
 aliases:
   - Pancit
 ---

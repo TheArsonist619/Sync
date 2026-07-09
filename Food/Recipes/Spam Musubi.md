@@ -14,7 +14,9 @@ Meal:
   - Lunch
 Difficulty: Easy
 Author: Alana Kysar
+Date added: 2026-07-09
 image: spammusubi.webp
+obsidianUIMode: preview
 aliases: 
 ---
 

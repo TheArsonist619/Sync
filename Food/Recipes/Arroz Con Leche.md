@@ -10,10 +10,13 @@ Cuisine:
   - Mexican
 Type:
   - Side
+  - Dessert
 Meal:
 Difficulty: Easy
 Author: Marcela Valladolid
+Date added: 2026-07-09
 image: arrozconleche.webp
+obsidianUIMode: preview
 ---
 ![[arrozconleche.webp|locr hs-med]]
 

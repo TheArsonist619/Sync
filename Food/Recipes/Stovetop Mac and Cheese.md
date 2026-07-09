@@ -15,7 +15,9 @@ Meal:
   - Lunch
 Difficulty: Easy
 Author: Kenji Lopez-Alt
+Date added: 2026-07-09
 image: stovetopmac.webp
+obsidianUIMode: preview
 ---
 
 ![[stovetopmac.webp|locr hs-med]]

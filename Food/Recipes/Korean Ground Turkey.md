@@ -11,7 +11,9 @@ Meal:
   - Dinner
 Difficulty: Easy
 Author: Emily Bites
+Date added: 2026-07-09
 image: koreanturkey.webp
+obsidianUIMode: preview
 ---
 
 ![[koreanturkey.webp|locr hs-med]]

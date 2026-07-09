@@ -10,9 +10,11 @@ Type:
   - Side
 Meal:
   - Breakfast
-Difficulty: Easy
+Difficulty:
 Author: Mark Bittman
+Date added: 2026-07-09
 image: breadpudding.webp
+obsidianUIMode: preview
 aliases:
   - Simple Bread Pudding
 ---

@@ -14,7 +14,9 @@ Meal:
   - Dinner
 Difficulty: Medium
 Author: Marcela Valladolid
+Date added: 2026-07-09
 image: enchiladassuizas.webp
+obsidianUIMode: preview
 aliases:
   - Enchiladas Verdes
 ---

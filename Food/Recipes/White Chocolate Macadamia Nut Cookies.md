@@ -11,7 +11,9 @@ Type:
 Meal: 
 Difficulty: Medium
 Author: Sohla El-Waylly
+Date added: 2026-07-09
 image: whitechocnutcookies.webp
+obsidianUIMode: preview
 aliases: 
 ---
 ![[whitechocnutcookies.webp|hs-med locr]]

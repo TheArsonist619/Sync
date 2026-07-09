@@ -18,6 +18,7 @@ kanban-plugin: board
 
 ## Camp supplies
 
+- [ ] bike pump
 - [ ] ball
 - [ ] bikes
 - [ ] helmets
@@ -35,7 +36,9 @@ kanban-plugin: board
 - [ ] duct tape
 - [ ] frisbee
 - [ ] hammocks
+- [ ] kite
 - [ ] Hatchet
+- [ ] bike lights
 - [ ] machete
 - [ ] pendleton blanket
 - [ ] sleeping bags
@@ -80,30 +83,24 @@ kanban-plugin: board
 - [ ] kids drinks
 - [ ] loaf of bread
 - [ ] mayo
-- [ ] meat sticks
 - [ ] peanut butter
-- [ ] pickles
 - [ ] popcorn
-- [ ] potatoes
-- [ ] salad
 - [ ] smore stuff
 - [ ] snack cheese
-- [ ] tapatio
 - [ ] tortillas
 - [ ] wine
 - [ ] yogurt
 - [ ] yogurt drinks
-- [ ] uncrustubales
-- [ ] grahama cracker
-- [ ] bagels
 - [ ] deli meat
 - [ ] deli cheese
 - [ ] pancake mix
 - [ ] sour cream
-- [ ] cream cheese
 - [ ] foil containers
 - [ ] dino nuggets
 - [ ] chips
+- [ ] maple syrup
+- [ ] instant oatmeal
+- [ ] Proscuitto
 
 
 ## Home Pantry
@@ -113,8 +110,16 @@ kanban-plugin: board
 - [ ] chorizo
 - [ ] cookies
 - [ ] ground beef
+- [ ] graham crackers
 - [ ] spicy mayo
+- [ ] uncrustables
+- [ ] pickles
 - [ ] shredded cheddar
+- [ ] bagels
+- [ ] potatoes
+- [ ] tapatio
+- [ ] cream cheese
+- [ ] salad
 - [ ] ketchup
 - [ ] mama lils
 - [ ] Ham
@@ -131,6 +136,7 @@ kanban-plugin: board
 - [ ] hot saucex2
 - [ ] kitchen table
 - [ ] knife
+- [ ] meat sticks
 - [ ] big propane
 - [ ] salt/pepper/oil
 - [ ] scale
@@ -166,9 +172,8 @@ kanban-plugin: board
 - [ ] grind coffee
 - [ ] sponge in bin
 - [ ] macrolens
-- [ ] bike lights
-- [ ] kite
 - [ ] charge radios
+- [ ] Fix leak in boat
 
 
 ## Working
@@ -183,7 +188,6 @@ kanban-plugin: board
 ## Not this trip
 
 - [ ] hiking boots
-- [ ] bike pump
 - [ ] camp stove
 - [ ] ponchos
 
@@ -192,6 +196,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true,false,false,true,true,true,false,false,false],"show-checkboxes":true,"lane-width":215,"tag-colors":[]}
+{"kanban-plugin":"board","list-collapse":[true,true,true,false,true,false,true,false,true,true,true],"show-checkboxes":true,"lane-width":215,"tag-colors":[]}
 ```
 %%

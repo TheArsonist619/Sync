@@ -4,6 +4,7 @@ tags:
   - beef/stew
   - carrots
   - potatoes
+  - potatoes/russet
   - redwine
   - stew
   - dutchoven
@@ -15,7 +16,9 @@ Type: Main
 Meal: Dinner
 Difficulty:
 Author: Molly O'Neill
+Date added: 2026-07-09
 image: beefstew.webp
+obsidianUIMode: preview
 aliases:
 ---
 

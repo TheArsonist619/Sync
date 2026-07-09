@@ -17,7 +17,9 @@ Meal:
   - Dinner
 Difficulty:
 Author: Kris Yenbamroong
+Date added: 2026-07-09
 image: Padkrapowgai.webp
+obsidianUIMode: preview
 aliases:
   - Thai Basil Chicken
 ---

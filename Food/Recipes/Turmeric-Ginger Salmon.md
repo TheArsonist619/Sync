@@ -16,7 +16,9 @@ Meal:
   - Dinner
 Difficulty:
 Author: Christian Reynoso
+Date added: 2026-07-09
 image: turmericsalmon.webp
+obsidianUIMode: preview
 aliases:
 ---
 

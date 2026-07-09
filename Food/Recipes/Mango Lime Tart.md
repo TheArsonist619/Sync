@@ -10,7 +10,9 @@ Type:
 Meal:
 Difficulty: Medium
 Author: N/A
+Date added: 2026-07-09
 image: mangolimetart.webp
+obsidianUIMode: preview
 ---
 ![[mangolimetart.webp|locr hs-med]]
 

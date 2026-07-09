@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] rice
 - [ ] beans
 - [ ] bacon
+- [ ] charge speaker
 
 
 ## Priority

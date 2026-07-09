@@ -15,7 +15,9 @@ Meal:
   - Dinner
 Difficulty:
 Author: Ali Slagle
+Date added: 2026-07-09
 image: kuakling.webp
+obsidianUIMode: preview
 aliases:
   - Curry
 ---

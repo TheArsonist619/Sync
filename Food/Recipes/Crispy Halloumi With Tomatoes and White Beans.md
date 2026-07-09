@@ -18,7 +18,9 @@ Meal:
   - Dinner
 Difficulty:
 Author: Nargisse Benkabbou
+Date added: 2026-07-09
 image: halloumi.webp
+obsidianUIMode: preview
 aliases:
 ---
 

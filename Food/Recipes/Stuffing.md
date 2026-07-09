@@ -12,7 +12,11 @@ Meal:
   - Dinner
 Difficulty: Medium
 Author: Bon Apetit
+Date added: 2026-07-09
 image: stuffing.webp
+obsidianUIMode: preview
+aliases:
+  - Simple is Best Stuffing
 ---
 
 ![[Stuffing.webp|locr hs-med]]

@@ -1,6 +1,7 @@
 ---
 tags:
   - potatoes
+  - potatoes/russet
   - cheese/gruyere
   - cheese/parmesan
   - garlic
@@ -13,7 +14,9 @@ Meal:
   - Dinner
 Difficulty: Medium
 Author: Kenji Lopez-Alt
+Date added: 2026-07-09
 image: hasselback.webp
+obsidianUIMode: preview
 aliases:
   - Potato Casserole
 ---

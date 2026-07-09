@@ -14,7 +14,9 @@ Meal:
   - Dinner
 Difficulty: Medium
 Author: Arash Hashemi
+Date added: 2026-07-09
 image: medicarrots.webp
+obsidianUIMode: preview
 ---
 
 ![[Medicarrots.webp|locr hs-med]]

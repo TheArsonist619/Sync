@@ -13,7 +13,9 @@ Meal:
   - Lunch
 Difficulty: Medium
 Author: Kenji Lopez-Alt
+Date added: 2026-07-09
 image: castironpizza.webp
+obsidianUIMode: preview
 aliases:
   - Pan Pizza
 ---

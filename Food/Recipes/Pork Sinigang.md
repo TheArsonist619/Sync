@@ -12,7 +12,9 @@ Meal:
   - Dinner
 Difficulty: Easy
 Author: Robyn Michelle
+Date added: 2026-07-09
 image: porksinigang.webp
+obsidianUIMode: preview
 ---
 
 

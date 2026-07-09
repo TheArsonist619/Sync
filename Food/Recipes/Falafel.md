@@ -15,7 +15,9 @@ Meal:
   - Lunch
 Difficulty: Medium
 Author: Kenji Lopez-Alt
+Date added: 2026-07-09
 image: falafel.webp
+obsidianUIMode: preview
 ---
 
 

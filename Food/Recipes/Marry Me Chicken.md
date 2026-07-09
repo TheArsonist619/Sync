@@ -15,7 +15,9 @@ Meal:
   - Dinner
 Difficulty:
 Author: Naz Deravian
+Date added: 2026-07-09
 image: marrymechicken.webp
+obsidianUIMode: preview
 aliases:
 ---
 

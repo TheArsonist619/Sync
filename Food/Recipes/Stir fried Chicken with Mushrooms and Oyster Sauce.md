@@ -12,7 +12,9 @@ Meal:
   - Lunch
 Difficulty: Easy
 Author: Shao Z
+Date added: 2026-07-09
 image: chickenmushroomoystersauce.webp
+obsidianUIMode: preview
 ---
 
 ![[chickenmushroomoystersauce.webp|locr hs-med]]

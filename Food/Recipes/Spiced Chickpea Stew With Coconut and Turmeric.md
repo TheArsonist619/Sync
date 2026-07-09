@@ -22,7 +22,9 @@ Meal:
   - Dinner
 Difficulty: 
 Author: Alison Roman
+Date added: 2026-07-09
 image: chickpeastew.webp
+obsidianUIMode: preview
 aliases: 
 ---
 

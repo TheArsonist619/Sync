@@ -17,7 +17,9 @@ Meal:
   - Lunch
 Difficulty: Easy
 Author: Natasha Kravchuk
+Date added: 2026-07-09
 image: avocadochickensalad.webp
+obsidianUIMode: preview
 ---
 ![[avocadochickensalad.webp|locr hs-med]]
 

@@ -1,6 +1,7 @@
 ---
 tags:
-  - Potatoes/Russet
+  - potatoes
+  - potatoes/russet
 source: https://www.allrecipes.com/recipe/24332/ultimate-twice-baked-potatoes/
 Cuisine:
   - American
@@ -10,7 +11,9 @@ Meal:
   - Dinner
 Difficulty: Easy
 Author: N/A
+Date added: 2026-07-09
 image: twicebakedpotatoes.webp
+obsidianUIMode: preview
 ---
 ![[twicebakedpotatoes.webp|locr hs-med]]
 

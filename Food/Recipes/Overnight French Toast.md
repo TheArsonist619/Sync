@@ -13,7 +13,9 @@ Meal:
   - Breakfast
 Difficulty: Easy
 Author: Samantha Seneviratne
+Date added: 2026-07-09
 image: overnightfrenchtoast.webp
+obsidianUIMode: preview
 aliases:
   - French Toast Casserole
 ---

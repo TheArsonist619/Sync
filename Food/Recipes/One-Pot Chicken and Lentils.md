@@ -13,7 +13,9 @@ Meal:
   - Dinner
 Difficulty:
 Author: Yasmin Fahr
+Date added: 2026-07-09
 image: onepotlentils.webp
+obsidianUIMode: preview
 aliases:
 ---
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - 
+  - eggs
 source: https://www.seriouseats.com/two-minute-mayonnaise
 Cuisine:
   - American
@@ -11,7 +11,9 @@ Meal:
   - Dinner
 Difficulty: Easy
 Author: Kenji Lopez-Alt
+Date added: 2026-07-09
 image: mayonaise.webp
+obsidianUIMode: preview
 aliases:
   - Mayo
 ---

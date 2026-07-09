@@ -11,7 +11,9 @@ Type: Main
 Meal: Dinner
 Difficulty: Medium
 Author: Kenji Lopez-Alt
+Date added: 2026-07-09
 image: shrimpscampi.webp
+obsidianUIMode: preview
 aliases:
   - Pasta with Extra Garlicky Shrimp Scampi
 ---

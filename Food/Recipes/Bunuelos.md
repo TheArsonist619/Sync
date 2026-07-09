@@ -12,7 +12,9 @@ Type:
 Meal:
 Difficulty: Hard
 Author: Mom
+Date added: 2026-07-09
 image: bunuelos.webp
+obsidianUIMode: preview
 ---
 
 

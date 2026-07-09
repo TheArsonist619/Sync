@@ -12,7 +12,9 @@ Meal:
   - Dinner
 Difficulty:
 Author: Kay Chun
+Date added: 2026-07-09
 image: koreanmeatballs.webp
+obsidianUIMode: preview
 aliases:
 ---
 

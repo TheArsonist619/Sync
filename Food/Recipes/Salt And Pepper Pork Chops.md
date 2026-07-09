@@ -16,7 +16,9 @@ Meal:
   - Lunch
 Difficulty: Hard
 Author: Daddy Lau
+Date added: 2026-07-09
 image: saltandpepperpork.webp
+obsidianUIMode: preview
 ---
 
 ![[saltandpepperpork.webp|locr hs-med]]

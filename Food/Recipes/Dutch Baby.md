@@ -11,7 +11,9 @@ Meal:
   - Breakfast
 Difficulty: Easy
 Author: Alton Brown
+Date added: 2026-07-09
 image: dutchbaby.webp
+obsidianUIMode: preview
 aliases:
   - Dutch Pancake
 ---

@@ -14,7 +14,9 @@ Meal:
   - Breakfast
 Difficulty: Hard
 Author: Kenji Lopez-Alt
+Date added: 2026-07-09
 image: stickybuns.webp
+obsidianUIMode: preview
 aliases:
   - The World's Most Awesome Sticky Buns
 ---

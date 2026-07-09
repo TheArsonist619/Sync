@@ -14,9 +14,11 @@ Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty: 
+Difficulty:
 Author: Alison Roman
+Date added: 2026-07-09
 image: shallotpasta.webp
+obsidianUIMode: preview
 aliases: 
 ---
 

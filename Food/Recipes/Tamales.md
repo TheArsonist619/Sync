@@ -16,7 +16,9 @@ Meal:
   - Dinner
 Difficulty: Hard
 Author: Marissa Medrano, Candi Medrano
+Date added: 2026-07-09
 image: tamales.webp
+obsidianUIMode: preview
 ---
 
 ![[tamales.webp|locr hs-med]]
