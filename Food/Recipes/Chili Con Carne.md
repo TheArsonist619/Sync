@@ -5,7 +5,8 @@ tags:
   - tortilla
   - chile/dried
   - party
-source: https://www.seriouseats.com/real-texas-chili-con-carne
+Source: Kenji Lopez-Alt
+Link: https://www.seriouseats.com/real-texas-chili-con-carne
 Cuisine:
   - Mexican
 Type:

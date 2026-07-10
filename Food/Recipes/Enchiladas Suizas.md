@@ -5,7 +5,8 @@ tags:
   - cheese/mozzarella
   - cheese/oaxaca
   - cilantro
-source: https://www.foodnetwork.com/recipes/marcela-valladolid/enchiladas-suizas-2666247
+Source: Marcela Valladolid
+Link: https://www.foodnetwork.com/recipes/marcela-valladolid/enchiladas-suizas-2666247
 Cuisine:
   - Mexican
 Type:

@@ -3,11 +3,11 @@ tags:
   - mango
   - heavycream
   - party
-source: https://patijinich.com/mango-lime-tart/
+Source: N/A
 Cuisine:
   - Mexican
-Type:
-Meal:
+Type: 
+Meal: 
 Difficulty: Medium
 Author: N/A
 Date added: 2026-07-09

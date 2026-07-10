@@ -9,7 +9,7 @@ tags:
   - cheese/cheddar
   - party
   - casserole
-source: The food Lab, p. 420
+Source: The food Lab, p. 420
 Cuisine:
   - American
 Type:
@@ -18,7 +18,7 @@ Meal:
   - Dinner
   - Lunch
 Difficulty: Medium
-Author: Kenji Lopez-Alt
+Author: The food Lab, p. 420
 Date added: 2026-07-09
 image: cauliflowercasserole.webp
 obsidianUIMode: preview

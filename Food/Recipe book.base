@@ -8,6 +8,7 @@ views:
       - file.name
       - aliases
       - tags
+      - Author
     image: note.image
     cardSize: 180
   - type: table
@@ -24,10 +25,11 @@ views:
       - Author
       - tags
       - source
+      - Source
     sort:
-      - property: file.name
-        direction: ASC
       - property: Author
+        direction: ASC
+      - property: file.name
         direction: ASC
       - property: Cuisine
         direction: ASC

@@ -6,7 +6,7 @@ tags:
   - chile/habanero
   - parsley
   - thyme
-source: Everyone's Table, p. 87
+Source: Everyone's Table, p. 87
 Cuisine: Caribbean
 Type: Side
 Meal:
@@ -21,7 +21,7 @@ aliases:
   - Fritters
   - Taro Fritters
 ---
-
+![[akra.webp|hs-med locr]]
 ## Ingredients
 servings: 4 (makes about 20 fritters)
 

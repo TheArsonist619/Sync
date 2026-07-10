@@ -8,7 +8,8 @@ tags:
   - limes
   - tortilla/corn
   - tacos
-source: https://www.foodnetwork.com/recipes/food-network-kitchen/chipotle-shrimp-taco-with-avocado-salsa-verde-recipe-1927939
+Source: Food Network
+Link: https://www.foodnetwork.com/recipes/food-network-kitchen/chipotle-shrimp-taco-with-avocado-salsa-verde-recipe-1927939
 Cuisine:
   - Mexican
 Type:

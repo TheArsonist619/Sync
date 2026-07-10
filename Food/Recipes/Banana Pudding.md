@@ -3,11 +3,12 @@ tags:
   - milk/sweetenedcondensed
   - cheese/cream
   - bananas
-source: https://www.pauladeen.com/recipe/not-yo-mamas-banana-pudding/
+Source: Paula Deen
+Link: https://www.pauladeen.com/recipe/not-yo-mamas-banana-pudding/
 Cuisine: American
 Type:
   - Side
-Meal:
+Meal: 
 Difficulty: Easy
 Author: Paula Deen
 Date added: 2026-07-09

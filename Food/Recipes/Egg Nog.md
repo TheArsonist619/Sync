@@ -4,11 +4,12 @@ tags:
   - rum
   - cognac
   - bourbon
-source: https://altonbrown.com/recipes/aged-eggnog/
+Source: Alton Brown
+Link: https://altonbrown.com/recipes/aged-eggnog/
 Cuisine: American
 Type:
   - Drink
-Meal:
+Meal: 
 Difficulty: Easy
 Author: Alton Brown
 Date added: 2026-07-09

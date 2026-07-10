@@ -2,7 +2,8 @@
 tags:
   - garlic
   - pita
-source: https://www.seriouseats.com/traditional-toum
+Source: Sohla El-Waylly
+Link: https://www.seriouseats.com/traditional-toum
 Cuisine:
   - Mediterranean
   - Middle Eastern

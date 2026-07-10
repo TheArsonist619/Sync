@@ -6,16 +6,17 @@ tags:
   - heavycream
   - cheesecake
   - wishlist
-source: https://www.bonappetit.com/recipe/basque-burnt-cheesecake
+Source: Molly Baz
+Link: https://www.bonappetit.com/recipe/basque-burnt-cheesecake
 Cuisine: Spanish
 Type: Dessert
-Meal:
-Difficulty:
-Author: Bon Appétit
+Meal: 
+Difficulty: 
+Author: Molly Baz
 Date added: 2026-07-09
 image: basquecheesecake.webp
 obsidianUIMode: preview
-aliases:
+aliases: 
 ---
 
 ![[basquecheesecake.webp|hs-med locr]]

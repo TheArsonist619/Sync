@@ -8,18 +8,19 @@ tags:
   - wishlist
   - shallots
   - noodles/rice
-source: https://cooking.nytimes.com/recipes/1025771-turmeric-ginger-salmon
+Source: Christian Reynoso
+Link: https://cooking.nytimes.com/recipes/1025771-turmeric-ginger-salmon
 Cuisine: Asian
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty:
+Difficulty: 
 Author: Christian Reynoso
 Date added: 2026-07-09
 image: turmericsalmon.webp
 obsidianUIMode: preview
-aliases:
+aliases: 
 ---
 
 

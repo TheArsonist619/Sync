@@ -5,7 +5,8 @@ tags:
   - thanksgiving
   - party
   - casserole
-source: https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945
+Source: Food Network
+Link: https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945
 Cuisine:
   - American
 Type:

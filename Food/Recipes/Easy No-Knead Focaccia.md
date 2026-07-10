@@ -4,18 +4,19 @@ tags:
   - focaccia
   - yeast/activedry
   - wishlist
-source: https://www.bonappetit.com/recipe/easy-no-knead-focaccia
+Source: Sarah Jampel
+Link: https://www.bonappetit.com/recipe/easy-no-knead-focaccia
 Cuisine: Italian
 Type: Side
 Meal:
   - Lunch
   - Dinner
 Difficulty: Easy
-Author: Bon Appétit
+Author: Sarah Jampel
 Date added: 2026-07-09
 image: foccacia.webp
 obsidianUIMode: preview
-aliases:
+aliases: 
 ---
 
 ![[foccacia.webp|hs-med locr]]

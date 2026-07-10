@@ -4,11 +4,12 @@ tags:
   - chocolate
   - walnuts
   - bread
-source: https://www.bonappetit.com/recipe/banana-bread
+Source: Dawn Perry
+Link: https://www.bonappetit.com/recipe/banana-bread
 Cuisine: American
 Type: Dessert
 Meal: Breakfast
-Difficulty:
+Difficulty: Easy
 Author: Dawn Perry
 Date added: 2026-07-09
 image: bananabread.webp

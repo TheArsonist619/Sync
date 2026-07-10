@@ -2,7 +2,8 @@
 tags:
   - turkey/ground
   - rice
-source: https://emilybites.com/2020/06/korean-inspired-ground-turkey.html
+Source: Emily Bites
+Link: https://emilybites.com/2020/06/korean-inspired-ground-turkey.html
 Cuisine:
   - Asian
 Type:

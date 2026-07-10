@@ -7,13 +7,14 @@ tags:
   - chiles/serrano
   - curry
   - wishlist
-source: https://cooking.nytimes.com/recipes/1019791-kua-kling-southern-thai-style-red-curry?eafs_enabled=false
+Source: Ali Slagle
+Link: https://cooking.nytimes.com/recipes/1019791-kua-kling-southern-thai-style-red-curry?eafs_enabled=false
 Cuisine: Thai
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty:
+Difficulty: 
 Author: Ali Slagle
 Date added: 2026-07-09
 image: kuakling.webp

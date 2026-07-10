@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] Albert Sleeping bag
 - [ ] Jamie Sleeping bag
 - [ ] birkenstock/camp shoes
+- [ ] New roof basket
 
 
 ## Camp supplies
@@ -196,6 +197,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,true,false,true,false,true,false,true,true,true],"show-checkboxes":true,"lane-width":215,"tag-colors":[]}
+{"kanban-plugin":"board","list-collapse":[false,true,true,false,true,false,true,false,true,true,true],"show-checkboxes":true,"lane-width":215,"tag-colors":[]}
 ```
 %%

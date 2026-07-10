@@ -6,7 +6,8 @@ tags:
   - cheese/parmesan
   - garlic
   - heavycream
-source: https://www.seriouseats.com/hasselback-potato-gratin-casserole-holiday-food-lab
+Source: Kenji Lopez-Alt
+Link: https://www.seriouseats.com/hasselback-potato-gratin-casserole-holiday-food-lab
 Cuisine: American
 Type: Side
 Meal:

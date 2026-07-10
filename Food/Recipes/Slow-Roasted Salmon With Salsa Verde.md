@@ -9,18 +9,19 @@ tags:
   - capers
   - salsa
   - wishlist
-source: https://cooking.nytimes.com/recipes/1025331-slow-roasted-salmon-with-salsa-verde
+Source: Sheela Prakash
+Link: https://cooking.nytimes.com/recipes/1025331-slow-roasted-salmon-with-salsa-verde
 Cuisine: Italian
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty:
+Difficulty: 
 Author: Sheela Prakash
 Date added: 2026-07-09
 image: salsaverdesalmon.webp
 obsidianUIMode: preview
-aliases:
+aliases: 
 ---
 
 ![[salsaverdesalmon.webp|hs-med locr]]

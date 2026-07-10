@@ -6,7 +6,8 @@ tags:
   - party
   - camping
   - sandwich
-source: https://www.seriouseats.com/ultra-smashed-cheeseburger-recipe-food-lab
+Source: Kenji Lopez-Alt
+Link: https://www.seriouseats.com/ultra-smashed-cheeseburger-recipe-food-lab
 Cuisine:
   - American
 Type:

@@ -1,12 +1,13 @@
 ---
 tags:
   - christmas
-source: https://www.pauladeen.com/recipe/peppermint-pinwheels/
+Source: Paula Deen
+Link: https://www.pauladeen.com/recipe/peppermint-pinwheels/
 Cuisine:
   - American
 Type:
   - Side
-Meal:
+Meal: 
 Difficulty: 
 Author: Paula Deen
 Date added: 2026-07-09

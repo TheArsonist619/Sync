@@ -1,7 +1,8 @@
 ---
 tags:
   - oats
-source: https://cooking.nytimes.com/recipes/1019516-overnight-oats?eafs_enabled=false
+Source: Genevieve Ko
+Link: https://cooking.nytimes.com/recipes/1019516-overnight-oats?eafs_enabled=false
 Cuisine:
   - American
 Type:

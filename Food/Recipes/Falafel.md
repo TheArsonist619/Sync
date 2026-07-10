@@ -5,7 +5,8 @@ tags:
   - mint
   - cilantro
   - oil
-source: https://www.seriouseats.com/the-food-lab-vegan-experience-best-homemade-falafel-recipe
+Source: Kenji Lopez-Alt
+Link: https://www.seriouseats.com/the-food-lab-vegan-experience-best-homemade-falafel-recipe
 Cuisine:
   - Mediterranean
 Type:

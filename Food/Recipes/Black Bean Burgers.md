@@ -6,7 +6,8 @@ tags:
   - cashews
   - hardboiledeggs
   - sandwich
-source: https://www.seriouseats.com/the-best-black-bean-burger-recipe
+Source: Kenji Lopez-Alt
+Link: https://www.seriouseats.com/the-best-black-bean-burger-recipe
 Cuisine:
   - American
 Type:

@@ -4,7 +4,8 @@ tags:
   - ginger
   - sichuan
   - chile/dried
-source: https://www.seriouseats.com/homemade-spicy-chili-crisp
+Source: Sohla El-Waylly
+Link: https://www.seriouseats.com/homemade-spicy-chili-crisp
 Cuisine:
   - Asian
 Type:

@@ -4,15 +4,16 @@ tags:
   - sourcream
   - biscuits
   - wishlist
-source: https://www.bonappetit.com/recipe/sour-cream-and-onion-biscuits
+Source: Molly Baz
+Link: https://www.bonappetit.com/recipe/sour-cream-and-onion-biscuits
 Cuisine: American
 Type: Side
 Meal: Breakfast
-Author: Bon Appétit
+Author: Molly Baz
 Date added: 2026-07-09
 image: sourcreamonionbiscuits.webp
 obsidianUIMode: preview
-aliases:
+aliases: 
 ---
 
 ![[sourcreamonionbiscuits.webp|hs-med locr]]

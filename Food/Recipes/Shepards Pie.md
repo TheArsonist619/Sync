@@ -7,7 +7,7 @@ tags:
   - healthy
   - tomatoes/canned/diced
   - peas
-source: N/A
+Source: N/A
 Cuisine:
   - American
 Type:

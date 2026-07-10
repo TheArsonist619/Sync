@@ -3,7 +3,8 @@ tags:
   - buttermilk
   - flour
   - party
-source: https://www.seriouseats.com/the-food-lab-buttermilk-biscuits-recipe
+Source: Kenji Lopez-Alt
+Link: https://www.seriouseats.com/the-food-lab-buttermilk-biscuits-recipe
 Cuisine:
   - American
 Type:

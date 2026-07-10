@@ -1,7 +1,8 @@
 ---
 tags:
   - eggs
-source: https://www.seriouseats.com/two-minute-mayonnaise
+Source: Kenji Lopez-Alt
+Link: https://www.seriouseats.com/two-minute-mayonnaise
 Cuisine:
   - American
 Type:

@@ -5,7 +5,8 @@ tags:
   - nori
   - party
   - camping
-source: https://cooking.nytimes.com/recipes/1020160-spam-musubi?eafs_enabled=false
+Source: Alana Kysar
+Link: https://cooking.nytimes.com/recipes/1020160-spam-musubi?eafs_enabled=false
 Cuisine: Hawaiian
 Type:
   - Side

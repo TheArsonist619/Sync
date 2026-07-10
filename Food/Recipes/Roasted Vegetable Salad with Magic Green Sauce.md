@@ -7,7 +7,8 @@ tags:
   - cabbage
   - party
   - salad
-source: https://minimalistbaker.com/roasted-vegetable-salad-with-chimichurri/
+Source: Minimalist Baker
+Link: https://minimalistbaker.com/roasted-vegetable-salad-with-chimichurri/
 Cuisine:
   - American
 Type:

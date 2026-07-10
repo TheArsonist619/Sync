@@ -15,12 +15,13 @@ tags:
   - tag1
   - tag2/subcategory
   - parent_tag
-source: URL or Book Title
+Source: Publication Name or Book Title, page X
+Link: https://full-url-to-recipe.com
 Cuisine: Cuisine Type or [Array, Of, Types]
 Type: Main|Side|Dessert|Drink|Base|Condiment
 Meal: [Array of: Breakfast, Lunch, Dinner, Snack]
 Difficulty: [Leave blank or: Easy, Medium, Hard]
-Author: Author Name
+Author: Recipe Creator Name
 Date added: YYYY-MM-DD
 image: filename.webp
 obsidianUIMode: preview
@@ -34,12 +35,13 @@ aliases:
 | Field | Required | Format | Notes |
 |-------|----------|--------|-------|
 | tags | Yes | Array | See tagging rules below |
-| source | Yes | URL or string | Include full URL for web sources |
+| Source | Yes | String | Publication name (e.g., "Bon Appétit", "The Food Lab, p. 167") or book title |
+| Link | Yes | URL | Full URL to the recipe if from web source; omit if from physical book |
 | Cuisine | No | String or array | e.g., "Italian" or ["Italian", "Mediterranean"] |
 | Type | Yes | Single value | Must be one of the main types |
 | Meal | No | Array | Typical meal times for this dish |
 | Difficulty | No | Leave blank | If filled, use: Easy, Medium, or Hard |
-| Author | Yes | String | Person or organization name |
+| Author | Yes | String | The actual recipe creator's name (chef/cookbook author) |
 | Date added | Yes | YYYY-MM-DD | **Always use current date when creating** |
 | image | Yes | Filename | Must be .webp format |
 | obsidianUIMode | Yes | "preview" | Renders note in preview mode by default |

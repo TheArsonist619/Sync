@@ -4,7 +4,8 @@ tags:
   - pita
   - rice
   - tomatoes
-source: https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe
+Source: Kenji Lopez-Alt
+Link: https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe
 Cuisine:
   - Middle Eastern
 Type:

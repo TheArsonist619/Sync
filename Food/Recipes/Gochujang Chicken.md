@@ -9,12 +9,13 @@ tags:
   - gochujang
   - scallions
   - wishlist
-source: https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken
+Source: Molly Baz
+Link: https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken
 Cuisine: Korean
 Type: Main
 Meal: Dinner
-Difficulty:
-Author: Bon Appétit
+Difficulty: 
+Author: Molly Baz
 Date added: 2026-07-09
 image: gochujangchicken.webp
 obsidianUIMode: preview

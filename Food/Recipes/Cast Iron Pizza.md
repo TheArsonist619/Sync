@@ -3,7 +3,8 @@ tags:
   - breadflour
   - yeast
   - cheese/mozzarella
-source: https://www.seriouseats.com/foolproof-pan-pizza-recipe
+Source: Kenji Lopez-Alt
+Link: https://www.seriouseats.com/foolproof-pan-pizza-recipe
 Cuisine:
   - Italian
 Type:

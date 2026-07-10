@@ -4,11 +4,12 @@ tags:
   - chocolate
   - wishlist
   - cookies
-source: https://cooking.nytimes.com/recipes/1019152-salted-chocolate-chunk-shortbread-cookies
+Source: Alison Roman
+Link: https://cooking.nytimes.com/recipes/1019152-salted-chocolate-chunk-shortbread-cookies
 Cuisine: American
 Type:
   - Side
-Meal:
+Meal: 
 Difficulty: 
 Author: Alison Roman
 Date added: 2026-07-09

@@ -4,18 +4,19 @@ tags:
   - beef/ground
   - scallions
   - wishlist
-source: https://cooking.nytimes.com/recipes/1019763-korean-bbq-style-meatballs
+Source: Kay Chun
+Link: https://cooking.nytimes.com/recipes/1019763-korean-bbq-style-meatballs
 Cuisine: Korean
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty:
+Difficulty: 
 Author: Kay Chun
 Date added: 2026-07-09
 image: koreanmeatballs.webp
 obsidianUIMode: preview
-aliases:
+aliases: 
 ---
 
 ![[koreanmeatballs.webp|hs-med locr]]

@@ -8,17 +8,18 @@ tags:
   - avocado
   - cashews
   - wishlist
-source: https://www.bonappetit.com/recipe/gochujang-ranch-crispy-chicken-bowl
+Source: Rick Martinez
+Link: https://www.bonappetit.com/recipe/gochujang-ranch-crispy-chicken-bowl
 Cuisine: Korean
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Author: Bon Appétit
+Author: Rick Martinez
 Date added: 2026-07-09
 image: gochujangchickenbowl.webp
 obsidianUIMode: preview
-aliases:
+aliases: 
 ---
 
 ![[gochujangchickenbowl.webp|hs-med locr]]

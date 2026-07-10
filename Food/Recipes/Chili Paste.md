@@ -1,17 +1,17 @@
 ---
 tags:
   - chile/dried
-source: The Food Lab, p. 259
+Source: The Food Lab, p. 259
 Cuisine: Mexican
 Type:
   - Base
-Meal:
+Meal: 
 Difficulty: Easy
-Author: Kenji Lopez-Alt
+Author: Kenji López-Alt
 Date added: 2026-07-09
 image: chilipaste.webp
 obsidianUIMode: preview
-aliases:
+aliases: 
 ---
 
 ![[chilipaste.webp|locr hs-med]]

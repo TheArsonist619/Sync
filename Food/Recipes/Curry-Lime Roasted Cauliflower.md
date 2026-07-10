@@ -2,7 +2,8 @@
 tags:
   - cauliflower
   - limes
-source: https://www.instagram.com/p/CFAsNn0lZQr/
+Source: Instagram
+Link: https://www.instagram.com/p/CFAsNn0lZQr/
 Cuisine:
   - Indian
 Type:
@@ -10,7 +11,7 @@ Type:
 Meal:
   - Dinner
 Difficulty: Easy
-Author: Instagram
+Author: N/A
 Date added: 2026-07-09
 image: currylimecauliflower.webp
 obsidianUIMode: preview

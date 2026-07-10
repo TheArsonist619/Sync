@@ -8,18 +8,19 @@ tags:
   - noodles
   - noodles/freshramen
   - noodles/spaghetti
-source: https://www.bonappetit.com/recipe/spicy-sweet-sambal-pork-noodles
+Source: Chris Morocco
+Link: https://www.bonappetit.com/recipe/spicy-sweet-sambal-pork-noodles
 Cuisine: Asian
 Type: Main
 Meal:
   - Lunch
   - Dinner
 Difficulty: Easy
-Author: Bon Appétit
+Author: Chris Morocco
 Date added: 2026-07-09
 image: sambalnoodles.webp
 obsidianUIMode: preview
-aliases:
+aliases: 
 ---
 
 ![[sambalnoodles.webp|hs-med locr]]

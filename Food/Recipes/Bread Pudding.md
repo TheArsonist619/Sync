@@ -4,13 +4,14 @@ tags:
   - bread/challah
   - bread/brioche
   - milk
-source: https://cooking.nytimes.com/recipes/1012636-simple-bread-pudding
+Source: Mark Bittman
+Link: https://cooking.nytimes.com/recipes/1012636-simple-bread-pudding
 Cuisine: American
 Type:
   - Side
 Meal:
   - Breakfast
-Difficulty:
+Difficulty: 
 Author: Mark Bittman
 Date added: 2026-07-09
 image: breadpudding.webp

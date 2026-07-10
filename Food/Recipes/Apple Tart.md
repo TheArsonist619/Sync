@@ -3,12 +3,12 @@ tags:
   - apples
   - pastry
   - wishlist
-source: Dessert Person, p. 91
+Source: Dessert Person, p. 91
 Cuisine: French
 Type:
   - Side
-Meal:
-Difficulty:
+Meal: 
+Difficulty: 
 Author: Claire Saffitz
 Date added: 2026-07-09
 image: appletart.webp

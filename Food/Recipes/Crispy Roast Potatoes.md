@@ -3,7 +3,8 @@ tags:
   - potatoes
   - potatoes/russet
   - potatoes/yukonGold
-source: https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe
+Source: Kenji Lopez-Alt
+Link: https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe
 Cuisine:
   - American
 Type:

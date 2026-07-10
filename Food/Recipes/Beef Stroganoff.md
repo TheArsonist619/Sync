@@ -4,7 +4,8 @@ tags:
   - beef/chuckroast
   - mushrooms
   - pasta/eggnoodles
-source: https://www.seriouseats.com/rich-and-creamy-slow-cooker-beef-stroganoff-recipe-11892781
+Source: Jennifer Olvera
+Link: https://www.seriouseats.com/rich-and-creamy-slow-cooker-beef-stroganoff-recipe-11892781
 Cuisine:
   - American
 Type:

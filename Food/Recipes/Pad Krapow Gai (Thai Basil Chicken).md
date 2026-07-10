@@ -9,13 +9,14 @@ tags:
   - wishlist
   - rice
   - oystersauce
-source: https://cooking.nytimes.com/recipes/1023437-pad-krapow-gai-thai-basil-chicken?eafs_enabled=false
+Source: Kris Yenbamroong
+Link: https://cooking.nytimes.com/recipes/1023437-pad-krapow-gai-thai-basil-chicken?eafs_enabled=false
 Cuisine: Thai
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty:
+Difficulty: 
 Author: Kris Yenbamroong
 Date added: 2026-07-09
 image: Padkrapowgai.webp

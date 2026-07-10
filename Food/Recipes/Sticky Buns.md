@@ -6,14 +6,14 @@ tags:
   - oranges
   - cheese/cream
   - milk/butter
-source: The Food Lab, p. 167
+Source: The Food Lab, p. 167
 Cuisine: American
 Type:
   - Side
 Meal:
   - Breakfast
 Difficulty: Hard
-Author: Kenji Lopez-Alt
+Author: Kenji López-Alt
 Date added: 2026-07-09
 image: stickybuns.webp
 obsidianUIMode: preview

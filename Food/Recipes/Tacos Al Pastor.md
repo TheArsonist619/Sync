@@ -5,7 +5,8 @@ tags:
   - chipotleinadobo
   - party
   - tacos
-source: https://www.seriouseats.com/tacos-al-pastor-recipe
+Source: Kenji Lopez-Alt
+Link: https://www.seriouseats.com/tacos-al-pastor-recipe
 Cuisine:
   - Mexican
 Type:

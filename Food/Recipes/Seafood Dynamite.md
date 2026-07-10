@@ -5,7 +5,7 @@ tags:
   - seafood/shrimp
   - seafood/crab
   - mushrooms
-source: yellow paper
+Source: yellow paper
 Cuisine:
   - Asian
 Type:
@@ -14,7 +14,7 @@ Type:
 Meal:
   - Dinner
 Difficulty: Medium
-Author: NA
+Author: yellow paper
 Date added: 2026-07-09
 image: seafooddynamiterecipe.webp
 obsidianUIMode: preview

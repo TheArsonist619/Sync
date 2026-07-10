@@ -2,7 +2,8 @@
 tags:
   - flour
   - eggs
-source: https://altonbrown.com/recipes/dutch-baby-pancake/
+Source: Alton Brown
+Link: https://altonbrown.com/recipes/dutch-baby-pancake/
 Cuisine:
   - American
 Type:

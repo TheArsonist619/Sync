@@ -14,7 +14,8 @@ tags:
   - heavycream
   - cheese/parmesan
   - noodles
-source: https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe
+Source: Kenji Lopez-Alt
+Link: https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe
 Cuisine: Italian
 Type: Main
 Meal: Dinner

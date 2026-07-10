@@ -10,16 +10,17 @@ tags:
   - dutchoven
   - wishlist
   - soup
-source: https://cooking.nytimes.com/recipes/4735-old-fashioned-beef-stew
+Source: Molly O'Neill
+Link: https://cooking.nytimes.com/recipes/4735-old-fashioned-beef-stew
 Cuisine: American
 Type: Main
 Meal: Dinner
-Difficulty:
+Difficulty: 
 Author: Molly O'Neill
 Date added: 2026-07-09
 image: beefstew.webp
 obsidianUIMode: preview
-aliases:
+aliases: 
 ---
 
 ![[beefstew.webp|hs-med locr]]

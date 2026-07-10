@@ -5,12 +5,12 @@ tags:
   - wine
   - seafood/shrimp
   - noodles
-source: The Food Lab, p. 690
+Source: The Food Lab, p. 690
 Cuisine: Italian
 Type: Main
 Meal: Dinner
 Difficulty: Medium
-Author: Kenji Lopez-Alt
+Author: Kenji López-Alt
 Date added: 2026-07-09
 image: shrimpscampi.webp
 obsidianUIMode: preview

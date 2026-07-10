@@ -4,7 +4,8 @@ tags:
   - cheese
   - party
   - noodles
-source: https://www.seriouseats.com/ingredient-stovetop-mac-and-cheese-recipe
+Source: Kenji Lopez-Alt
+Link: https://www.seriouseats.com/ingredient-stovetop-mac-and-cheese-recipe
 Cuisine:
   - American
 Type:

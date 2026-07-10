@@ -1,7 +1,7 @@
 ---
 tags:
   - chicken/thighs
-source: N/A
+Source: N/A
 Cuisine: Filipino
 Type:
   - Main

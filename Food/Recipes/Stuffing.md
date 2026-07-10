@@ -3,7 +3,8 @@ tags:
   - bread
   - thanksgiving
   - party
-source: https://www.bonappetit.com/recipe/simple-is-best-stuffing-dressing
+Source: Victoria Granof
+Link: https://www.bonappetit.com/recipe/simple-is-best-stuffing-dressing
 Cuisine:
   - American
 Type:
@@ -11,7 +12,7 @@ Type:
 Meal:
   - Dinner
 Difficulty: Medium
-Author: Bon Apetit
+Author: Victoria Granof
 Date added: 2026-07-09
 image: stuffing.webp
 obsidianUIMode: preview

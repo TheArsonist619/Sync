@@ -3,7 +3,8 @@ tags:
   - rice/basmati
   - lentils
   - instapot
-source: https://www.veganricha.com/instant-pot-kitchari/#wprm-recipe-container-30791
+Source: Richa Hingle
+Link: https://www.veganricha.com/instant-pot-kitchari/#wprm-recipe-container-30791
 Cuisine:
   - Indian
 Type:

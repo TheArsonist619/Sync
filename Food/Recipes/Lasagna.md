@@ -10,14 +10,15 @@ tags:
   - cheese
   - cheese/parmesan
   - wishlist
-source: https://www.bonappetit.com/recipe/ba-best-lasagna
+Source: Chris Morocco
+Link: https://www.bonappetit.com/recipe/ba-best-lasagna
 Cuisine: Italian
 Type: Main
 Meal:
   - Lunch
   - Dinner
 Difficulty: Hard
-Author: Bon Appétit
+Author: Chris Morocco
 Date added: 2026-07-09
 image: lasagna.webp
 obsidianUIMode: preview

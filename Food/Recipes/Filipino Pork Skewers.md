@@ -3,7 +3,8 @@ tags:
   - pork/shoulder
   - pork/pulled
   - party
-source: https://www.seriouseats.com/filipino-barcecue-meat-recipe-11714939
+Source: Joshua Bousel
+Link: https://www.seriouseats.com/filipino-barcecue-meat-recipe-11714939
 Cuisine:
   - Filipino
 Type:

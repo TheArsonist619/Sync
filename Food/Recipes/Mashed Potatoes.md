@@ -5,13 +5,14 @@ tags:
   - garlic
   - milk/whole
   - heavycream
-source: https://www.bonappetit.com/recipe/best-mashed-potatoes
+Source: Andy Baraghani
+Link: https://www.bonappetit.com/recipe/best-mashed-potatoes
 Cuisine: American
 Type: Side
 Meal:
   - Dinner
 Difficulty: Medium
-Author: Bon Appétit
+Author: Andy Baraghani
 Date added: 2026-07-09
 image: mashedpotatoes.webp
 obsidianUIMode: preview

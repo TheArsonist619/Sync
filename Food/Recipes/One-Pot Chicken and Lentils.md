@@ -5,18 +5,19 @@ tags:
   - lentils
   - dutchoven
   - wishlist
-source: https://cooking.nytimes.com/recipes/1025953-one-pot-chicken-and-lentils?eafs_enabled=false
+Source: Yasmin Fahr
+Link: https://cooking.nytimes.com/recipes/1025953-one-pot-chicken-and-lentils?eafs_enabled=false
 Cuisine: Middle Eastern
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty:
+Difficulty: 
 Author: Yasmin Fahr
 Date added: 2026-07-09
 image: onepotlentils.webp
 obsidianUIMode: preview
-aliases:
+aliases: 
 ---
 
 ![[onepotlentils.webp|hs-med locr]]

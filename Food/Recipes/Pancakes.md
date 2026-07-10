@@ -2,7 +2,7 @@
 tags:
   - flour
   - syrup
-source: https://www.youtube.com/watch?v=vkcHmpKxFwg
+Source: N/A
 Cuisine:
   - American
 Type:

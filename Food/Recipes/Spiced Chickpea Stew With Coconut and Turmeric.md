@@ -11,7 +11,8 @@ tags:
   - milk/coconut
   - soup
   - stew
-source: https://cooking.nytimes.com/recipes/1019772-spiced-chickpea-stew-with-coconut-and-turmeric?eafs_enabled=false
+Source: Alison Roman
+Link: https://cooking.nytimes.com/recipes/1019772-spiced-chickpea-stew-with-coconut-and-turmeric?eafs_enabled=false
 Cuisine:
   - Indian
   - Caribbean

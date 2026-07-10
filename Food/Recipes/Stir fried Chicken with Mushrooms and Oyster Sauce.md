@@ -2,7 +2,8 @@
 tags:
   - chicken/breast
   - mushrooms
-source: https://www.seriouseats.com/stir-fried-chicken-mushrooms-oyster-sauce-recipe
+Source: Shao Z
+Link: https://www.seriouseats.com/stir-fried-chicken-mushrooms-oyster-sauce-recipe
 Cuisine:
   - Asian
 Type:
