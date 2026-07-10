@@ -1,11 +1,7 @@
-- bon apetit
-	- thanksiving
-	- banana bread
-	- beef stroganoff
-	- pumpkin pie
-	- hardboiled eggs
-	- cheescake
-	- egg nog
-	- pine soda
-	- mexican rice
-	- 
+
+- pumpkin pie
+- hardboiled eggs
+- pine soda
+- Dessert Person
+- The Wok
+- other books
