@@ -16,7 +16,7 @@ image: puercoenchilado.webp
 obsidianUIMode: preview
 ---
 
-![[puercoenchilado.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/puercoenchilado.webp|locr hs-med]]
 
 ## Ingredients
 - [ ] 3 california chiles

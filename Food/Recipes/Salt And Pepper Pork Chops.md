@@ -22,7 +22,7 @@ image: saltandpepperpork.webp
 obsidianUIMode: preview
 ---
 
-![[saltandpepperpork.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/saltandpepperpork.webp|locr hs-med]]
 
 ## Ingredients
 

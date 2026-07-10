@@ -19,7 +19,7 @@ aliases:
   - BA's Best Banana Bread
 ---
 
-![[bananabread.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/bananabread.webp|locr hs-med]]
 
 ## Ingredients
 servings: Makes one 8½x4½" loaf

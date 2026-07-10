@@ -25,7 +25,7 @@ aliases:
   - Thai Basil Chicken
 ---
 
-![[padkrapowgai.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/padkrapowgai.webp|hs-med locr]]
 
 ## Ingredients
 servings: 2 to 4 servings

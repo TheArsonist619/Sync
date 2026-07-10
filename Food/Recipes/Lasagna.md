@@ -26,7 +26,7 @@ aliases:
   - BA's Best Lasagna
 ---
 
-![[lasagna.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/lasagna.webp|hs-med locr]]
 
 ## Ingredients
 servings: 8 servings

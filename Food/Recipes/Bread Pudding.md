@@ -20,7 +20,7 @@ aliases:
   - Simple Bread Pudding
 ---
 
-![[breadpudding.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/breadpudding.webp|locr hs-med]]
 ## Ingredients
 servings: 6 to 8
 

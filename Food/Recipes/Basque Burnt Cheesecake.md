@@ -19,7 +19,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[basquecheesecake.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/basquecheesecake.webp|hs-med locr]]
 
 ## Ingredients
 servings: 12–16 servings

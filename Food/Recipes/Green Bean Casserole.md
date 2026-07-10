@@ -22,7 +22,7 @@ image: greenbeancasserole.webp
 obsidianUIMode: preview
 ---
 
-![[greenbeancasserole.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/greenbeancasserole.webp|hs-med locr]]
 
 
 

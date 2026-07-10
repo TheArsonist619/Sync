@@ -20,7 +20,7 @@ aliases:
 ---
 
 
-![[dutchbaby.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/dutchbaby.webp|hs-med locr]]
 
 ## Ingredients
 - [ ] 3 tablespoons unsalted butter, divided

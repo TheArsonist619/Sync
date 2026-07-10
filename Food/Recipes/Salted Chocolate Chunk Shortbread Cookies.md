@@ -18,7 +18,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[chocshortbreadcookies.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/chocshortbreadcookies.webp|hs-med locr]]
 ## Ingredients
 servings: 24 cookies
 

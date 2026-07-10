@@ -20,7 +20,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[onepotlentils.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/onepotlentils.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 servings

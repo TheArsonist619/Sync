@@ -23,7 +23,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[salsaverdemeatballs.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/salsaverdemeatballs.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 servings

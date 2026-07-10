@@ -21,7 +21,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[filipinoskewers.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/filipinoskewers.webp|locr hs-med]]
 
 
 ## Ingredients

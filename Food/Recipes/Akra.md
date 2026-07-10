@@ -21,7 +21,7 @@ aliases:
   - Fritters
   - Taro Fritters
 ---
-![[akra.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/akra.webp|hs-med locr]]
 ## Ingredients
 servings: 4 (makes about 20 fritters)
 

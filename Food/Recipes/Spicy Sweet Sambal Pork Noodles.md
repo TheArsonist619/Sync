@@ -23,7 +23,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[sambalnoodles.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/sambalnoodles.webp|hs-med locr]]
 
 ## Ingredients
 servings: 6–8 servings

@@ -20,7 +20,7 @@ image: medicarrots.webp
 obsidianUIMode: preview
 ---
 
-![[Medicarrots.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/Medicarrots.webp|locr hs-med]]
 
 ## Ingredients
 

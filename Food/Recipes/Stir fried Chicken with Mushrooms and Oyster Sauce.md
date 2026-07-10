@@ -19,7 +19,7 @@ obsidianUIMode: preview
 ---
 
 
-![[chickenmushroomoystersauce.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/chickenmushroomoystersauce.webp|locr hs-med]]
 
 ## Ingredients
 
@@ -65,21 +65,21 @@ obsidianUIMode: preview
 ## Directions
 1. [ ] **For the Velveted Chicken:** In a small bowl, thoroughly combine egg white, cornstarch, rice wine, and salt. Place chicken in a bowl and add cornstarch mixture, tossing to combine. Refrigerate for 30 minutes.
     
-    ![[stirfriedchickenmushrooms1.webp|400]]
+    ![[Sync/Food/Recipes/Images/stirfriedchickenmushrooms1.webp|400]]
     
 2. [ ] Fill a wok with water and bring to a boil, then add oil. Add chicken and, separating pieces with chopsticks or a spatula, cook until chicken is white outside but still raw within, about 40 seconds. Drain chicken in a colander and shake off excess water. Wipe wok clean and dry.
     
-    ![[stirfriedchickenmushrooms2.webp|400]]
+    ![[Sync/Food/Recipes/Images/stirfriedchickenmushrooms2.webp|400]]
     
 3. [ ] **For Sauce and Stir-Fry:** In a small bowl, mix together cornstarch, sesame oil, oyster sauce, soy sauce, garlic, and water.
     
 4. [ ] Heat 1 tablespoon vegetable oil in wok over high heat until smoking. Add fresh mixed mushrooms and season with salt. Cook, stirring and tossing, until mushrooms have released their water, about 3 minutes. Add rehydrated wood ear mushrooms and cook until mushrooms begin to brown, about 5 minutes. Transfer mushroom to a plate and wipe out wok.
     
-    ![[stirfriedchickenmushrooms3.webp|400]]
+    ![[Sync/Food/Recipes/Images/stirfriedchickenmushrooms3.webp|400]]
     
 5. [ ] Heat remaining 1 tablespoon vegetable oil in wok over high heat until smoking. Add chicken and stir-fry until chicken is almost cooked through, about 2 minutes. Return mushrooms to wok and stir to combine with chicken. Stir sauce add to the wok, tossing, until sauce thickens, about 1 minute. Transfer to a platter and serve with white rice.
     
-    ![[stirfriedchickenmushrooms4.webp|400]]
+    ![[Sync/Food/Recipes/Images/stirfriedchickenmushrooms4.webp|400]]
     
 
 

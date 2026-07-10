@@ -21,7 +21,7 @@ obsidianUIMode: preview
 ---
 
 
-![[Chilaquiles.webp| locr hs-med]]
+![[Sync/Food/Recipes/Images/Chilaquiles.webp| locr hs-med]]
 
 ## Ingredients
 

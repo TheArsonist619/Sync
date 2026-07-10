@@ -14,7 +14,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[chilipaste.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/chilipaste.webp|locr hs-med]]
 ## Ingredients
 servings: 2 to 2 1/2 cups
 

@@ -18,7 +18,7 @@ obsidianUIMode: preview
 ---
 
 
-![[shakshuka.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/shakshuka.webp|locr hs-med]]
 
 
 ## Ingredients

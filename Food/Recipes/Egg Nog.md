@@ -18,7 +18,7 @@ obsidianUIMode: preview
 aliases:
   - Aged Egg Nog
 ---
-![[eggnog.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/eggnog.webp|hs-med locr]]
 ## Ingredients
 servings: 8-10
 

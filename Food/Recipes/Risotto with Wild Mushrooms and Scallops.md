@@ -17,7 +17,7 @@ Date added: 2026-07-09
 image: risottoscallop.webp
 obsidianUIMode: preview
 ---
-![[risottoscallop.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/risottoscallop.webp|hs-med locr]]
 
 
 ## Ingredients

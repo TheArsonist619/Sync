@@ -25,7 +25,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[mushroomcarbonara.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/mushroomcarbonara.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 servings

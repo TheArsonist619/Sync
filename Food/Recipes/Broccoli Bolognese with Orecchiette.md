@@ -22,7 +22,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[broccolibolognese.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/broccolibolognese.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 servings

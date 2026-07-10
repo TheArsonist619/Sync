@@ -19,7 +19,7 @@ aliases:
   - Pasta with Extra Garlicky Shrimp Scampi
 ---
 
-![[shrimpscampi.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/shrimpscampi.webp|locr hs-med]]
 
 ## Ingredients
 servings: 4-6

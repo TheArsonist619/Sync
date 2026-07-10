@@ -21,7 +21,7 @@ image: crispyroastpotatoes.webp
 obsidianUIMode: preview
 ---
 
-![[crispyroastpotatoes.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/crispyroastpotatoes.webp|hs-med locr]]
 
 ## Ingredients
 
@@ -46,21 +46,21 @@ obsidianUIMode: preview
     
 2. [ ] Meanwhile, combine olive oil, duck fat, or beef fat with rosemary, garlic, and a few grinds of black pepper in a small saucepan and heat over medium heat. Cook, stirring and shaking pan constantly, until garlic just begins to turn golden, about 3 minutes. Immediately strain oil through a fine-mesh strainer set in a large bowl. Set garlic/rosemary mixture aside and reserve separately.
 
-![[z-images/crispyroastpotatoes1.webp|400]]
+![[Sync/Food/Recipes/Images/crispyroastpotatoes1.webp|400]]
 
 3. [ ] When potatoes are cooked, drain carefully and let them rest in the pot for about 30 seconds to allow excess moisture to evaporate. Transfer to bowl with infused oil, season to taste with a little more salt and pepper, and toss to coat, shaking bowl roughly, until a thick layer of mashed potato–like paste has built up on the potato chunks.
 
-![[z-images/crispyroastpotatoes2.webp|400]]
+![[Sync/Food/Recipes/Images/crispyroastpotatoes2.webp|400]]
 
 4. [ ] Transfer potatoes to a large rimmed baking sheet and separate them, spreading them out evenly. Transfer to oven and roast, without moving, for 20 minutes. Using a thin, flexible metal spatula to release any stuck potatoes, shake pan and turn potatoes. Continue roasting until potatoes are deep brown and crisp all over, turning and shaking them a few times during cooking, 30 to 40 minutes longer.
 
-![[z-images/crispyroastpotatoes3.webp|400]]
+![[Sync/Food/Recipes/Images/crispyroastpotatoes3.webp|400]]
 
 5. [ ] Transfer potatoes to a large bowl and add garlic/rosemary mixture and minced parsley. Toss to coat and season with more salt and pepper to taste. Serve immediately.
 
-![[z-images/crispyroastpotatoes4.webp|400]]
+![[Sync/Food/Recipes/Images/crispyroastpotatoes4.webp|400]]
 
-![[z-images/crispyroastpotatoes5.webp|400]]
+![[Sync/Food/Recipes/Images/crispyroastpotatoes5.webp|400]]
 
 ## Notes
 

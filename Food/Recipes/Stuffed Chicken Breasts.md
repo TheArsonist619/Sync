@@ -18,9 +18,9 @@ obsidianUIMode: preview
 aliases:
   - Chicken breasts with Spinach and Sun-dried Tomatoes
 ---
-![[stuffedchickenbreast.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/stuffedchickenbreast.webp|locr hs-med]]
 
-![[stuffedchickenbreastrecipe.webp]]
+![[Sync/Food/Recipes/Images/stuffedchickenbreastrecipe.webp]]
 
 ## Ingredients
 

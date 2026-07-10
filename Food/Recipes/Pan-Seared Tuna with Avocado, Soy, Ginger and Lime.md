@@ -17,7 +17,7 @@ obsidianUIMode: preview
 ---
 
 
-![[pansearedtuna.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/pansearedtuna.webp|hs-med locr]]
 
 > [!note]+ Random Note written on paper
 > 4 tbsp vinegar

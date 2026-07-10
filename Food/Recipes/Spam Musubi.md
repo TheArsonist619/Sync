@@ -21,7 +21,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[spammusubi.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/spammusubi.webp|hs-med locr]]
 
 ## Ingredients
 servings: 8

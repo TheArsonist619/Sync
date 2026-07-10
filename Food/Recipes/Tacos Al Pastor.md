@@ -22,7 +22,7 @@ image: tacosalpastor.webp
 obsidianUIMode: preview
 ---
 
-![[tacosalpastor.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/tacosalpastor.webp|hs-med locr]]
 
 
 ## Ingredients
@@ -76,46 +76,46 @@ obsidianUIMode: preview
 
 1. [ ] Place chiles in a large saucepan over medium high heat and cook, turning chiles occasionally, until puffed, pliable, lightly browned in spots, and very aromatic, about 5 minutes. Add chicken stock (it should boil immediately), then pour contents of pan into a small bowl. Cover loosely and set aside.
 
-![[z-images/tacosalpastor1.webp|400]]
+![[Sync/Food/Recipes/Images/tacosalpastor1.webp|400]]
 
 2. [ ] Wipe out saucepan, add oil, and return to medium-high heat until oil is shimmering. Add cumin, oregano, and achiote and cook, stirring frequently, until aromatic but not browned, about 30 seconds. Add chipotle chile and sauce and cook until aromatic, about 30 seconds longer. Add vinegar, salt, and sugar and remove from heat.
 
-![[z-images/tacosalpastor2.webp|400]]
+![[Sync/Food/Recipes/Images/tacosalpastor2.webp|400]]
 
 3. [ ] Scrape contents of saucepan into a blender along with garlic and chiles with their soaking liquid. Blend on high speed until completely smooth, about 1 minute, scraping down sides as necessary. Set sauce aside to cool slightly.
 
-![[z-images/tacosalpastor3.webp|400]]
+![[Sync/Food/Recipes/Images/tacosalpastor3.webp|400]]
 
 4. [ ] Using a very sharp chef's knife or slicing knife, slice pork sirloin as thin as possible. If necessary, place meat in freezer for 15 minutes to firm it up. Split the sides of a heavy duty zipper-lock bag. Place one slice of meat inside bag and pound with the bottom of a heavy 8-inch skillet or a meat pounder until less than 1/4-inch thick. Transfer to a large bowl. Repeat with remaining meat.
 
-![[z-images/tacosalpastor4.webp|400]]
+![[Sync/Food/Recipes/Images/tacosalpastor4.webp|400]]
 
 5. [ ] Add marinade to bowl and toss with hands until every piece of meat is evenly coated in marinade.
 
-![[z-images/tacosalpastor5.webp|400]]
+![[Sync/Food/Recipes/Images/tacosalpastor5.webp|400]]
 
 6. [ ] Line the bottom of a disposable aluminum loaf pan with a layer of bacon. Add a layer of thin-sliced marinated meat. Continue layering in bacon and meat until all the meat is used. (It may pile above the pan a little bit. This is ok.) Cover tightly with plastic wrap and refrigerate for at least 4 hours and up to 36 hours.
 
-![[z-images/tacosalpastor6.webp|400]]
+![[Sync/Food/Recipes/Images/tacosalpastor6.webp|400]]
 
 7. [ ] **To cook indoors**: Preheat the oven to 275°F. Uncover aluminum loaf pan and place on a foil-lined rimmed baking sheet. Transfer to oven and cook until meat is completely tender (It will drip lots of fat), about 4 hours. Remove from oven, allow to cool slightly, cover with aluminum foil, and refrigerate for at least 2 hours and up to overnight.
 
-![[z-images/tacosalpastor7.webp|400]]
+![[Sync/Food/Recipes/Images/tacosalpastor7.webp|400]]
 
 8. [ ] **To cook outdoors**: Light half a chimney of charcoal and allow to preheat until coals are mostly covered in gray ash. Spread out under one half of coal grate, and place cooking grate on top. Alternatively, set one set of burners on a gas grill to low and leave the remaining burners off. Unwrap aluminum loaf pan and place directly over cooler side of grill, placing a drip pan underneath if desired. Cover grill and cook until loaf registers 180 to 190°F in the center, about 4 hours, adding more coals to grill or adjusting burners as necessary to maintain an air temperature of around 275°F for the duration of cooking. Remove from grill, allow to cool slightly, cover with aluminum foil, and refrigerate at least 2 hours and up to overnight.
 
 9. [ ] **To Serve:** Preheat oven to 350°F. Remove cooked meat from aluminum tray, scraping off any fat or jellied juices from its sides. Use a spoon to collect fat and juices from tray, reserving each separately. Using a sharp chef's knife or slicing knife, slice meat as thinly as possible to create fine shavings of meat and fat. Transfer to a bowl.
 
-![[z-images/tacosalpastor8.webp|400]]
+![[Sync/Food/Recipes/Images/tacosalpastor8.webp|400]]
 
 10. [ ] If fat from meat is solid, heat gently in the microwave or in the oven until melted. Transfer pineapple pieces to a rimmed baking sheet lined with aluminum foil. Brush with fat. Transfer to oven and roast until completely tender, about 25 minutes. Remove from oven and allow to cool slightly.
 
-![[z-images/tacosalpastor9.webp|400]]
+![[Sync/Food/Recipes/Images/tacosalpastor9.webp|400]]
 
 11. [ ] About 10 minutes before pineapple is done roasting, transfer meat and 1 tablespoon of fat to a large cast iron or non-stick skillet. Heat over medium-high heat, stirring occasionally, until meat crisps and deeply browns in spots. Add any reserved juices and toss to combine, allowing it to cook until reduced to a moist glaze. Transfer meat to a warmed serving bowl.
 
-![[z-images/tacosalpastor10.webp|400]]
+![[Sync/Food/Recipes/Images/tacosalpastor10.webp|400]]
 
 12. [ ] Chop roasted pineapple into large chunks. Serve meat and pineapple immediately with warmed tortillas, onion, cilantro, salsa, and lime wedges. Meat will be very moist and should be packed into double-stacked tortillas for serving.
 
-![[z-images/tacosalpastor11.webp|400]]
+![[Sync/Food/Recipes/Images/tacosalpastor11.webp|400]]

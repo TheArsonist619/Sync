@@ -17,7 +17,7 @@ image: koreanturkey.webp
 obsidianUIMode: preview
 ---
 
-![[koreanturkey.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/koreanturkey.webp|locr hs-med]]
 
 ## Ingredients
 

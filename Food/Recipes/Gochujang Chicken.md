@@ -24,7 +24,7 @@ aliases:
   - Slow-Roast Gochujang Chicken
 ---
 
-![[gochujangchicken.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/gochujangchicken.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 servings

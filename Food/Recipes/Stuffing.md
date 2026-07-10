@@ -20,7 +20,7 @@ aliases:
   - Simple is Best Stuffing
 ---
 
-![[Stuffing.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/Stuffing.webp|locr hs-med]]
 
 ## Ingredients
 

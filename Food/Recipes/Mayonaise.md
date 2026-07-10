@@ -14,7 +14,7 @@ obsidianUIMode: preview
 ---
 
 
-![[mayonaise.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/mayonaise.webp|locr hs-med]]
 
 ## Ingredients
 
@@ -33,11 +33,11 @@ obsidianUIMode: preview
 ## Directions
 1. [ ] Place egg, lemon juice, and mustard in the bottom of a glass jar just large enough to fit the head of an immersion blender.
 
-    ![[z-images/mayo1.webp|400]]
+    ![[Sync/Food/Recipes/Images/mayo1.webp|400]]
 
 2. [ ] Add garlic, if using. Pour oil on top and allow to settle for 15 seconds. Place head of immersion blender at bottom of cup and turn it on high speed. Do not pulse or move the head. As mayonnaise forms, slowly tilt and lift the head of the immersion blender until all oil is emulsified. Season mayonnaise to taste with salt. Refrigerate in an airtight container for up to 2 weeks.
 
-    ![[z-images/mayo2.webp|400]]
+    ![[Sync/Food/Recipes/Images/mayo2.webp|400]]
 
 ## Notes
 

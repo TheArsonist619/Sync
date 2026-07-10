@@ -14,7 +14,7 @@ Date added: 2026-07-09
 image: mangolimetart.webp
 obsidianUIMode: preview
 ---
-![[mangolimetart.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/mangolimetart.webp|locr hs-med]]
 
 ## Ingredients
 

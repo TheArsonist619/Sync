@@ -19,7 +19,7 @@ Date added: 2026-07-09
 image: arrozconleche.webp
 obsidianUIMode: preview
 ---
-![[arrozconleche.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/arrozconleche.webp|locr hs-med]]
 
 
 ## Ingredients

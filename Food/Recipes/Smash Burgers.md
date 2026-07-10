@@ -23,7 +23,7 @@ image: smashburgers.webp
 obsidianUIMode: preview
 ---
 
-![[smashburgers.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/smashburgers.webp|hs-med locr]]
 
 
 ## Ingredients

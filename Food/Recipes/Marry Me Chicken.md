@@ -22,7 +22,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[marrymechicken.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/marrymechicken.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 servings

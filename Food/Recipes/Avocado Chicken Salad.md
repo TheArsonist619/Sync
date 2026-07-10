@@ -22,7 +22,7 @@ Date added: 2026-07-09
 image: avocadochickensalad.webp
 obsidianUIMode: preview
 ---
-![[avocadochickensalad.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/avocadochickensalad.webp|locr hs-med]]
 
 
 ## Ingredients

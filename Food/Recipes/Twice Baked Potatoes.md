@@ -2,7 +2,10 @@
 tags:
   - potatoes
   - potatoes/russet
-Source: N/A
+  - pork/bacon
+  - sourcream
+  - cheese/cheddar
+Source: All Recipes
 Cuisine:
   - American
 Type:
@@ -10,11 +13,12 @@ Type:
 Meal:
   - Dinner
 Difficulty: Easy
-Author: N/A
+Author: All Recipe Test Kitchen
 Date added: 2026-07-09
 image: twicebakedpotatoes.webp
 obsidianUIMode: preview
 ---
+
 ![[twicebakedpotatoes.webp|locr hs-med]]
 
 > [!note]+ Note
@@ -41,24 +45,24 @@ obsidianUIMode: preview
 ## Directions
 1. [ ] Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C).
     
-    ![[twicebakedpotatoes1.webp|400]]
+    ![[Sync/Food/Recipes/Images/twicebakedpotatoes1.webp|400]]
 
 2. [ ] Bake potatoes in the preheated oven until tender, about 1 hour. Set potatoes aside until cool enough to handle.
     
-    ![[twicebakedpotatoes2.webp|400]]
+    ![[Sync/Food/Recipes/Images/twicebakedpotatoes2.webp|400]]
 
 3. [ ] Meanwhile, cook bacon in a large, deep skillet over medium-high heat until evenly brown. Drain, crumble, and set aside.
     
-    ![[twicebakedpotatoes3.webp|400]]
+    ![[Sync/Food/Recipes/Images/twicebakedpotatoes3.webp|400]]
 
 4. [ ] Slice potatoes in half lengthwise; scoop flesh into a large bowl. Reserve skins.
     
-    ![[twicebakedpotatoes4.webp|400]]
+    ![[Sync/Food/Recipes/Images/twicebakedpotatoes4.webp|400]]
 
 5. [ ] Add sour cream, ½ cup cheese, ½ green onions, milk, butter, salt, and black pepper to potato flesh; mix with a hand mixer until well blended and creamy.
     
-    ![[twicebakedpotatoes5.webp|400]]
+    ![[Sync/Food/Recipes/Images/twicebakedpotatoes5.webp|400]]
 
 6. [ ] Spoon potato mixture into reserved potato skins; top with remaining ½ cup cheese, remaining ½ green onions, and bacon.
     
-    ![[twicebakedpotatoes6.webp|400]]
+    ![[Sync/Food/Recipes/Images/twicebakedpotatoes6.webp|400]]

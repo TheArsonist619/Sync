@@ -17,7 +17,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[sourcreamonionbiscuits.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/sourcreamonionbiscuits.webp|hs-med locr]]
 
 ## Ingredients
 servings: Makes 8 biscuits

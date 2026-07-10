@@ -19,7 +19,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[giantblueberrypancake.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/giantblueberrypancake.webp|hs-med locr]]
 
 ## Ingredients
 servings: 6 servings

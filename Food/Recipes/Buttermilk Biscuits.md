@@ -19,7 +19,7 @@ obsidianUIMode: preview
 
 
 
-![[biscuits.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/biscuits.webp|locr hs-med]]
 
 ## Ingredients
 
@@ -41,28 +41,28 @@ obsidianUIMode: preview
 ## Directions
 1. [ ] Adjust an oven rack to the middle position and preheat the oven to 425°F (220°C). In a small bowl, whisk together the buttermilk and sour cream.
     
-    ![[buttermilkbiscuits1.webp|400]]
+    ![[Sync/Food/Recipes/Images/buttermilkbiscuits1.webp|400]]
     
 2. [ ] In the bowl of a food processor, combine flour, baking powder, baking soda, and salt and process until blended, about 2 seconds. Scatter cold butter evenly over flour and pulse until the mixture resembles coarse meal and the largest butter pieces are about 1/4-inch at their widest, about 8 times. Transfer to a large bowl.
     
-    ![[buttermilkbiscuits2.webp|400]]
+    ![[Sync/Food/Recipes/Images/buttermilkbiscuits2.webp|400]]
     
 3.  [ ] Add the buttermilk mixture to the flour mixture and, using a rubber spatula, fold until just combined. Transfer the dough to a floured work surface and knead until it just comes together, adding extra flour as necessary.
     
-    ![[buttermilkbiscuits3.webp|400]]
+    ![[Sync/Food/Recipes/Images/buttermilkbiscuits3.webp|400]]
     
 4. [ ] With a rolling pin, roll the dough into a 12- by 8-inch rectangle. Using a bench scraper, fold the right third of the dough over the center, then fold the left third over so you end up with a 12- by 4-inch rectangle. Fold the top third down over the center, then fold the bottom third up so the whole thing is reduced to a 4-inch square. Press the square down and roll it out again into a 12- by 8-inch rectangle. Repeat the folding process once more. (See notes for cheddar cheese and scallion variation.)
     
-    ![[buttermilkbiscuits4.webp|400]]
+    ![[Sync/Food/Recipes/Images/buttermilkbiscuits4.webp|400]]
     
 5. [ ] Roll the dough again into a 10- by 6-inch rectangle (about 1-inch thick). Using a floured biscuit cutter, cut eight 2 1/2–inch rounds out of the dough. Transfer the rounds to a parchment-lined baking sheet, spacing them about 1 inch apart. Form the dough scraps into a ball and knead gently 2 or 3 times, until smooth. Roll the dough out until it’s large enough to cut out 4 more 2 1/2-inch rounds, and transfer to the baking sheet.
     
-    ![[buttermilkbiscuits5.webp|400]]
+    ![[Sync/Food/Recipes/Images/buttermilkbiscuits5.webp|400]]
     
     
 6. [ ]  Brush the tops of the biscuits with the melted butter and bake until golden brown and well risen, about 14 minutes, rotating the pan halfway through. Allow to cool for 5 minutes and serve.
     
-    ![[buttermilkbiscuits6.webp|400]]
+    ![[Sync/Food/Recipes/Images/buttermilkbiscuits6.webp|400]]
     
     
 

@@ -22,7 +22,7 @@ obsidianUIMode: preview
 aliases:
   - Curry
 ---
-![[kuakling.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/kuakling.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 servings

@@ -23,7 +23,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[chickenchickpea.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/chickenchickpea.webp|hs-med locr]]
 ## Ingredients
 servings: 4 servings
 

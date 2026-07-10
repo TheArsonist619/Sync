@@ -19,7 +19,7 @@ aliases:
   - Red Rice
 ---
 
-![[mexicanrice.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/mexicanrice.webp|hs-med locr]]
 
 ## Ingredients
 servings: 6

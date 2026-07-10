@@ -18,7 +18,7 @@ aliases:
   - Not Yo Mama's Banana Pudding
 ---
 
-![[Bananapudding.webp|hs-med locr]]
+![[Sync/Food/Recipes/Images/Bananapudding.webp|hs-med locr]]
 ## Ingredients
 servings: 10
 

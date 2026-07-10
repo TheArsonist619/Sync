@@ -17,7 +17,7 @@ aliases:
   - holiday cookies
 ---
 
-![[pinwheels.webp]]
+![[Sync/Food/Recipes/Images/pinwheels.webp]]
 
 > [!note]+ Note
 > Haven't made. Edited recipe by Rachel

@@ -15,7 +15,7 @@ image: arrozcaldo.webp
 obsidianUIMode: preview
 ---
 
-![[arrozcaldo.webp|locr hs-med]]
+![[Sync/Food/Recipes/Images/arrozcaldo.webp|locr hs-med]]
 
 ## Ingredients
 
@@ -36,4 +36,4 @@ obsidianUIMode: preview
 ## Directions
 - [ ] Step 1
 Heat oil in large pot. Add onion and cook for 5 minutes. Add garlic and ginger and cook until fragrant. Add meat and cook for 1 minute. Stir in fish sauce, cook another 2 minutes. Add chicken broth and rice. Bring to a boil, cover and cook for 10 minutes, stirring occasionally to assure rice doesn't stick. Season to taste. Garnish with green onion, fried garlic, fish sauce and lemon
-![[arrozcaldorecipe.webp|htall]]
+![[Sync/Food/Recipes/Images/arrozcaldorecipe.webp|htall]]
