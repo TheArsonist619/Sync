@@ -8,7 +8,7 @@ tags:
   - cheese
   - cheese/parmesan
   - wishlist
-Source: Adam Rapoport
+Source: Bon Apetit
 Link: https://www.bonappetit.com/recipe/broccoli-bolognese-with-orecchiette
 Cuisine: Italian
 Type: Main
@@ -19,7 +19,7 @@ Author: Adam Rapoport
 Date added: 2026-07-09
 image: broccolibolognese.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[broccolibolognese.webp|hs-med locr]]

@@ -4,11 +4,12 @@ tags:
   - instapot
   - carrots
   - peas
-Source: Lauren Allen
+Source:
 Link: https://tastesbetterfromscratch.com/instant-pot-mexican-rice/
 Cuisine: Mexican
 Type: Side
-Meal: Dinner
+Meal:
+  - Dinner
 Difficulty: Easy
 Author: Lauren Allen
 Date added: 2026-07-09

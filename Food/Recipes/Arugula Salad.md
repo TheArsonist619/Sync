@@ -3,7 +3,7 @@ tags:
   - arugula
   - cheese/parmesan
   - salad
-Source: Ali Slagle
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1023337-arugula-salad-with-parmesan
 Cuisine: Italian
 Type:

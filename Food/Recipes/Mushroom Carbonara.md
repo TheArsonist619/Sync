@@ -10,19 +10,19 @@ tags:
   - noodles
   - noodles/orecchiette
   - wishlist
-Source: Molly Baz
+Source: Bon Apetit
 Link: https://www.bonappetit.com/recipe/mushroom-carbonara
 Cuisine: Italian
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty: 
+Difficulty:
 Author: Molly Baz
 Date added: 2026-07-09
 image: mushroomcarbonara.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[mushroomcarbonara.webp|hs-med locr]]

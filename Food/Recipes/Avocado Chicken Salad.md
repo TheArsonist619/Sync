@@ -6,7 +6,7 @@ tags:
   - hardboiledeggs
   - chives
   - salad
-Source: Natasha Kravchuk
+Source: Natashas Kitchen
 Link: https://natashaskitchen.com/avocado-chicken-salad-recipe
 Cuisine:
   - American

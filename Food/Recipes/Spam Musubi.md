@@ -5,7 +5,7 @@ tags:
   - nori
   - party
   - camping
-Source: Alana Kysar
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1020160-spam-musubi?eafs_enabled=false
 Cuisine: Hawaiian
 Type:
@@ -18,7 +18,7 @@ Author: Alana Kysar
 Date added: 2026-07-09
 image: spammusubi.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[spammusubi.webp|hs-med locr]]

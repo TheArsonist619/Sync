@@ -10,19 +10,19 @@ tags:
   - wishlist
   - tomatoes/cherry
   - tomatoes/grape
-Source: Nargisse Benkabbou
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1026520-crispy-halloumi-with-tomatoes-and-white-beans?eafs_enabled=false
 Cuisine: Mediterranean
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty: 
+Difficulty:
 Author: Nargisse Benkabbou
 Date added: 2026-07-09
 image: halloumi.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[halloumi.webp|hs-med locr]]

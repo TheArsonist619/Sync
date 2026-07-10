@@ -5,7 +5,7 @@ tags:
   - eggs
   - tortilla/chips
   - party
-Source: Martha Rose Shulman
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1017908-green-chilaquiles-with-eggs
 Cuisine:
   - Mexican

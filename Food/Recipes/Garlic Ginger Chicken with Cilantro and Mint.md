@@ -6,19 +6,19 @@ tags:
   - cilantro
   - mint
   - wishlist
-Source: Priya Krishna
+Source: Bon Apetit
 Link: https://www.bonappetit.com/recipe/garlic-ginger-chicken-with-cilantro-and-mint
 Cuisine: Indian
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty: 
+Difficulty:
 Author: Priya Krishna
 Date added: 2026-07-09
 image: cilantromintchicken.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[cilantromintchicken.webp|hs-med locr]]

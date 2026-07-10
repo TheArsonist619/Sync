@@ -8,19 +8,19 @@ tags:
   - wishlist
   - noodles
   - dutchoven
-Source: Alison Roman
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1020830-caramelized-shallot-pasta?eafs_enabled=false
 Cuisine: Italian
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty: 
+Difficulty:
 Author: Alison Roman
 Date added: 2026-07-09
 image: shallotpasta.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[shallotpasta.webp|hs-med locr]]

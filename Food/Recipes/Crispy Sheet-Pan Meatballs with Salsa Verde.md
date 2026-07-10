@@ -8,19 +8,19 @@ tags:
   - capers
   - walnuts
   - wishlist
-Source: Lauren Schaefer
+Source: Bon Apetit
 Link: https://www.bonappetit.com/recipe/crispy-sheet-pan-meatballs-with-salsa-verde
 Cuisine: Italian
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty: 
+Difficulty:
 Author: Lauren Schaefer
 Date added: 2026-07-09
 image: salsaverdemeatballs.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[salsaverdemeatballs.webp|hs-med locr]]

@@ -3,7 +3,7 @@ tags:
   - bread
   - syrup
   - party
-Source: Samantha Seneviratne
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1019102-overnight-french-toast?eafs_enabled=false
 Cuisine:
   - American

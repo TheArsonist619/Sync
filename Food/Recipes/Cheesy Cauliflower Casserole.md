@@ -18,7 +18,7 @@ Meal:
   - Dinner
   - Lunch
 Difficulty: Medium
-Author: The food Lab, p. 420
+Author: Kenji López-Alt
 Date added: 2026-07-09
 image: cauliflowercasserole.webp
 obsidianUIMode: preview

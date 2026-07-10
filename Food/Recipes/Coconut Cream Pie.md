@@ -7,12 +7,12 @@ tags:
   - heavycream
   - pie
   - wishlist
-Source: Claire Saffitz
+Source: Bon Apetit
 Link: https://www.bonappetit.com/recipe/bas-best-coconut-cream-pie
 Cuisine: American
 Type: Dessert
-Meal: 
-Difficulty: 
+Meal:
+Difficulty:
 Author: Claire Saffitz
 Date added: 2026-07-09
 image: coconutcreampie.webp

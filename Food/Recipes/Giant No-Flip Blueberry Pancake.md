@@ -6,16 +6,17 @@ tags:
   - milk/buttermilk
   - maple
   - pancake
-Source: Carla Lalli Music
+Source: Bon Apetit
 Link: https://www.bonappetit.com/recipe/giant-no-flip-blueberry-pancake
 Cuisine: American
 Type: Main
-Meal: Breakfast
+Meal:
+  - Breakfast
 Author: Carla Lalli Music
 Date added: 2026-07-09
 image: giantblueberrypancake.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[giantblueberrypancake.webp|hs-med locr]]

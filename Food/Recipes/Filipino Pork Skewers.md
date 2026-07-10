@@ -1,9 +1,9 @@
 ---
 tags:
+  - coke
   - pork/shoulder
-  - pork/pulled
-  - party
-Source: Joshua Bousel
+  - chicken/thighs
+Source: Serious Eats
 Link: https://www.seriouseats.com/filipino-barcecue-meat-recipe-11714939
 Cuisine:
   - Filipino
@@ -18,8 +18,9 @@ Author: Joshua Bousel
 Date added: 2026-07-09
 image: filipinoskewers.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
+
 ![[filipinoskewers.webp|locr hs-med]]
 
 

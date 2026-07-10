@@ -175,6 +175,7 @@ kanban-plugin: board
 - [ ] macrolens
 - [ ] charge radios
 - [ ] Fix leak in boat
+- [ ] cut cheddar
 
 
 ## Working

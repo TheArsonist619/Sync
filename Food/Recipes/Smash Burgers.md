@@ -1,26 +1,28 @@
 ---
 tags:
   - beef/ground
-  - buns
   - cheese/american
-  - party
+  - buns
+  - lettuce
+  - tomatoes
+  - blackstone
   - camping
-  - sandwich
-Source: Kenji Lopez-Alt
+Source: Serious Eats
 Link: https://www.seriouseats.com/ultra-smashed-cheeseburger-recipe-food-lab
 Cuisine:
   - American
 Type:
   - Main
 Meal:
-  - Dinner
   - Lunch
+  - Dinner
 Difficulty: Easy
-Author: Kenji Lopez-Alt
+Author: Kenji López-Alt
 Date added: 2026-07-09
 image: smashburgers.webp
 obsidianUIMode: preview
 ---
+
 ![[smashburgers.webp|hs-med locr]]
 
 

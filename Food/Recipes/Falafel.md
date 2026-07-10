@@ -1,25 +1,22 @@
 ---
 tags:
-  - chickpeas
+  - beans
+  - beans/chickpea
+  - cilantro
   - parsley
   - mint
-  - cilantro
-  - oil
-Source: Kenji Lopez-Alt
+Source: Serious Eats
 Link: https://www.seriouseats.com/the-food-lab-vegan-experience-best-homemade-falafel-recipe
-Cuisine:
-  - Mediterranean
-Type:
-  - Main
-Meal:
-  - Dinner
-  - Lunch
+Cuisine: Middle Eastern
+Type: Main
+Meal: Lunch, Dinner
 Difficulty: Medium
-Author: Kenji Lopez-Alt
+Author: Kenji López-Alt
 Date added: 2026-07-09
 image: falafel.webp
 obsidianUIMode: preview
 ---
+
 
 
 ![[falafel.webp|hs-med locr]]
@@ -48,9 +45,30 @@ obsidianUIMode: preview
 ## Directions
 1. [ ] Rinse chickpeas and place in a large bowl. Cover with cold water, adding enough to allow the chickpeas to at least triple in volume. Cover and let stand at room temperature overnight. The next day, drain, rinse, and carefully dry chickpeas in a salad spinner.
 
+![[z-Images/falafel1.webp|400]]
+
 2. [ ] Combine chickpeas, herbs, scallions, garlic, cumin, coriander, and salt in the work bowl of a food processor. Pulse until chickpeas are very finely minced, stopping the food processor to scrape down the sides as necessary. A handful of the mixture squeezed into a ball should be able to barely hold together. If not, process a little more.
+
+![[z-Images/falafel2.webp|400]]
+
 3. [ ] Transfer mixture to a bowl, cover, and place in refrigerator for 15 minutes to allow time for more starch to seep out of chickpeas. This will help the balls retain their shape better once formed. Using a tablespoon measure, scoop out heaping spoonfuls of the mixture into your hand. Gently shape each into a ball (you will not be able to roll the mixture like cookie dough; this is okay) and place them on a clean plate.
+
+![[z-Images/falafel3.webp|400]]
 
 4. [ ] When all the balls have been formed, fill a deep cast iron, carbon steel, or nonstick skillet or Dutch oven with 3/4 inch of oil. Heat over high heat until oil registers 375°F (190°C) on an instant-read thermometer. Carefully lower chickpea balls into oil one at a time, allowing a little space between each ball and cooking in batches if necessary. Adjust heat as necessary to maintain a temperature of between 350 and 375°F (175 and 190°C). Allow to cook undisturbed until well browned on bottom sides, then carefully flip balls with a fork until browned on second side, about 4 minutes total. Transfer cooked chickpea balls to a paper towel–lined plate and season with salt. Repeat with remaining chickpea balls.
 
+![[z-Images/falafel4.webp|400]]
+
 5. [ ] Serve immediately with [tahini](https://www.seriouseats.com/israeli-style-tahini-sauce-recipe) and/or [hummus](https://www.seriouseats.com/israeli-style-extra-smooth-hummus-recipe) on the side, or stuffed into pita bread with tahini, tomatoes, cucumber, pickles, and shredded cabbage.
+
+![[z-Images/falafel5.webp|400]]
+
+## Special Equipment
+
+[Salad spinner](https://www.seriouseats.com/equipment-the-best-salad-spinner), [food processor](https://www.seriouseats.com/best-food-processor-equipment-review), [instant-read thermometer](https://www.seriouseats.com/best-instant-read-thermometers-5323231)
+
+## Read More
+
+- [Falafel With Black Olives and Harissa](https://www.seriouseats.com/falafel-black-olive-harissa-vegan-experience-recipe)
+- [Zhug (Yemenite Hot Sauce With Cilantro and Parsley)](https://www.seriouseats.com/schug-zhug-srug-yemenite-israeli-hot-sauce-recipe)
+- [Traditional Toum (Lebanese Garlic Sauce)](https://www.seriouseats.com/traditional-toum)

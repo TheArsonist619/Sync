@@ -4,7 +4,7 @@ tags:
   - chile/dried
   - christmas
   - party
-Source: Marissa Medrano, Candi Medrano
+Source:
 Cuisine:
   - Mexican
 Type:

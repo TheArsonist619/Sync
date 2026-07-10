@@ -9,12 +9,13 @@ tags:
   - casserole
   - thanksgiving
   - party
-Source: Chris Morocco
+Source: Bon Apetit
 Link: https://www.bonappetit.com/recipe/bas-best-green-bean-casserole
 Cuisine: American
 Type: Side
-Meal: Dinner
-Difficulty: 
+Meal:
+  - Dinner
+Difficulty:
 Author: Chris Morocco
 Date added: 2026-07-09
 image: greenbeancasserole.webp

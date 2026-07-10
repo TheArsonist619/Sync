@@ -5,7 +5,7 @@ tags:
   - garlic
   - milk/whole
   - heavycream
-Source: Andy Baraghani
+Source: Bon Apetit
 Link: https://www.bonappetit.com/recipe/best-mashed-potatoes
 Cuisine: American
 Type: Side

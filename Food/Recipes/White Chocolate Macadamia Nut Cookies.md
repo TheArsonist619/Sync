@@ -4,18 +4,18 @@ tags:
   - macadamianuts
   - whitechocolate
   - wishlist
-Source: Sohla El-Waylly
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1023680-white-chocolate-macadamia-nut-cookies?smid=ck-recipe-iOS-share
 Cuisine: American
 Type:
   - Side
-Meal: 
+Meal:
 Difficulty: Medium
 Author: Sohla El-Waylly
 Date added: 2026-07-09
 image: whitechocnutcookies.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 ![[whitechocnutcookies.webp|hs-med locr]]
 

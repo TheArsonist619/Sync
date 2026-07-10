@@ -1,32 +1,32 @@
 ---
 tags:
-  - beef/chuck
-  - pork/shoulder
-  - lamb/shoulder
-  - chicken/liver
+  - beef
+  - beef/ground
+  - pork
+  - pork/ground
   - pork/pancetta
-  - onions
-  - carrots
-  - celery
-  - sage
-  - parsley
-  - wine
+  - tomatoes
+  - milk
+  - chicken/livers
+  - gelatin
+  - tomatoes/sanmarzano
+  - pancetta
   - heavycream
-  - cheese/parmesan
-  - noodles
-Source: Kenji Lopez-Alt
+Source: Serious Eats
 Link: https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe
 Cuisine: Italian
-Type: Main
-Meal: Dinner
+Type: Base
+Meal:
+  - Lunch
+  - Dinner
 Difficulty: Hard
-Author: Kenji Lopez-Alt
+Author: Kenji López-Alt
 Date added: 2026-07-09
 image: bolognese.webp
 obsidianUIMode: preview
 aliases:
-  - The Best Slow-Cooked Bolognese Sauce Recipe
 ---
+
 ![[bolognese.webp|locr hs-med]]
 ## Ingredients
 
@@ -60,14 +60,40 @@ aliases:
 ## Directions
 
 1. [ ] Adjust oven rack to lower-middle position and preheat oven to 300°F (150°C). Place stock in a medium bowl or 1-quart liquid measure and sprinkle with gelatin. Set aside. Purée tomatoes in the can using an immersion blender or transfer to the bowl of a countertop blender and purée until smooth. Transfer chicken livers to a cup that just fits head of immersion blender and purée until smooth.
+
+![[z-images/bolognese1.webp|400]]
+
 2. [ ] Heat olive oil in a large Dutch oven over high heat until shimmering. Add ground beef, pork, and lamb, season with salt and pepper, and cook, stirring and breaking up with a wooden spoon or potato masher until no longer pink, about 10 minutes. Remove from heat and stir in puréed chicken livers.
+
+![[z-images/bolognese2.webp|400]]
+
 3. [ ] Meanwhile, heat butter and pancetta in a large skillet over medium-high heat and cook, stirring frequently, until fat has mostly rendered but butter and pancetta have not yet started to brown, about 8 minutes. Add onion, carrots, celery, garlic, sage, and half of parsley and cook, stirring and tossing, until vegetables are completely softened but not browned, about 8 minutes. Add cooked vegetables to meat mixture.
+
+![[z-images/bolognese3.webp|400]]
+
 4. [ ] Return Dutch oven to high heat and cook, stirring, until most of the liquid has evaporated from the pan, about 10 minutes longer.
+
+![[z-images/bolognese4.webp|400]]
+
 5. [ ] Add wine and cook, stirring, until mostly evaporated. Add reserved stock, tomatoes, milk, and bay leaves. Season gently with salt and pepper.
+
+![[z-images/bolognese5.webp|400]]
+
 6. [ ] Bring sauce to a simmer, then transfer to oven, uncovered. Cook, stirring and scraping down sides of pot occasionally, until liquid has almost completely reduced and sauce is rich and thick underneath a heavy layer of fat, 3 to 4 hours. If sauce still looks liquid or fat has not separated and formed a thick layer after 4 hours, transfer to stovetop and finish cooking at a brisk simmer, stirring frequently.
+
+![[z-images/bolognese6.webp|400]]
+
 7. [ ] Carefully skim off most of the fat, leaving behind about 1 cup total. (For more precise measurement, skim completely, then add back 1 cup of fat.) Alternatively, let the sauce cool at this point and store in the fridge overnight to let the fat solidify and flavors meld. Then remove the solid fat, reserving a cup to add back in when the sauce is warmed.
+
+![[z-images/bolognese7.webp|400]]
+
 8. [ ] Stir in heavy cream, parmesan, fish sauce, and remaining parsley. Bring to a boil on stovetop, stirring constantly to emulsify. Season to taste with salt and pepper. Bolognese can be cooled and stored in sealed containers in the refrigerator for up to 1 week, or frozen for later use.
+
+![[z-images/bolognese8.webp|400]]
+
 9. [ ] To Serve: Heat sauce in a large pot until just simmering. Set aside. Cook pasta in a large pot of well-salted water until just barely al dente. Drain, reserving 1/2 cup cooking liquid. Return pasta to pot and add just enough sauce to coat, along with some of the cooking liquid. Cook over high heat, tossing and stirring gently, until sauce is thick and pasta is coated, about 30 seconds. Transfer to a serving bowl and serve immediately, passing parmesan at the table.
+
+![[z-images/bolognese9.webp|400]]
 
 ## Notes
 

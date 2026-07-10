@@ -6,19 +6,19 @@ tags:
   - noodles
   - sesame
   - wishlist
-Source: Ali Slagle
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts
 Cuisine: Asian
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty: 
+Difficulty:
 Author: Ali Slagle
 Date added: 2026-07-09
 image: spicysesamenoodles.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[spicysesamenoodles.webp|hs-med locr]]

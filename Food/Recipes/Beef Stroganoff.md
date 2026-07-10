@@ -1,16 +1,19 @@
 ---
 tags:
-  - beef
-  - beef/chuckroast
+  - noodles
+  - noodles/egg
   - mushrooms
-  - pasta/eggnoodles
-Source: Jennifer Olvera
+  - beef
+  - beef/chuck
+  - sherry
+  - parsley
+  - sourcream
+Source: Serious Eats
 Link: https://www.seriouseats.com/rich-and-creamy-slow-cooker-beef-stroganoff-recipe-11892781
-Cuisine:
-  - American
-Type:
-  - Main
+Cuisine: European
+Type: Main
 Meal:
+  - Lunch
   - Dinner
 Difficulty: Medium
 Author: Jennifer Olvera
@@ -18,6 +21,7 @@ Date added: 2026-07-09
 image: beefstroganoff.webp
 obsidianUIMode: preview
 ---
+
 
 ![[beefstroganoff.webp|locr hs-med]]
 > [!note]+ Note
@@ -68,37 +72,25 @@ obsidianUIMode: preview
     
 2. [ ] In a large carbon steel, cast iron, or stainless steel skillet, heat oil over high heat until just smoking. Add half of the meat and cook until browned all over, flipping occasionally, 6 to 8 minutes.
     
-    ![100](https://www.seriouseats.com/thmb/i4vKVP9BskbeGueIoP4puh5a4kQ=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/20260126-SEA-Beef-Stroganoff-Melati-Citrawireja-STEP2-ec2174818cc444f287a48666b44c0bbf.jpg)
-
-    Serious Eats / Melati Citrawireja
+    ![[beefstroganoff1.webp|400]]
     
 3. [ ] Transfer seared meat and remaining raw meat to a slow cooker. Using a wooden spoon or flexible spatula, stir in onion, garlic, stock, porcini mushrooms, Worcestershire sauce, mustard, vinegar, sherry, bay leaves, 1/2 teaspoon Diamond Crystal kosher salt (for table salt, use half as much by volume) and 1/2 teaspoon freshly ground black pepper. Cover and cook on low until meat is fall-apart tender, 8 to 10 hours.
     
-    ![Steps in cooking beef stroganoff in a pot showing browned beef and ingredients being added](https://www.seriouseats.com/thmb/krVPMawq_ndvBwfldge0BnLKUr4=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/20260126-SEA-Beef-Stroganoff-Melati-Citrawireja-STEP3-dffb2d4d8c694cb9ac77a2025b6905a6.jpg)
-    
-    Serious Eats / Melati Citrawireja
+    ![[beefstroganoff2.webp|400]]
     
 4. [ ] Once meat is cooked, use a slotted spoon to transfer to a bowl. Using your hands or 2 forks, pull meat into chunks, removing and discarding any fatty parts. Season to taste with salt and pepper; cover to keep warm.
     
-    ![!250][A bowl of beef stroganoff served in a green container](https://www.seriouseats.com/thmb/mkvJL65W_mImvIHUvBQz9CGqiQ0=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/20260126-SEA-Beef-Stroganoff-Melati-Citrawireja-02-0eab9704081b4433b0fb316b7998447a.jpg)
-    
-    Serious Eats / Melati Citrawireja
+    ![[beefstroganoff3.webp|400]]
     
 5. [ ] In a small bowl, make a slurry by whisking together flour with 3 tablespoons of the remaining liquid from the slow cooker. Pour remaining liquid from slow cooker into a medium saucepan and bring to a simmer over medium-high heat. Whisk in slurry and simmer until sauce is thick enough to coat a spoon, 3 to 4 minutes. Whisk in sour cream until smooth, and stir in mushrooms, if using.
     
-    ![Steps in making a sauce mixture in a pot showing stirring and combining ingredients](https://www.seriouseats.com/thmb/722BMnD_VyXUTbeKwNvSWhZWwJU=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/20260126-SEA-Beef-Stroganoff-Melati-Citrawireja-STEP5-c0bd7807f63d4dc68e52fd3817abd06d.jpg)
-    
-    Serious Eats / Melati Citrawireja
+    ![[beefstroganoff4.webp|400]]
     
 6. [ ] In a large saucepan of salted boiling water, cook pasta until just shy of al dente, 1 to 2 minutes less than package instructions. Using a colander, drain pasta and divide into individual serving bowls. Top with meat and spoon finished sauce on sauce. Garnish with parsley and serve.
     
-    ![A bowl of cooked egg noodles on a countertop](https://www.seriouseats.com/thmb/Ls3TWgrhomq6gTKOSaqv_pGIoP4=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/20260126-SEA-Beef-Stroganoff-Melati-Citrawireja-10-8ea0e2018651440693d1333cd4073533.jpg)
+    ![[beefstroganoff5.webp|400]]
     
-    Serious Eats / Melati Citrawireja
-    
-    ![A bowl of beef stroganoff served over noodles with a wooden spoon](https://www.seriouseats.com/thmb/Mpu4w-xqpk-oGzW8vCTo2yKA5Zs=/1500x0/filters:no_upscale\(\):max_bytes\(150000\):strip_icc\(\):format\(webp\)/20260126-SEA-Beef-Stroganoff-Melati-Citrawireja-11-904dd889beb5413bb3cf9c7e8a19a65e.jpg)
-    
-    Serious Eats / Melati Citrawireja
+    ![[beefstroganoff6.webp|400]]
     
 
 ## Notes

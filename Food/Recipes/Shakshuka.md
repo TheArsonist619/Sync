@@ -2,7 +2,7 @@
 tags:
   - tomatoes
   - eggs
-Source: Melissa Clark
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta
 Cuisine:
   - Mediterranean

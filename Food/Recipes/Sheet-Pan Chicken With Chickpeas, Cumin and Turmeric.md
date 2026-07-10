@@ -7,19 +7,20 @@ tags:
   - mint
   - cilantro
   - wishlist
-Source: Alison Roman
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1018910-sheet-pan-chicken-with-chickpeas-cumin-and-turmeric?eafs_enabled=false
 Cuisine:
   - Indian
   - Mediterranean
 Type: Main
-Meal: Dinner
-Difficulty: 
+Meal:
+  - Dinner
+Difficulty:
 Author: Alison Roman
 Date added: 2026-07-09
 image: chickenchickpea.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[chickenchickpea.webp|hs-med locr]]

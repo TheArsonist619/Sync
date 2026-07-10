@@ -14,7 +14,7 @@ Type:
 Meal:
   - Dinner
 Difficulty: Medium
-Author: yellow paper
+Author: N/A
 Date added: 2026-07-09
 image: seafooddynamiterecipe.webp
 obsidianUIMode: preview

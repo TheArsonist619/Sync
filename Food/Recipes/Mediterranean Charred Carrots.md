@@ -5,7 +5,7 @@ tags:
   - feta
   - pistachios
   - party
-Source: Arash Hashemi
+Source:
 Link: https://shredhappens.substack.com/p/mediterranean-charred-carrots
 Cuisine:
   - Mediterranean

@@ -3,7 +3,7 @@ views:
     name: All
     filters:
       and:
-        - file.folder.contains("Recipes")
+        - file.folder.contains("Sync/Food/Recipes")
     order:
       - file.name
       - aliases
@@ -15,19 +15,19 @@ views:
     name: Table
     filters:
       and:
-        - file.folder.contains("Recipes")
+        - file.folder.contains("Sync/Food/Recipes")
     order:
       - file.name
-      - Difficulty
-      - Cuisine
-      - Meal
-      - aliases
+      - Link
       - Author
-      - tags
-      - source
       - Source
+      - tags
     sort:
+      - property: Source
+        direction: ASC
       - property: Author
+        direction: ASC
+      - property: tags
         direction: ASC
       - property: file.name
         direction: ASC

@@ -3,7 +3,7 @@ tags:
   - mushrooms
   - seafood/scallops
   - wine
-Source: Tyler Florence
+Source: Food Network
 Link: https://www.foodnetwork.com/recipes/tyler-florence/risotto-with-wild-mushrooms-and-scallops-recipe-1916020
 Cuisine:
   - Italian

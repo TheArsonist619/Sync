@@ -4,7 +4,7 @@ tags:
   - chicken/breast
   - seafood/shrimp
   - party
-Source: Steve P.
+Source:
 Link: https://www.food.com/recipe/pancit-canton-25121
 Cuisine:
   - Filipino

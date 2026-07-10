@@ -12,19 +12,19 @@ tags:
   - noodles
   - noodles/ditalini
   - soup
-Source: Carla Lalli Music
+Source: Bon Apetit
 Link: https://www.bonappetit.com/recipe/pasta-e-fagioli
 Cuisine: Italian
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty: 
+Difficulty:
 Author: Carla Lalli Music
 Date added: 2026-07-09
 image: fagioli.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[fagioli.webp|hs-med locr]]

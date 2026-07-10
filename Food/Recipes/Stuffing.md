@@ -3,7 +3,7 @@ tags:
   - bread
   - thanksgiving
   - party
-Source: Victoria Granof
+Source: Bon Apetit
 Link: https://www.bonappetit.com/recipe/simple-is-best-stuffing-dressing
 Cuisine:
   - American

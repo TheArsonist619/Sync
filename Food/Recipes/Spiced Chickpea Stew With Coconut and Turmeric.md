@@ -11,7 +11,7 @@ tags:
   - milk/coconut
   - soup
   - stew
-Source: Alison Roman
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1019772-spiced-chickpea-stew-with-coconut-and-turmeric?eafs_enabled=false
 Cuisine:
   - Indian
@@ -21,12 +21,12 @@ Type:
 Meal:
   - Lunch
   - Dinner
-Difficulty: 
+Difficulty:
 Author: Alison Roman
 Date added: 2026-07-09
 image: chickpeastew.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[chickpeastew.webp|hs-med locr]]

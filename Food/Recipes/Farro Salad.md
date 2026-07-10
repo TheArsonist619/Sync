@@ -3,7 +3,7 @@ tags:
   - farro
   - party
   - salad
-Source: Melissa Clark
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1015843-charlie-birds-farro-salad?eafs_enabled=false
 Cuisine:
   - American

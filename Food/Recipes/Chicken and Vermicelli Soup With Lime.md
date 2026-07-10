@@ -7,19 +7,19 @@ tags:
   - noodles
   - soup
   - wishlist
-Source: Naz Deravian
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1026337-chicken-and-vermicelli-soup-with-lime?eafs_enabled=false
 Cuisine: Middle Eastern
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty: 
+Difficulty:
 Author: Naz Deravian
 Date added: 2026-07-09
 image: Vermicellisoup.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[Vermicellisoup.webp|hs-med locr]]

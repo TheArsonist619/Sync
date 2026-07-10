@@ -7,19 +7,19 @@ tags:
   - cheese
   - cream
   - heavy
-Source: Naz Deravian
+Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1024503-marry-me-chicken
 Cuisine: Italian
 Type: Main
 Meal:
   - Lunch
   - Dinner
-Difficulty: 
+Difficulty:
 Author: Naz Deravian
 Date added: 2026-07-09
 image: marrymechicken.webp
 obsidianUIMode: preview
-aliases: 
+aliases:
 ---
 
 ![[marrymechicken.webp|hs-med locr]]

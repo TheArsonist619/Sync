@@ -8,7 +8,8 @@ tags:
 Source: The Food Lab, p. 690
 Cuisine: Italian
 Type: Main
-Meal: Dinner
+Meal:
+  - Dinner
 Difficulty: Medium
 Author: Kenji López-Alt
 Date added: 2026-07-09

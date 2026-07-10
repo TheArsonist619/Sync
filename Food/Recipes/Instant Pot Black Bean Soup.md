@@ -11,7 +11,7 @@ tags:
   - soup
   - wishlist
   - instapot
-Source: Carla Lalli Music
+Source: Bon Apetit
 Link: https://www.bonappetit.com/recipe/instant-pot-black-bean-soup
 Cuisine: Mexican
 Type: Main
