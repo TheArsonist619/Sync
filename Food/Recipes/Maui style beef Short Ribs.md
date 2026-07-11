@@ -20,7 +20,7 @@ aliases:
   - Hawaiian short ribs
 ---
 
-![[Sync/Food/Recipes/Images/mauishortribs.webp|locr hs-med]]
+![[mauishortribs.webp|locr hs-med]]
 
 ## Ingredients
 - [ ] 8, 5 to 6 bone, thin cut short ribs. about 3.5 lbs

@@ -21,7 +21,7 @@ aliases:
   - The World's Most Awesome Sticky Buns
 ---
 
-![[Sync/Food/Recipes/Images/stickybuns.webp|locr hs-med]]
+![[stickybuns.webp|locr hs-med]]
 ## Ingredients
 servings: 12 sticky buns
 

@@ -17,7 +17,7 @@ image: currylimecauliflower.webp
 obsidianUIMode: preview
 ---
 
-![[Sync/Food/Recipes/Images/currylimecauliflower.webp|hs-med locr]]
+![[currylimecauliflower.webp|hs-med locr]]
 
 ## Ingredients
 

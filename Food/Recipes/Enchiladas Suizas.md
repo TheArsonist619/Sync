@@ -21,7 +21,7 @@ obsidianUIMode: preview
 aliases:
   - Enchiladas Verdes
 ---
-![[Sync/Food/Recipes/Images/enchiladassuizas.webp|locr hs-med]]
+![[enchiladassuizas.webp|locr hs-med]]
 
 
 ## Ingredients

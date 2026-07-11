@@ -14,7 +14,7 @@ image: chickenadobo.webp
 obsidianUIMode: preview
 ---
 
-![[Sync/Food/Recipes/Images/chickenadobo.webp|locr hs-med]]
+![[chickenadobo.webp|locr hs-med]]
 
 
 ## Ingredients

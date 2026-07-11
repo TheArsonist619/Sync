@@ -26,7 +26,7 @@ aliases:
   - Cheesy Broccoli Casserole
 ---
 
-![[Sync/Food/Recipes/Images/cauliflowercasserole.webp|locr hs-med]]
+![[cauliflowercasserole.webp|locr hs-med]]
 
 ## Ingredients
 

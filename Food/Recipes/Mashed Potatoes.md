@@ -20,7 +20,7 @@ aliases:
   - Best Mashed Potatoes
 ---
 
-![[Sync/Food/Recipes/Images/mashedpotatoes.webp|hs-med locr]]
+![[mashedpotatoes.webp|hs-med locr]]
 
 ## Ingredients
 servings: 8 servings

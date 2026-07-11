@@ -26,7 +26,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[Sync/Food/Recipes/Images/blackbeansoup.webp|hs-med locr]]
+![[blackbeansoup.webp|hs-med locr]]
 
 ## Ingredients
 servings: 8–10 servings

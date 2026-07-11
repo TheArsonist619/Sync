@@ -16,7 +16,7 @@ obsidianUIMode: preview
 aliases: 
 ---
 
-![[Sync/Food/Recipes/Images/appletart.webp|hs-med locr]]
+![[appletart.webp|hs-med locr]]
 ## Ingredients
 servings: 8
 

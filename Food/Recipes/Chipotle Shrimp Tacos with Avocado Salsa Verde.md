@@ -25,7 +25,7 @@ obsidianUIMode: preview
 ---
 
 
-![[Sync/Food/Recipes/Images/Shrimptaco.webp|hs-med locr]]
+![[Shrimptaco.webp|hs-med locr]]
 
 ## Ingredients
 

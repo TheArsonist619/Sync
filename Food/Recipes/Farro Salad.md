@@ -20,7 +20,7 @@ image: farrosalad.webp
 obsidianUIMode: preview
 ---
 
-![[Sync/Food/Recipes/Images/farrosalad.webp|locr hs-med]]
+![[farrosalad.webp|locr hs-med]]
 
 ## Ingredients
 

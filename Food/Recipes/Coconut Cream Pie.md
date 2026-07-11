@@ -21,7 +21,7 @@ aliases:
   - BA's Best Coconut Cream Pie
 ---
 
-![[Sync/Food/Recipes/Images/coconutcreampie.webp|hs-med locr]]
+![[coconutcreampie.webp|hs-med locr]]
 
 ## Ingredients
 servings: 10 servings

@@ -22,7 +22,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[Sync/Food/Recipes/Images/gochujangchickenbowl.webp|hs-med locr]]
+![[gochujangchickenbowl.webp|hs-med locr]]
 
 ## Ingredients
 servings: 6 servings

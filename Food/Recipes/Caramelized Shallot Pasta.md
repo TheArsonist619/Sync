@@ -23,7 +23,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[Sync/Food/Recipes/Images/shallotpasta.webp|hs-med locr]]
+![[shallotpasta.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 servings

@@ -19,50 +19,53 @@ kanban-plugin: board
 
 ## Camp supplies
 
-- [ ] bike pump
-- [ ] ball
-- [ ] bikes
-- [ ] helmets
-- [ ] camp box
-- [ ] mini generator
-- [ ] pillows
-- [ ] pocket knife
-- [ ] storage racks
-- [ ] water bottles
-- [ ] fishing poles
-- [ ] Fishing supplies
 - [ ] axe
+- [ ] ball
+- [ ] bike lights
+- [ ] bike pump
+- [ ] bikes
+- [ ] camp box
 - [ ] canopy
 - [ ] chairs
 - [ ] duct tape
+- [ ] fishing poles
+- [ ] Fishing supplies
 - [ ] frisbee
+- [ ] Green
 - [ ] hammocks
-- [ ] kite
 - [ ] Hatchet
-- [ ] bike lights
+- [ ] helmets
+- [ ] kite
+- [ ] Lantern
 - [ ] machete
+- [ ] mini generator
+- [ ] multi tool
 - [ ] pendleton blanket
+- [ ] pillows
+- [ ] pocket knife
 - [ ] sleeping bags
 - [ ] Sleeping pads
 - [ ] speaker
+- [ ] storage racks
 - [ ] table
 - [ ] tent
 - [ ] tent footprint
 - [ ] Trash Bags
 - [ ] wagon
-- [ ] Green
-- [ ] Lantern
-- [ ] multi tool
+- [ ] water bottles
+- [ ] Wet wipes
 
 
-## Sleep/Hygiene
+## Clothes
 
-- [ ] long sleeves for bugs
-- [ ] slides/camp shoes
-- [ ] sweater
 - [ ] sandals
 - [ ] shoes
-- [ ] Wet wipes
+- [ ] sweater
+- [ ] slides/camp shoes
+- [ ] long sleeves for bugs
+- [ ] swim trunks
+- [ ] swim clothes
+- [ ] water shoes
 
 
 ## Groceries
@@ -104,28 +107,6 @@ kanban-plugin: board
 - [ ] Proscuitto
 
 
-## Home Pantry
-
-- [ ] onions
-- [ ] buns
-- [ ] chorizo
-- [ ] cookies
-- [ ] ground beef
-- [ ] graham crackers
-- [ ] spicy mayo
-- [ ] uncrustables
-- [ ] pickles
-- [ ] shredded cheddar
-- [ ] bagels
-- [ ] potatoes
-- [ ] tapatio
-- [ ] cream cheese
-- [ ] salad
-- [ ] ketchup
-- [ ] mama lils
-- [ ] Ham
-
-
 ## Kitchen
 
 - [ ] blackstone
@@ -154,7 +135,6 @@ kanban-plugin: board
 
 ## Water
 
-- [ ] swim trunks
 - [ ] beach toys
 - [ ] dry bag
 - [ ] float toys
@@ -162,10 +142,8 @@ kanban-plugin: board
 - [ ] paddles
 - [ ] sunscreen
 - [ ] SUP
-- [ ] swim clothes
 - [ ] towels
 - [ ] pump
-- [ ] water shoes
 
 
 ## To do
@@ -176,6 +154,7 @@ kanban-plugin: board
 - [ ] charge radios
 - [ ] Fix leak in boat
 - [ ] cut cheddar
+- [ ] charge pump
 
 
 ## Working
@@ -194,10 +173,32 @@ kanban-plugin: board
 - [ ] ponchos
 
 
+## Home Pantry
+
+- [ ] onions
+- [ ] buns
+- [ ] chorizo
+- [ ] cookies
+- [ ] ground beef
+- [ ] graham crackers
+- [ ] spicy mayo
+- [ ] uncrustables
+- [ ] pickles
+- [ ] shredded cheddar
+- [ ] bagels
+- [ ] potatoes
+- [ ] tapatio
+- [ ] cream cheese
+- [ ] salad
+- [ ] ketchup
+- [ ] mama lils
+- [ ] Ham
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true,false,true,false,true,false,true,true,true],"show-checkboxes":true,"lane-width":215,"tag-colors":[]}
+{"kanban-plugin":"board","list-collapse":[true,false,false,false,false,false,false,true,true,true,true],"show-checkboxes":true,"lane-width":215,"tag-colors":[]}
 ```
 %%

@@ -22,7 +22,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[Sync/Food/Recipes/Images/Vermicellisoup.webp|hs-med locr]]
+![[Vermicellisoup.webp|hs-med locr]]
 
 ## Ingredients
 servings: 6 servings

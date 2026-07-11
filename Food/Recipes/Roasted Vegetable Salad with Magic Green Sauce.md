@@ -23,7 +23,7 @@ Date added: 2026-07-09
 image: Magicgreensauce.webp
 obsidianUIMode: preview
 ---
-![[Sync/Food/Recipes/Images/magicgreensauce.webp|locr hs-med]]
+![[magicgreensauce.webp|locr hs-med]]
 
 
 ## Ingredients

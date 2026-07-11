@@ -20,7 +20,7 @@ image: fishtacos.webp
 obsidianUIMode: preview
 ---
 
-![[Sync/Food/Recipes/Images/fishtacos.webp|locr hs-med]]
+![[fishtacos.webp|locr hs-med]]
 ## Ingredients
 
 **Beer Batter:**

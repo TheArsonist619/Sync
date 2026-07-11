@@ -19,7 +19,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[Sync/Food/Recipes/Images/koreanmeatballs.webp|hs-med locr]]
+![[koreanmeatballs.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 servings

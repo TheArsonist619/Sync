@@ -18,7 +18,7 @@ image: arugulasalad.webp
 obsidianUIMode: preview
 aliases:
 ---
-![[Sync/Food/Recipes/Images/arugulasalad.webp|locr hs-med]]
+![[arugulasalad.webp|locr hs-med]]
 ## Ingredients
 servings: 4
 

@@ -17,5 +17,5 @@ Date added: 2026-07-09
 image: weirdawesomesurfturf.webp
 obsidianUIMode: preview
 ---
-![[Sync/Food/Recipes/Images/weirdawesomesurfturf.webp|hs-med locr]]
+![[weirdawesomesurfturf.webp|hs-med locr]]
 

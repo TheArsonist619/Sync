@@ -29,7 +29,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[Sync/Food/Recipes/Images/chickpeastew.webp|hs-med locr]]
+![[chickpeastew.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 to 6 servings

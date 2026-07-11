@@ -15,7 +15,7 @@ Date added: 2026-07-09
 image: overnightoats.webp
 obsidianUIMode: preview
 ---
-![[Sync/Food/Recipes/Images/overnightoats.webp|locr hs-med]]
+![[overnightoats.webp|locr hs-med]]
 
 ## Ingredients
 

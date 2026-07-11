@@ -23,7 +23,7 @@ obsidianUIMode: preview
 
 
 
-![[Sync/Food/Recipes/Images/blackbeanburgers.webp|hs-med locr]]
+![[blackbeanburgers.webp|hs-med locr]]
 
 
 ## Ingredients
@@ -63,31 +63,31 @@ obsidianUIMode: preview
 ## Directions
 1. [ ] Adjust oven rack to center position and preheat oven to 350°F (175°C). Spread black beans in a single layer on a foil-lined rimmed baking sheet. Roast until beans are mostly split open and outer skins are beginning to get crunchy, about 20 minutes. Remove from oven and allow to cool slightly.
 
-![[Sync/Food/Recipes/Images/blackbeanburgers1.webp|400]]
+![[blackbeanburgers1.webp|400]]
 
 2. [ ] While beans roast, heat 2 tablespoons oil in a medium skillet over medium-high heat until shimmering. Add onion and poblano and cook, stirring frequently, until softened, about 5 minutes. Add garlic and cook, stirring constantly, until fragrant, about 2 minutes. Add chipotle chile and sauce and cook, stirring, until fragrant, about 30 seconds. Transfer mixture to a large bowl.
 
-![[Sync/Food/Recipes/Images/blackbeanburgers2.webp|400]]
+![[blackbeanburgers2.webp|400]]
 
 3. [ ] Place cashews in the bowl of a food processor and pulse until chopped into pieces no larger than 1/3-inch, about 12 short pulses. Add to bowl with onion and pepper.
 
-![[Sync/Food/Recipes/Images/blackbeanburgers3.webp|400]]
+![[blackbeanburgers3.webp|400]]
 
 4. [ ] When beans are slightly cooled, transfer to food processor. Add feta or cotija. Pulse until beans are roughly chopped (the largest pieces should be about 1/3 of a full bean in size). Transfer to bowl with onion/pepper mixture. Add bread crumbs, egg, and mayonnaise and season with salt and pepper. Fold together gently but thoroughly with hands. Patty mixture can be stored in an airtight container in the refrigerator for up to three days at this stage.
 
-![[Sync/Food/Recipes/Images/blackbeanburgers4.webp|400]]
+![[blackbeanburgers4.webp|400]]
 
 5. [ ] **To cook indoors:** Form bean mixture into 6 to 8 patties as wide as your burger buns. Heat 1 tablespoon oil in a large nonstick or cast iron skillet over medium heat until shimmering. Add 4 patties and cook, swirling pan occasionally, until well browned and crisp on first side, about 5 minutes. Carefully flip and cook until second side is browned, about 5 minutes longer, adding cheese if desired. If cooking more than 4 burgers, cook in batches, keeping cooked burgers on a rack set in a rimmed baking sheet in a 200°F oven while second batch cooks.
 
-![[Sync/Food/Recipes/Images/blackbeanburgers5.webp|400]]
+![[blackbeanburgers5.webp|400]]
 
 6. [ ] **To cook on the grill:** [Light 2/3 chimney full of charcoal.](https://www.seriouseats.com/grilling-lighting-the-fire-without-lighter-fluid) When all the charcoal is lit and covered with gray ash, pour out and arrange the coals on one side of the charcoal grate. Set cooking grate in place, cover grill and allow to preheat for 5 minutes. Alternatively, set half the burners on a gas grill to the medium-high setting, cover, and preheat for 10 minutes. [Clean and oil](https://www.seriouseats.com/how-to-clean-your-grill-barbecue-oiling-thegrate-charcoal) the grilling grate. Form bean mixture into 6 to 8 patties as wide as your burger buns and brush top sides with oil. Place on hot side of grill oiled-side down and cook without moving until first side is well browned, 3 to 5 minutes. Brush tops of burgers with oil. Carefully flip and continue cooking until second side is browned, 3 to 5 minutes longer, topping with cheese if desired.
 
-![[Sync/Food/Recipes/Images/blackbeanburgers6.webp|400]]
+![[blackbeanburgers6.webp|400]]
 
 7. [ ] Spread top and bottom buns with chipotle mayonnaise or other condiments as desired. Add toppings to top or bottom bun as desired. Place patties on bottom buns, close burgers, and serve immediately.
 
-![[Sync/Food/Recipes/Images/blackbeanburgers7.webp|400]]
+![[blackbeanburgers7.webp|400]]
  
 ## Notes
 

@@ -19,7 +19,7 @@ Date added: 2026-07-09
 image: kitchari.webp
 obsidianUIMode: preview
 ---
-![[Sync/Food/Recipes/Images/kitchari.webp|hs-med locr]]
+![[kitchari.webp|hs-med locr]]
 
 ## Ingredients
 

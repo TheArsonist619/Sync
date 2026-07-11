@@ -18,7 +18,7 @@ obsidianUIMode: preview
 ---
 
 
-![[Sync/Food/Recipes/Images/bunuelos.webp|locr hs-med]]
+![[bunuelos.webp|locr hs-med]]
 
 ## Ingredients
 

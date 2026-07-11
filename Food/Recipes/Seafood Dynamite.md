@@ -21,5 +21,5 @@ obsidianUIMode: preview
 ---
 
 
-![[Sync/Food/Recipes/Images/Seafooddynamiterecipe.webp|large]]
+![[Seafooddynamiterecipe.webp|large]]
 

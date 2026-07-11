@@ -17,7 +17,7 @@ image: whitechocnutcookies.webp
 obsidianUIMode: preview
 aliases:
 ---
-![[Sync/Food/Recipes/Images/whitechocnutcookies.webp|hs-med locr]]
+![[whitechocnutcookies.webp|hs-med locr]]
 
 ## Ingredients
 servings: About 12 large cookies

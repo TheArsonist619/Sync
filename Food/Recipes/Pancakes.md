@@ -17,7 +17,7 @@ image: pancakes.webp
 obsidianUIMode: preview
 ---
 
-![[Sync/Food/Recipes/Images/pancakes.webp|locr hs-med]]
+![[pancakes.webp|locr hs-med]]
 
 
 ## Ingredients

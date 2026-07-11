@@ -24,7 +24,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[Sync/Food/Recipes/Images/beefstew.webp|hs-med locr]]
+![[beefstew.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 servings

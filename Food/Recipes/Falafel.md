@@ -19,7 +19,7 @@ obsidianUIMode: preview
 
 
 
-![[Sync/Food/Recipes/Images/falafel.webp|hs-med locr]]
+![[falafel.webp|hs-med locr]]
 
 
 ## Ingredients
@@ -45,23 +45,23 @@ obsidianUIMode: preview
 ## Directions
 1. [ ] Rinse chickpeas and place in a large bowl. Cover with cold water, adding enough to allow the chickpeas to at least triple in volume. Cover and let stand at room temperature overnight. The next day, drain, rinse, and carefully dry chickpeas in a salad spinner.
 
-![[Sync/Food/Recipes/Images/falafel1.webp|400]]
+![[falafel1.webp|400]]
 
 2. [ ] Combine chickpeas, herbs, scallions, garlic, cumin, coriander, and salt in the work bowl of a food processor. Pulse until chickpeas are very finely minced, stopping the food processor to scrape down the sides as necessary. A handful of the mixture squeezed into a ball should be able to barely hold together. If not, process a little more.
 
-![[Sync/Food/Recipes/Images/falafel2.webp|400]]
+![[falafel2.webp|400]]
 
 3. [ ] Transfer mixture to a bowl, cover, and place in refrigerator for 15 minutes to allow time for more starch to seep out of chickpeas. This will help the balls retain their shape better once formed. Using a tablespoon measure, scoop out heaping spoonfuls of the mixture into your hand. Gently shape each into a ball (you will not be able to roll the mixture like cookie dough; this is okay) and place them on a clean plate.
 
-![[Sync/Food/Recipes/Images/falafel3.webp|400]]
+![[falafel3.webp|400]]
 
 4. [ ] When all the balls have been formed, fill a deep cast iron, carbon steel, or nonstick skillet or Dutch oven with 3/4 inch of oil. Heat over high heat until oil registers 375°F (190°C) on an instant-read thermometer. Carefully lower chickpea balls into oil one at a time, allowing a little space between each ball and cooking in batches if necessary. Adjust heat as necessary to maintain a temperature of between 350 and 375°F (175 and 190°C). Allow to cook undisturbed until well browned on bottom sides, then carefully flip balls with a fork until browned on second side, about 4 minutes total. Transfer cooked chickpea balls to a paper towel–lined plate and season with salt. Repeat with remaining chickpea balls.
 
-![[Sync/Food/Recipes/Images/falafel4.webp|400]]
+![[falafel4.webp|400]]
 
 5. [ ] Serve immediately with [tahini](https://www.seriouseats.com/israeli-style-tahini-sauce-recipe) and/or [hummus](https://www.seriouseats.com/israeli-style-extra-smooth-hummus-recipe) on the side, or stuffed into pita bread with tahini, tomatoes, cucumber, pickles, and shredded cabbage.
 
-![[Sync/Food/Recipes/Images/falafel5.webp|400]]
+![[falafel5.webp|400]]
 
 ## Special Equipment
 

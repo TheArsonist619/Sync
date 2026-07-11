@@ -19,7 +19,7 @@ Date added: 2026-07-09
 image: sweetpotatocasserole.webp
 obsidianUIMode: preview
 ---
-![[Sync/Food/Recipes/Images/sweetpotatocasserole.webp|locr hs-med]]
+![[sweetpotatocasserole.webp|locr hs-med]]
 
 ## Ingredients
 

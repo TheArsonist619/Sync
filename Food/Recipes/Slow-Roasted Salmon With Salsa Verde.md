@@ -24,7 +24,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[Sync/Food/Recipes/Images/salsaverdesalmon.webp|hs-med locr]]
+![[salsaverdesalmon.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 servings

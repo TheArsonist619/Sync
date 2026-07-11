@@ -27,7 +27,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[Sync/Food/Recipes/Images/fagioli.webp|hs-med locr]]
+![[fagioli.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4–6 servings

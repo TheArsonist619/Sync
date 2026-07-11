@@ -24,7 +24,7 @@ aliases:
 ---
 
 
-![[Sync/Food/Recipes/Images/turmericsalmon.webp|hs-med locr]]
+![[turmericsalmon.webp|hs-med locr]]
 
 ## Ingredients
 servings: 2 servings

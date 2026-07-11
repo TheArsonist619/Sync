@@ -25,7 +25,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[Sync/Food/Recipes/Images/halloumi.webp|hs-med locr]]
+![[halloumi.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 servings

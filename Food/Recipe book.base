@@ -3,8 +3,8 @@ views:
     name: All
     filters:
       and:
-        - file.folder.contains("Sync/Food/Recipes")
-        - '!file.folder.contains("z-Images")'
+        - file.folder.contains("Food/Recipes")
+        - '!file.folder.contains("Images")'
     order:
       - file.name
       - aliases

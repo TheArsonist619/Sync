@@ -21,7 +21,7 @@ image: tamales.webp
 obsidianUIMode: preview
 ---
 
-![[Sync/Food/Recipes/Images/tamales.webp|locr hs-med]]
+![[tamales.webp|locr hs-med]]
 
 ## Ingredients
 
@@ -51,4 +51,4 @@ obsidianUIMode: preview
 9. [ ] Spoon 1/4 or so into husk and spread *thin* on husk, using a wet spoon to spread it so it doesn't stick. Fold over
 10. [ ] When steaming, place extra husks on top of steamer to help keep steam in.
 
-![[Sync/Food/Recipes/Images/tamalesrecipe.webp]]
+![[tamalesrecipe.webp]]

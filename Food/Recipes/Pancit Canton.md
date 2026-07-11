@@ -22,7 +22,7 @@ obsidianUIMode: preview
 aliases:
   - Pancit
 ---
-![[Sync/Food/Recipes/Images/pancitcanton.webp|locr hs-med]]
+![[pancitcanton.webp|locr hs-med]]
 
 
 ## Ingredients

@@ -21,7 +21,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[Sync/Food/Recipes/Images/spicysesamenoodles.webp|hs-med locr]]
+![[spicysesamenoodles.webp|hs-med locr]]
 
 ## Ingredients
 servings: 4 servings

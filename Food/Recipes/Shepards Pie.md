@@ -20,7 +20,7 @@ Date added: 2026-07-09
 image: shepardspie.webp
 obsidianUIMode: preview
 ---
-![[Sync/Food/Recipes/Images/shepardspie.webp|locr hs-med]]
+![[shepardspie.webp|locr hs-med]]
 
 
 ## Ingredients

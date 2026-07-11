@@ -19,7 +19,7 @@ obsidianUIMode: preview
 aliases:
 ---
 
-![[Sync/Food/Recipes/Images/foccacia.webp|hs-med locr]]
+![[foccacia.webp|hs-med locr]]
 
 ## Ingredients
 servings: 10–12 servings

@@ -23,7 +23,7 @@ obsidianUIMode: preview
 ---
 
 
-![[Sync/Food/Recipes/Images/beefstroganoff.webp|locr hs-med]]
+![[beefstroganoff.webp|locr hs-med]]
 > [!note]+ Note
 > New recipe, haven't tried this one, just a placeholder for stroganoff and it looks tasty
 >[Maybe this one but its behind a BA paywall](https://www.bonappetit.com/recipe/beef-stroganoff-recipe?srsltid=AfmBOopM1C9kyFQ-WY4m2-HHQggO1oxrjJ30wj99j3FCJnEHT5KVXB8B)
@@ -72,25 +72,25 @@ obsidianUIMode: preview
     
 2. [ ] In a large carbon steel, cast iron, or stainless steel skillet, heat oil over high heat until just smoking. Add half of the meat and cook until browned all over, flipping occasionally, 6 to 8 minutes.
     
-    ![[Sync/Food/Recipes/Images/beefstroganoff1.webp|400]]
+    ![[beefstroganoff1.webp|400]]
     
 3. [ ] Transfer seared meat and remaining raw meat to a slow cooker. Using a wooden spoon or flexible spatula, stir in onion, garlic, stock, porcini mushrooms, Worcestershire sauce, mustard, vinegar, sherry, bay leaves, 1/2 teaspoon Diamond Crystal kosher salt (for table salt, use half as much by volume) and 1/2 teaspoon freshly ground black pepper. Cover and cook on low until meat is fall-apart tender, 8 to 10 hours.
     
-    ![[Sync/Food/Recipes/Images/beefstroganoff2.webp|400]]
+    ![[beefstroganoff2.webp|400]]
     
 4. [ ] Once meat is cooked, use a slotted spoon to transfer to a bowl. Using your hands or 2 forks, pull meat into chunks, removing and discarding any fatty parts. Season to taste with salt and pepper; cover to keep warm.
     
-    ![[Sync/Food/Recipes/Images/beefstroganoff3.webp|400]]
+    ![[beefstroganoff3.webp|400]]
     
 5. [ ] In a small bowl, make a slurry by whisking together flour with 3 tablespoons of the remaining liquid from the slow cooker. Pour remaining liquid from slow cooker into a medium saucepan and bring to a simmer over medium-high heat. Whisk in slurry and simmer until sauce is thick enough to coat a spoon, 3 to 4 minutes. Whisk in sour cream until smooth, and stir in mushrooms, if using.
     
-    ![[Sync/Food/Recipes/Images/beefstroganoff4.webp|400]]
+    ![[beefstroganoff4.webp|400]]
     
 6. [ ] In a large saucepan of salted boiling water, cook pasta until just shy of al dente, 1 to 2 minutes less than package instructions. Using a colander, drain pasta and divide into individual serving bowls. Top with meat and spoon finished sauce on sauce. Garnish with parsley and serve.
     
-    ![[Sync/Food/Recipes/Images/beefstroganoff5.webp|400]]
+    ![[beefstroganoff5.webp|400]]
     
-    ![[Sync/Food/Recipes/Images/beefstroganoff6.webp|400]]
+    ![[beefstroganoff6.webp|400]]
     
 
 ## Notes

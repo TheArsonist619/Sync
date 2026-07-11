@@ -20,7 +20,7 @@ obsidianUIMode: preview
 aliases:
   - French Toast Casserole
 ---
-![[Sync/Food/Recipes/Images/overnightfrenchtoast.webp|hs-med locr]]
+![[overnightfrenchtoast.webp|hs-med locr]]
 
 ## Ingredients
 

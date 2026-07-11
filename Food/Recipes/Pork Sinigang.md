@@ -19,7 +19,7 @@ obsidianUIMode: preview
 ---
 
 
-![[Sync/Food/Recipes/Images/porksinigang.webp|locr hs-med]]
+![[porksinigang.webp|locr hs-med]]
 
 ## Ingredients
 
@@ -44,20 +44,20 @@ obsidianUIMode: preview
 ## Directions
 1. [ ] Heat vegetable oil in a skillet over medium heat. Add onion; cook and stir until softened and translucent, about 5 minutes. Season with salt.
     
-    ![[Sync/Food/Recipes/Images/porksinigang1.webp|400]]
+    ![[porksinigang1.webp|400]]
     
     
 2. [ ] Stir in ginger, tomatoes, and pork chops. Cover and reduce heat to medium-low. Turn the pork occasionally, until browned.
     
-    ![[Sync/Food/Recipes/Images/porksinigang2.webp|400]]
+    ![[porksinigang2.webp|400]]
     
     
 3. [ ] Pour in water and tamarind soup base. Bring to a boil, then reduce heat and simmer until the pork is tender and cooked through, about 30 minutes.
     
-    ![[Sync/Food/Recipes/Images/porksinigang3.webp|400]]
+    ![[porksinigang3.webp|400]]
     
     
 4. [ ] Stir in green beans and cook until tender.
     
-    ![[Sync/Food/Recipes/Images/porksinigang4.webp|400]]
+    ![[porksinigang4.webp|400]]
     
