@@ -19,7 +19,6 @@ kanban-plugin: board
 
 ## Camp supplies
 
-- [ ] axe
 - [ ] ball
 - [ ] bike lights
 - [ ] bike pump
@@ -33,11 +32,9 @@ kanban-plugin: board
 - [ ] frisbee
 - [ ] Green
 - [ ] hammocks
-- [ ] Hatchet
 - [ ] helmets
 - [ ] kite
 - [ ] Lantern
-- [ ] machete
 - [ ] mini generator
 - [ ] multi tool
 - [ ] pendleton blanket
@@ -54,6 +51,9 @@ kanban-plugin: board
 - [ ] wagon
 - [ ] water bottles
 - [ ] Wet wipes
+- [ ] axe
+- [ ] Hatchet
+- [ ] machete
 
 
 ## Clothes
@@ -74,37 +74,45 @@ kanban-plugin: board
 - [ ] apples
 - [ ] bacon
 - [ ] bananas
+- [ ] basil
+- [ ] beans
 - [ ] beer
 - [ ] butter
+- [ ] cantaloupe
+- [ ] cheese squares
 - [ ] chips
+- [ ] chips
+- [ ] colby jack sticks
 - [ ] creamer
+- [ ] deli cheese
+- [ ] dino nuggets
 - [ ] eggs
+- [ ] foil containers
 - [ ] fruit
 - [ ] gogurt
 - [ ] goldfish
 - [ ] granola
+- [ ] ham
 - [ ] honey
+- [ ] instant oatmeal
 - [ ] kids drinks
 - [ ] loaf of bread
-- [ ] mayo
+- [ ] maple syrup
+- [ ] pancake mix
 - [ ] peanut butter
 - [ ] popcorn
+- [ ] Proscuitto
+- [ ] questo fresco
+- [ ] rice
 - [ ] smore stuff
 - [ ] snack cheese
+- [ ] sour cream
 - [ ] tortillas
 - [ ] wine
 - [ ] yogurt
 - [ ] yogurt drinks
-- [ ] deli meat
-- [ ] deli cheese
-- [ ] pancake mix
-- [ ] sour cream
-- [ ] foil containers
-- [ ] dino nuggets
-- [ ] chips
-- [ ] maple syrup
-- [ ] instant oatmeal
-- [ ] Proscuitto
+- [ ] limes
+- [ ] jalepeno
 
 
 ## Kitchen
@@ -149,12 +157,14 @@ kanban-plugin: board
 ## To do
 
 - [ ] grind coffee
-- [ ] sponge in bin
-- [ ] macrolens
-- [ ] charge radios
-- [ ] Fix leak in boat
-- [ ] cut cheddar
-- [ ] charge pump
+- [x] sponge in bin
+- [x] macrolens
+- [x] charge radios
+- [x] Fix leak in boat
+- [x] cut cheddar
+- [x] charge pump
+- [x] grate cheddar
+- [ ] fix boat
 
 
 ## Working
