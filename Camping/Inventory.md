@@ -99,38 +99,38 @@ kanban-plugin: board
 - [ ] chips
 - [ ] tortilla chips
 - [ ] colby jack sticks
-- [x] creamer
-- [x] deli cheese
-- [x] dino nuggets
-- [x] eggs
-- [x] foil containers
-- [x] fruit
-- [x] gogurt
-- [x] goldfish
-- [x] granola
-- [x] ham
-- [x] honey
-- [x] instant oatmeal
-- [x] kids drinks
-- [x] loaf of bread
-- [x] maple syrup
-- [x] pancake mix
-- [x] peanut butter
-- [x] popcorn
-- [x] Proscuitto
-- [x] questo fresco
-- [x] rice
-- [x] snack cheese
-- [x] sour cream
-- [x] tortillas
-- [x] wine
-- [x] yogurt
-- [x] yogurt drinks
-- [x] limes
-- [x] jalepeno
-- [x] hot sauce x2
-- [x] smore stuff
-- [x] pretzels
+- [ ] creamer
+- [ ] deli cheese
+- [ ] dino nuggets
+- [ ] eggs
+- [ ] foil containers
+- [ ] fruit
+- [ ] gogurt
+- [ ] goldfish
+- [ ] granola
+- [ ] ham
+- [ ] honey
+- [ ] instant oatmeal
+- [ ] kids drinks
+- [ ] loaf of bread
+- [ ] maple syrup
+- [ ] pancake mix
+- [ ] peanut butter
+- [ ] popcorn
+- [ ] Proscuitto
+- [ ] questo fresco
+- [ ] rice
+- [ ] snack cheese
+- [ ] sour cream
+- [ ] tortillas
+- [ ] wine
+- [ ] yogurt
+- [ ] yogurt drinks
+- [ ] limes
+- [ ] jalepeno
+- [ ] hot sauce x2
+- [ ] smore stuff
+- [ ] pretzels
 
 
 ## Kitchen
