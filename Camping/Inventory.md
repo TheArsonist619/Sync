@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Wish List
 
+- [ ] shims
 - [ ] Cooler
 - [ ] Toilet
 - [ ] Pie Irons
@@ -14,16 +15,18 @@ kanban-plugin: board
 - [ ] Albert Sleeping bag
 - [ ] Jamie Sleeping bag
 - [ ] birkenstock/camp shoes
-- [ ] New roof basket
+- [ ] New roof basket mounts
+- [ ] bike pump
+- [ ] battery jumper pack
+- [ ] binoculars
 
 
-## Camp supplies
+## Camp Box
 
 - [ ] ball
 - [ ] bike lights
 - [ ] bike pump
 - [ ] bikes
-- [ ] camp box
 - [ ] canopy
 - [ ] chairs
 - [ ] duct tape
@@ -32,28 +35,39 @@ kanban-plugin: board
 - [ ] frisbee
 - [ ] Green
 - [ ] hammocks
+- [ ] hammock straps
 - [ ] helmets
-- [ ] kite
 - [ ] Lantern
-- [ ] mini generator
 - [ ] multi tool
 - [ ] pendleton blanket
-- [ ] pillows
 - [ ] pocket knife
-- [ ] sleeping bags
-- [ ] Sleeping pads
 - [ ] speaker
-- [ ] storage racks
 - [ ] table
-- [ ] tent
-- [ ] tent footprint
 - [ ] Trash Bags
+- [ ] kite
 - [ ] wagon
 - [ ] water bottles
 - [ ] Wet wipes
+- [ ] Ziplocks
 - [ ] axe
 - [ ] Hatchet
 - [ ] machete
+- [ ] Board Games
+- [ ] Monikers
+
+
+## Tent
+
+- [ ] mini generator
+- [ ] sleeping bags
+- [ ] Sleeping pads
+- [ ] storage racks
+- [ ] tent
+- [ ] pillows
+- [ ] tent footprint
+- [ ] doormat
+- [ ] mini tent
+- [ ] mini tent footprint
 
 
 ## Clothes
@@ -66,6 +80,8 @@ kanban-plugin: board
 - [ ] swim trunks
 - [ ] swim clothes
 - [ ] water shoes
+- [ ] Watch
+- [ ] Hats
 
 
 ## Groceries
@@ -81,82 +97,90 @@ kanban-plugin: board
 - [ ] cantaloupe
 - [ ] cheese squares
 - [ ] chips
-- [ ] chips
+- [ ] tortilla chips
 - [ ] colby jack sticks
-- [ ] creamer
-- [ ] deli cheese
-- [ ] dino nuggets
-- [ ] eggs
-- [ ] foil containers
-- [ ] fruit
-- [ ] gogurt
-- [ ] goldfish
-- [ ] granola
-- [ ] ham
-- [ ] honey
-- [ ] instant oatmeal
-- [ ] kids drinks
-- [ ] loaf of bread
-- [ ] maple syrup
-- [ ] pancake mix
-- [ ] peanut butter
-- [ ] popcorn
-- [ ] Proscuitto
-- [ ] questo fresco
-- [ ] rice
-- [ ] smore stuff
-- [ ] snack cheese
-- [ ] sour cream
-- [ ] tortillas
-- [ ] wine
-- [ ] yogurt
-- [ ] yogurt drinks
-- [ ] limes
-- [ ] jalepeno
+- [x] creamer
+- [x] deli cheese
+- [x] dino nuggets
+- [x] eggs
+- [x] foil containers
+- [x] fruit
+- [x] gogurt
+- [x] goldfish
+- [x] granola
+- [x] ham
+- [x] honey
+- [x] instant oatmeal
+- [x] kids drinks
+- [x] loaf of bread
+- [x] maple syrup
+- [x] pancake mix
+- [x] peanut butter
+- [x] popcorn
+- [x] Proscuitto
+- [x] questo fresco
+- [x] rice
+- [x] snack cheese
+- [x] sour cream
+- [x] tortillas
+- [x] wine
+- [x] yogurt
+- [x] yogurt drinks
+- [x] limes
+- [x] jalepeno
+- [x] hot sauce x2
+- [x] smore stuff
+- [x] pretzels
 
 
 ## Kitchen
 
-- [ ] blackstone
-- [ ] cast iron
-- [ ] coffee mug
-- [ ] cooler
-- [ ] cutting board
-- [ ] gloves
-- [ ] hot saucex2
-- [ ] kitchen table
-- [ ] knife
-- [ ] meat sticks
-- [ ] big propane
-- [ ] salt/pepper/oil
-- [ ] scale
-- [ ] scissors
-- [ ] spatulas, tongs, etc
-- [ ] squeeze bottles
-- [ ] travel cooler
-- [ ] paper towels
-- [ ] dish soap
-- [ ] big bowl
-- [ ] salad utensils
-- [ ] Thermometer
+- [x] big bowl
+- [x] big propane
+- [x] blackstone
+- [x] cast iron
+- [x] coffee mug
+- [x] cooler
+- [x] cutting board
+- [x] dish soap
+- [x] gloves
+- [x] hot saucex2
+- [x] kitchen table
+- [x] knife
+- [x] small propane
+- [x] paper towels
+- [x] Pour over
+- [x] salad utensils
+- [x] salt/pepper/oil
+- [x] scale
+- [x] scissors
+- [x] spatulas, tongs, etc
+- [x] squeeze bottles
+- [x] Thermometer
+- [x] travel cooler
+- [x] Serving utensils
+- [x] paper plates
+- [x] paper bowls
+- [x] pot
+- [x] fans
 
 
 ## Water
 
-- [ ] beach toys
-- [ ] dry bag
-- [ ] float toys
-- [ ] Kids boat
-- [ ] paddles
-- [ ] sunscreen
-- [ ] SUP
-- [ ] towels
-- [ ] pump
+- [x] beach toys
+- [x] dry bag
+- [x] float toys
+- [x] Kids boat
+- [x] paddles
+- [x] sunscreen
+- [x] SUP
+- [x] towels
+- [x] pump
 
 
 ## To do
 
-- [ ] grind coffee
+- [x] grind coffee
 - [x] sponge in bin
 - [x] macrolens
 - [x] charge radios
@@ -164,7 +188,9 @@ kanban-plugin: board
 - [x] cut cheddar
 - [x] charge pump
 - [x] grate cheddar
-- [ ] fix boat
+- [x] fix boat
+- [x] trash
+- [x] pill
 
 
 ## Working
@@ -209,6 +235,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,false,false,false,false,false,true,true,true,true],"show-checkboxes":true,"lane-width":215,"tag-colors":[]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,false,false,false,false,false,false],"show-checkboxes":true,"lane-width":215,"tag-colors":[]}
 ```
 %%

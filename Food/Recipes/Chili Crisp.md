@@ -6,6 +6,7 @@ tags:
   - peanuts
   - shallots
   - ginger
+  - sichuanpeppercorns
 Source: Serious Eats
 Link: https://www.seriouseats.com/homemade-spicy-chili-crisp
 Cuisine:

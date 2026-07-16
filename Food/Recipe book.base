@@ -17,18 +17,22 @@ views:
     filters:
       and:
         - file.folder.contains("Sync/Food/Recipes")
+        - '!file.folder.contains("Sync/Food/Recipes/Images")'
     order:
       - file.name
       - Link
       - Author
       - Source
       - tags
+      - Date added
     sort:
-      - property: Source
-        direction: ASC
+      - property: Date added
+        direction: DESC
+      - property: tags
+        direction: DESC
       - property: Author
         direction: ASC
-      - property: tags
+      - property: Source
         direction: ASC
       - property: file.name
         direction: ASC
@@ -43,11 +47,9 @@ views:
     image: note.image
     cardSize: 180
     columnSize:
-      note.Difficulty: 68
-      note.Cuisine: 90
-      note.Meal: 170
-      note.aliases: 157
       note.Author: 167
+      note.Source: 126
+      note.tags: 437
   - type: cards
     name: Breakfast
     filters:
