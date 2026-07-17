@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] iPad
-- [ ] hero kids
+- [ ] Arizona tickets
 
 
 ## Working
