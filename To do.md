@@ -6,12 +6,12 @@ kanban-plugin: board
 
 ## Backlog
 
+- [ ] iPad
 
 
 ## Working
 
 - [ ] Battery pack
-- [ ] iPad
 - [ ] Keiser
 
 
