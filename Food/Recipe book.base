@@ -17,27 +17,24 @@ views:
     name: Table
     filters:
       and:
-        - file.folder.contains("Sync/Food/Recipes")
-        - '!file.folder.contains("Sync/Food/Recipes/Images")'
+        - file.folder.contains("Food/Recipes")
+        - '!file.folder.contains("Food/Recipes/Images")'
     order:
       - file.name
+      - Cuisine
       - Link
-      - Author
-      - Source
-      - tags
-      - Date added
     sort:
+      - property: Cuisine
+        direction: ASC
+      - property: Source
+        direction: DESC
       - property: Date added
         direction: DESC
       - property: tags
         direction: DESC
       - property: Author
         direction: ASC
-      - property: Source
-        direction: ASC
       - property: file.name
-        direction: ASC
-      - property: Cuisine
         direction: ASC
       - property: aliases
         direction: DESC
