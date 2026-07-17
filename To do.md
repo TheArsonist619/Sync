@@ -17,6 +17,7 @@ kanban-plugin: board
 
 ## Priority
 
+- [ ] Donor
 
 
 ## Completed
