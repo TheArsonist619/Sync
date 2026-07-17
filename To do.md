@@ -4,6 +4,10 @@ kanban-plugin: board
 
 ---
 
+## Backlog
+
+
+
 ## Working
 
 - [ ] Battery pack
@@ -19,14 +23,10 @@ kanban-plugin: board
 
 
 
-## Backlog
-
-
-
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[null,false]}
 ```
 %%
