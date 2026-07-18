@@ -1,6 +1,5 @@
 ---
 tags:
-  - potatoes
   - potatoes/sweet
   - thanksgiving
   - party
@@ -9,8 +8,7 @@ Source: Food Network
 Link: https://www.foodnetwork.com/recipes/food-network-kitchen/sweet-potato-casserole-3364945
 Cuisine:
   - American
-Type:
-  - Side
+Type: Side
 Meal:
   - Dinner
 Difficulty: Medium

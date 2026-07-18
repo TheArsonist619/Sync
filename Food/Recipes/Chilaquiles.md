@@ -1,6 +1,6 @@
 ---
 tags:
-  - jalapeno
+  - chiles/jalapeno
   - tomatillos
   - eggs
   - tortilla/chips
@@ -9,8 +9,7 @@ Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1017908-green-chilaquiles-with-eggs
 Cuisine:
   - Mexican
-Type:
-  - Main
+Type: Main
 Meal:
   - Breakfast
 Difficulty: Medium

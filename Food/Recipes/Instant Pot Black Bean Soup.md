@@ -1,13 +1,10 @@
 ---
 tags:
   - pork/bacon
-  - pork
-  - onion
+  - onions
   - carrots
   - chiles/chipotle
-  - chiles
   - beans/black
-  - beans
   - soup
   - wishlist
   - instapot

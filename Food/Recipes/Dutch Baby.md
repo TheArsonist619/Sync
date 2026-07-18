@@ -6,8 +6,7 @@ Source: Alton Brown
 Link: https://altonbrown.com/recipes/dutch-baby-pancake/
 Cuisine:
   - American
-Type:
-  - Main
+Type: Main
 Meal:
   - Breakfast
 Difficulty: Easy

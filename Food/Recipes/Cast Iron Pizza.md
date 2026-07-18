@@ -1,6 +1,5 @@
 ---
 tags:
-  - cheese
   - cheese/mozzarella
 Source: Serious Eats
 Link: https://www.seriouseats.com/foolproof-pan-pizza-recipe

@@ -9,9 +9,7 @@ Source: Food Network
 Link: https://www.foodnetwork.com/recipes/marcela-valladolid/mexican-rice-pudding-arroz-con-leche-recipe-1921815
 Cuisine:
   - Mexican
-Type:
-  - Side
-  - Dessert
+Type: Dessert
 Meal:
 Difficulty: Easy
 Author: Marcela Valladolid

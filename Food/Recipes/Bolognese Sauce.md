@@ -1,16 +1,12 @@
 ---
 tags:
-  - beef
   - beef/ground
-  - pork
   - pork/ground
   - pork/pancetta
-  - tomatoes
   - milk
   - chicken/livers
   - gelatin
   - tomatoes/sanmarzano
-  - pancetta
   - heavycream
 Source: Serious Eats
 Link: https://www.seriouseats.com/the-best-slow-cooked-bolognese-sauce-recipe

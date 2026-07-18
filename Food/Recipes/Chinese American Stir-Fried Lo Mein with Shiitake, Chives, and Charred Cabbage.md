@@ -1,6 +1,5 @@
 ---
 tags:
-  - noodles
   - noodles/lomein
   - chives
   - cabbage

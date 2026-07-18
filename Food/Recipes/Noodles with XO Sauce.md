@@ -1,6 +1,5 @@
 ---
 tags:
-  - noodles
   - scallions
   - noodles/egg
   - xosauce

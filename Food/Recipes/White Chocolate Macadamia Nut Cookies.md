@@ -7,8 +7,7 @@ tags:
 Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1023680-white-chocolate-macadamia-nut-cookies?smid=ck-recipe-iOS-share
 Cuisine: American
-Type:
-  - Side
+Type: Side
 Meal:
 Difficulty: Medium
 Author: Sohla El-Waylly

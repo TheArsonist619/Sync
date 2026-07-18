@@ -1,6 +1,5 @@
 ---
 tags:
-  - beef
   - beef/chuck
   - chiles/dried
   - chipotlesinadobo

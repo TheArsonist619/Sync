@@ -1,14 +1,12 @@
 ---
 tags:
-  - bread
   - bread/challah
   - bread/brioche
   - milk
 Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1012636-simple-bread-pudding
 Cuisine: American
-Type:
-  - Side
+Type: Side
 Meal:
   - Breakfast
 Difficulty:

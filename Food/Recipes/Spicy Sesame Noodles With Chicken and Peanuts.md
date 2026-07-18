@@ -1,6 +1,5 @@
 ---
 tags:
-  - chicken
   - chicken/ground
   - peanuts
   - noodles

@@ -1,6 +1,6 @@
 ---
 tags:
-  - parmesan
+  - cheese/parmesan
   - potatoes/russet
   - thyme
   - cheese/gruyere

@@ -2,7 +2,6 @@
 tags:
   - coconut
   - milk/coconut
-  - milk
   - eggs
   - heavycream
   - pie

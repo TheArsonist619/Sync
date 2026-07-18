@@ -1,9 +1,7 @@
 ---
 tags:
-  - chicken
   - chicken/whole
-  - potatoes
-  - potatoes/yukonGold
+  - potatoes/yukongold
   - garlic
   - ginger
   - gochujang

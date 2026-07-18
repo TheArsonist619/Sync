@@ -6,8 +6,7 @@ tags:
 Source: Paula Deen
 Link: https://www.pauladeen.com/recipe/not-yo-mamas-banana-pudding/
 Cuisine: American
-Type:
-  - Side
+Type: Side
 Meal: 
 Difficulty: Easy
 Author: Paula Deen

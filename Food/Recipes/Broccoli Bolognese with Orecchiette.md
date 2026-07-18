@@ -1,11 +1,8 @@
 ---
 tags:
   - broccoli
-  - pork
   - pork/sausage
-  - noodles
   - noodles/orecchiette
-  - cheese
   - cheese/parmesan
   - wishlist
 Source: Bon Apetit

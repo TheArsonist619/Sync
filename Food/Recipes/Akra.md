@@ -2,8 +2,8 @@
 tags:
   - taro
   - scallions
-  - chile/scotchbonnet
-  - chile/habanero
+  - chiles/scotchbonnet
+  - chiles/habanero
   - parsley
   - thyme
 Source: Everyone's Table, p. 87

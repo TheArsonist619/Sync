@@ -4,7 +4,6 @@ tags:
   - ginger
   - lemons
   - scallions
-  - seafood
   - wishlist
   - shallots
   - noodles/rice

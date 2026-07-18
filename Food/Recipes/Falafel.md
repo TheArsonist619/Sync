@@ -1,6 +1,5 @@
 ---
 tags:
-  - beans
   - beans/chickpea
   - cilantro
   - parsley

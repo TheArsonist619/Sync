@@ -1,7 +1,5 @@
 ---
 tags:
-  - noodles
-  - cheese
   - cheese/parmesan
   - scallions
   - garlic

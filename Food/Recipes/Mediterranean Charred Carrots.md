@@ -2,15 +2,14 @@
 tags:
   - carrots
   - yogurt
-  - feta
+  - cheese/feta
   - pistachios
   - party
 Source:
 Link: https://shredhappens.substack.com/p/mediterranean-charred-carrots
 Cuisine:
   - Mediterranean
-Type:
-  - Side
+Type: Side
 Meal:
   - Dinner
 Difficulty: Medium

@@ -2,7 +2,6 @@
 tags:
   - brusselssprouts
   - shallots
-  - chiles
   - chiles/thai
   - cilantro
   - limes

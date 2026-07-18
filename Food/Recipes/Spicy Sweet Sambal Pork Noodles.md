@@ -1,11 +1,9 @@
 ---
 tags:
-  - pork
   - pork/ground
   - ginger
   - garlic
   - sambal
-  - noodles
   - noodles/freshramen
   - noodles/spaghetti
 Source: Bon Apetit

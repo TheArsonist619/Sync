@@ -1,10 +1,9 @@
 ---
 tags:
-  - chile/dried
+  - chiles/dried
 Source: The Food Lab, p. 259
 Cuisine: Mexican
-Type:
-  - Base
+Type: Base
 Meal:
 Difficulty: Easy
 Author: Kenji López-Alt

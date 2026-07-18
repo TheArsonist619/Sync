@@ -5,8 +5,7 @@ Source: Serious Eats
 Link: https://www.seriouseats.com/traditional-toum
 Cuisine:
   - Middle Eastern
-Type:
-  - Condiment
+Type: Condiment
 Meal:
 Difficulty: Medium
 Author: Sohla El-Waylly

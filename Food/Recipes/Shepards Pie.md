@@ -2,16 +2,14 @@
 tags:
   - beef/ground
   - lamb/ground
-  - potatoes
-  - potatoes/yukonGold
+  - potatoes/yukongold
   - healthy
   - tomatoes/canned/diced
   - peas
 Source: N/A
 Cuisine:
   - American
-Type:
-  - Main
+Type: Main
 Meal:
   - Dinner
 Difficulty: Easy

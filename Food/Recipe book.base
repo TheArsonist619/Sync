@@ -23,6 +23,7 @@ views:
       - file.name
       - Cuisine
       - Link
+      - tags
     sort:
       - property: Cuisine
         direction: ASC

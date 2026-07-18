@@ -1,6 +1,5 @@
 ---
 tags:
-  - chiles
   - chiles/sichuan
   - shallots
   - chiles/dried

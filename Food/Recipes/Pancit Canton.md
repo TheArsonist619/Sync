@@ -1,16 +1,14 @@
 ---
 tags:
   - pork/shoulder
-  - chicken/breast
+  - chicken/breasts
   - seafood/shrimp
   - party
 Source:
 Link: https://www.food.com/recipe/pancit-canton-25121
 Cuisine:
   - Filipino
-Type:
-  - Main
-  - Side
+Type: Main
 Meal:
   - Dinner
   - Lunch

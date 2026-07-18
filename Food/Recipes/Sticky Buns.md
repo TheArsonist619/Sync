@@ -8,8 +8,7 @@ tags:
   - milk/butter
 Source: The Food Lab, p. 167
 Cuisine: American
-Type:
-  - Side
+Type: Side
 Meal:
   - Breakfast
 Difficulty: Hard

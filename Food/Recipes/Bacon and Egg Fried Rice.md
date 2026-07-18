@@ -1,7 +1,6 @@
 ---
 tags:
   - rice
-  - pork
   - pork/bacon
   - wok
   - scallions

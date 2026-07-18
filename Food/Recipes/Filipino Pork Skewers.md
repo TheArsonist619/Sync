@@ -7,9 +7,7 @@ Source: Serious Eats
 Link: https://www.seriouseats.com/filipino-barcecue-meat-recipe-11714939
 Cuisine:
   - Filipino
-Type:
-  - Main
-  - Side
+Type: Main
 Meal:
   - Lunch
   - Dinner

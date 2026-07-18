@@ -1,11 +1,9 @@
 ---
 tags:
   - greenbeans
-  - mushrooms
   - mushrooms/crimini
   - milk/whole
   - cheese/parmesan
-  - cheese
   - casserole
   - thanksgiving
   - party

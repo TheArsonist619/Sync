@@ -5,8 +5,7 @@ Source: Paula Deen
 Link: https://www.pauladeen.com/recipe/peppermint-pinwheels/
 Cuisine:
   - American
-Type:
-  - Side
+Type: Side
 Meal: 
 Difficulty: 
 Author: Paula Deen

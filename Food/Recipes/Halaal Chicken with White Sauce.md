@@ -1,6 +1,5 @@
 ---
 tags:
-  - chicken
   - chicken/thighs
   - oregano
   - pita
@@ -10,8 +9,7 @@ Source: Serious Eats
 Link: https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe
 Cuisine:
   - Mediterranean
-Type:
-  - Main
+Type: Main
 Meal:
   - Dinner
 Difficulty: Medium

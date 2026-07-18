@@ -6,8 +6,7 @@ tags:
 Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1023337-arugula-salad-with-parmesan
 Cuisine: Italian
-Type:
-  - Side
+Type: Side
 Meal:
   - Lunch
   - Dinner

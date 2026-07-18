@@ -8,8 +8,7 @@ Source: Dessert Person, p. 149–150
 Link:
 Cuisine:
   - American
-Type:
-  - Dessert
+Type: Dessert
 Meal:
 Difficulty: Medium
 Author: Claire Saffitz

@@ -1,14 +1,11 @@
 ---
 tags:
-  - macaroni
   - noodles/macaroni
   - milk/evaporated
 Source: Serious Eats
 Link: https://www.seriouseats.com/ingredient-stovetop-mac-and-cheese-recipe
 Cuisine: American
-Type:
-  - Main
-  - Side
+Type: Side
 Meal:
   - Lunch
   - Dinner

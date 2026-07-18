@@ -1,7 +1,6 @@
 ---
 tags:
   - cheese/cream
-  - cheese
   - eggs
   - heavycream
   - cheesecake

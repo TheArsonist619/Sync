@@ -16,8 +16,7 @@ Link: https://cooking.nytimes.com/recipes/1019772-spiced-chickpea-stew-with-coco
 Cuisine:
   - Indian
   - Caribbean
-Type:
-  - Main
+Type: Main
 Meal:
   - Lunch
   - Dinner

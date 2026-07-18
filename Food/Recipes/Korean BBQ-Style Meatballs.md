@@ -1,6 +1,5 @@
 ---
 tags:
-  - beef
   - beef/ground
   - scallions
   - wishlist

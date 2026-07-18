@@ -2,7 +2,6 @@
 tags:
   - cauliflower
   - broccoli
-  - cheese
   - cheese/gruyere
   - milk/evaporated
   - parsley
@@ -12,8 +11,7 @@ tags:
 Source: The food Lab, p. 420
 Cuisine:
   - American
-Type:
-  - Side
+Type: Side
 Meal:
   - Dinner
   - Lunch

@@ -1,7 +1,6 @@
 ---
 tags:
   - seafood/salmon
-  - seafood
   - parsley
   - basil
   - oregano

@@ -1,11 +1,9 @@
 ---
 tags:
-  - beef
   - beef/stew
   - carrots
-  - potatoes
   - potatoes/russet
-  - redwine
+  - wine/red
   - stew
   - dutchoven
   - wishlist

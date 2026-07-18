@@ -1,7 +1,6 @@
 ---
 tags:
   - noodles
-  - pork
   - pork/ground
   - wok
   - wine/shaoxing

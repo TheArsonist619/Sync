@@ -6,8 +6,7 @@ Source: Instagram
 Link: https://www.instagram.com/p/CFAsNn0lZQr/
 Cuisine:
   - Indian
-Type:
-  - Side
+Type: Side
 Meal:
   - Dinner
 Difficulty: Easy

@@ -7,8 +7,7 @@ tags:
 Source: Alton Brown
 Link: https://altonbrown.com/recipes/aged-eggnog/
 Cuisine: American
-Type:
-  - Drink
+Type: Drink
 Meal: 
 Difficulty: Easy
 Author: Alton Brown

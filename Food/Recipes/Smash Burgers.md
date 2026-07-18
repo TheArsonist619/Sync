@@ -11,8 +11,7 @@ Source: Serious Eats
 Link: https://www.seriouseats.com/ultra-smashed-cheeseburger-recipe-food-lab
 Cuisine:
   - American
-Type:
-  - Main
+Type: Main
 Meal:
   - Lunch
   - Dinner

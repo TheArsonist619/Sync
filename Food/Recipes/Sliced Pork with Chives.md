@@ -7,9 +7,7 @@ tags:
 Source: The Wok, p. 90
 Link: https://www.seriouseats.com/stir-fried-pork-chives-recipe-chinese-wok
 Cuisine: Chinese
-Type:
-  - Main
-  - Side
+Type: Main
 Meal:
   - Lunch
   - Dinner

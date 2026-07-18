@@ -1,11 +1,9 @@
 ---
 tags:
-  - pork
   - pork/pepperoni
   - pork/bacon
   - ginger
   - shallots
-  - seafood
   - seafood/anchovies
   - wine/shaoxing
   - mushrooms/dried

@@ -1,13 +1,12 @@
 ---
 tags:
-  - chicken/breast
+  - chicken/breasts
   - tomatoes/sundried
   - spinach
 Source: N/A
 Cuisine:
   - American
-Type:
-  - Main
+Type: Main
 Meal:
   - Dinner
 Difficulty: Hard

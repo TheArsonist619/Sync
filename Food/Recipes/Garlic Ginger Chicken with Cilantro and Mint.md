@@ -1,7 +1,6 @@
 ---
 tags:
-  - chicken
-  - chicken/breast
+  - chicken/breasts
   - ginger
   - cilantro
   - mint

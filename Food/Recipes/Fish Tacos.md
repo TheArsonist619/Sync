@@ -1,6 +1,6 @@
 ---
 tags:
-  - Fish
+  - fish
   - tortilla/corn
   - oil
   - cabbage
@@ -8,8 +8,7 @@ tags:
 Source: N/A
 Cuisine:
   - Mexican
-Type:
-  - Main
+Type: Main
 Meal:
   - Dinner
   - Lunch

@@ -4,8 +4,7 @@ tags:
   - soup
 Source: N/A
 Cuisine: Filipino
-Type:
-  - Main
+Type: Main
 Meal:
   - Dinner
 Difficulty: Easy

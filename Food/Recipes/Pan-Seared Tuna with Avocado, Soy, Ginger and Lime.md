@@ -1,12 +1,11 @@
 ---
 tags:
-  - tuna
+  - seafood/tuna
 Source: Food Network
 Link: https://www.foodnetwork.com/recipes/tyler-florence/pan-seared-tuna-with-avocado-soy-ginger-and-lime-recipe-1914316
 Cuisine:
   - Asian
-Type:
-  - Main
+Type: Main
 Meal:
   - Dinner
 Difficulty: Easy

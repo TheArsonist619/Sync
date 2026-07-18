@@ -1,10 +1,8 @@
 ---
 tags:
-  - chicken
   - chicken/ground
   - greenbeans
-  - thaibasil
-  - basil
+  - basil/thai
   - wok
   - wishlist
   - rice

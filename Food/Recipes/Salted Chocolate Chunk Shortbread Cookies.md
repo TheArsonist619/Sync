@@ -7,8 +7,7 @@ tags:
 Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1019152-salted-chocolate-chunk-shortbread-cookies
 Cuisine: American
-Type:
-  - Side
+Type: Side
 Meal:
 Difficulty:
 Author: Alison Roman

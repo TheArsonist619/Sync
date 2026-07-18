@@ -5,8 +5,7 @@ tags:
   - wishlist
 Source: Dessert Person, p. 91
 Cuisine: French
-Type:
-  - Side
+Type: Side
 Meal: 
 Difficulty: 
 Author: Claire Saffitz

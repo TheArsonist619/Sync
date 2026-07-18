@@ -1,10 +1,8 @@
 ---
 tags:
-  - beef
   - beef/chuckroast
   - onions
   - thyme
-  - wine
   - wine/white
 Source: Six Seasons by Joshua McFadden, page 356
 Cuisine: American

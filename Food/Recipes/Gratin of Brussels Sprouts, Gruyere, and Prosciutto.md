@@ -1,11 +1,9 @@
 ---
 tags:
   - brusselssprouts
-  - pork
   - pork/prosciutto
   - heavycream
   - cremefraiche
-  - cheese
   - cheese/gruyere
 Source: Six Seasons by Joshua McFadden, page 289
 Cuisine: American

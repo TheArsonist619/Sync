@@ -1,15 +1,12 @@
 ---
 tags:
-  - seafood
   - seafood/bass
   - seafood/snapper
   - seafood/cod
   - ginger
   - shallots
-  - chiles
   - chiles/thai
   - cilantro
-  - water
   - water/coconut
   - wok
 Source: The Wok, p. 606

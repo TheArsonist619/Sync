@@ -1,13 +1,10 @@
 ---
 tags:
-  - mushrooms
   - mushrooms/crimini
   - mushrooms/button
   - parsley
   - eggs
   - cheese/parmesan
-  - cheese
-  - noodles
   - noodles/orecchiette
   - wishlist
 Source: Bon Apetit

@@ -1,6 +1,5 @@
 ---
 tags:
-  - beef
   - beef/skirt
   - beef/flank
   - beef/hanger

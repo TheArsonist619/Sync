@@ -1,11 +1,9 @@
 ---
 tags:
-  - pork
   - pork/belly
   - ginger
   - wine/shaoxing
   - scallions
-  - chiles
   - chiles/dried
   - wok
   - sichuanpeppercorns

@@ -3,8 +3,7 @@ tags:
   - chicken/thighs
 Source: N/A
 Cuisine: Filipino
-Type:
-  - Main
+Type: Main
 Meal:
   - Dinner
 Difficulty: Easy

@@ -1,12 +1,9 @@
 ---
 tags:
-  - chicken
-  - chicken/breast
-  - sundried-tomatoes
+  - chicken/breasts
+  - tomatoes/sundried
   - cheese/parmesan
-  - cheese
-  - cream
-  - heavy
+  - heavycream
 Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1024503-marry-me-chicken
 Cuisine: Italian

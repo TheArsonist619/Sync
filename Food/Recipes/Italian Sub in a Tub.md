@@ -1,22 +1,20 @@
 ---
 tags:
   - turkey
-  - ham
+  - pork/ham
   - cheese/provolone
-  - salami
-  - pepperoni
+  - pork/salami
+  - pork/pepperoni
   - tomatoes
   - camping
   - wishlist
-  - chile/peperoncini
+  - chiles/peperoncini
 Source: Erin Jensen
 Link: https://thewoodenskillet.com/sub-in-a-tub/#recipe
 Cuisine:
   - Italian
   - American
-Type:
-  - Main
-  - Side
+Type: Main
 Meal:
   - Lunch
   - Dinner

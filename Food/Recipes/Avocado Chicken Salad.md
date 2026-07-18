@@ -2,7 +2,7 @@
 tags:
   - chicken
   - avocado
-  - bacon
+  - pork/bacon
   - hardboiledeggs
   - chives
   - salad
@@ -10,9 +10,7 @@ Source: Natashas Kitchen
 Link: https://natashaskitchen.com/avocado-chicken-salad-recipe
 Cuisine:
   - American
-Type:
-  - Main
-  - Side
+Type: Main
 Meal:
   - Dinner
   - Lunch

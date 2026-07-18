@@ -1,15 +1,11 @@
 ---
 tags:
-  - beans
   - beans/cannellini
   - carrots
-  - leek
-  - pork
+  - leeks
   - pork/hamhock
-  - tomatoes
   - tomatoes/canned
   - kale
-  - noodles
   - noodles/ditalini
   - soup
 Source: Bon Apetit

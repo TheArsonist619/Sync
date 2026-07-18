@@ -1,8 +1,7 @@
 ---
 tags:
-  - beans
   - beans/black
-  - poblano
+  - chiles/poblano
   - cashews
   - cheese
   - chipotlesinadobo

@@ -2,15 +2,11 @@
 tags:
   - mushrooms
   - sausage
-  - noodles
   - noodles/rigatoni
-  - cheese
   - cheese/parmesan
   - cheese/pecorino
   - beef/sausage
   - pork/sausage
-  - pork
-  - beef
 Source: Six Seasons by Joshua McFadden, page 320
 Cuisine: Italian
 Type: Main

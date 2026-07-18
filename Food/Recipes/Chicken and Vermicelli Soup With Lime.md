@@ -1,9 +1,7 @@
 ---
 tags:
-  - chicken
-  - chicken/breast
-  - potatoes
-  - potatoes/yukonGold
+  - chicken/breasts
+  - potatoes/yukongold
   - noodles
   - soup
   - wishlist

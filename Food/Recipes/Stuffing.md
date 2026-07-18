@@ -7,8 +7,7 @@ Source: Bon Apetit
 Link: https://www.bonappetit.com/recipe/simple-is-best-stuffing-dressing
 Cuisine:
   - American
-Type:
-  - Side
+Type: Side
 Meal:
   - Dinner
 Difficulty: Medium

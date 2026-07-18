@@ -1,9 +1,6 @@
 ---
 tags:
   - cheese/halloumi
-  - cheese
-  - tomatoes
-  - beans
   - beans/cannellini
   - beans/butter
   - beans/navy

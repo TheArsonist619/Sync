@@ -7,9 +7,7 @@ Source:
 Link: https://www.veganricha.com/instant-pot-kitchari/#wprm-recipe-container-30791
 Cuisine:
   - Indian
-Type:
-  - Main
-  - Side
+Type: Main
 Meal:
   - Dinner
   - Lunch

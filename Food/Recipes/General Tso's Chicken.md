@@ -1,11 +1,9 @@
 ---
 tags:
-  - chicken
   - chicken/thighs
   - ginger
   - wine/shaoxing
   - scallions
-  - chiles
   - chiles/dried
   - rice
   - wok

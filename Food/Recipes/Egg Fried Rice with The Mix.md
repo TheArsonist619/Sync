@@ -5,7 +5,7 @@ tags:
   - carrots
   - scallions
   - peas
-  - shrimp
+  - seafood/shrimp
   - party
 Source: The Wok, p. 281
 Link:

@@ -1,6 +1,5 @@
 ---
 tags:
-  - potatoes
   - potatoes/sweet
   - potatoes/red
   - carrots
@@ -11,9 +10,7 @@ Source: Minimalist Baker
 Link: https://minimalistbaker.com/roasted-vegetable-salad-with-chimichurri/
 Cuisine:
   - American
-Type:
-  - Side
-  - Condiment
+Type: Side
 Meal:
   - Lunch
   - Dinner

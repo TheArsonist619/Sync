@@ -5,9 +5,7 @@ tags:
 Source: N/A
 Cuisine:
   - American
-Type:
-  - Main
-  - Side
+Type: Main
 Meal:
   - Breakfast
 Difficulty: Easy

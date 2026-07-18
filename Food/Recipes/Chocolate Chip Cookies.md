@@ -1,7 +1,6 @@
 ---
 tags:
   - flour
-  - chocolate
   - chocolate/bittersweet
   - chocolate/milk
   - cookies
@@ -10,8 +9,7 @@ Source: Dessert Person, p. 133–134
 Link:
 Cuisine:
   - American
-Type:
-  - Dessert
+Type: Dessert
 Meal:
 Difficulty: Medium
 Author: Claire Saffitz

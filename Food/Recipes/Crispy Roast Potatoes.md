@@ -3,7 +3,6 @@ tags:
   - potatoes
   - rosemary
   - garlic
-  - fat
   - fat/duck
   - fat/tallow
 Source: Serious Eats

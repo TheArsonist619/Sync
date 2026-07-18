@@ -1,15 +1,13 @@
 ---
 tags:
   - beef/tritip
-  - chile/dried
+  - chiles/dried
   - christmas
   - party
 Source:
 Cuisine:
   - Mexican
-Type:
-  - Main
-  - Side
+Type: Main
 Meal:
   - Breakfast
   - Lunch

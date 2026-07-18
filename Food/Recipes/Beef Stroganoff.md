@@ -1,9 +1,7 @@
 ---
 tags:
-  - noodles
   - noodles/egg
   - mushrooms
-  - beef
   - beef/chuck
   - sherry
   - parsley

@@ -9,8 +9,7 @@ Source: Food Network
 Link: https://www.foodnetwork.com/recipes/marcela-valladolid/enchiladas-suizas-2666247
 Cuisine:
   - Mexican
-Type:
-  - Main
+Type: Main
 Meal:
   - Dinner
 Difficulty: Medium

@@ -1,6 +1,5 @@
 ---
 tags:
-  - potatoes
   - potatoes/russet
   - pork/bacon
   - sourcream
@@ -8,8 +7,7 @@ tags:
 Source: All Recipes
 Cuisine:
   - American
-Type:
-  - Side
+Type: Side
 Meal:
   - Dinner
 Difficulty: Easy

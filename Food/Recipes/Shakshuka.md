@@ -6,8 +6,7 @@ Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1014721-shakshuka-with-feta
 Cuisine:
   - Mediterranean
-Type:
-  - Main
+Type: Main
 Meal:
   - Breakfast
 Difficulty: Easy

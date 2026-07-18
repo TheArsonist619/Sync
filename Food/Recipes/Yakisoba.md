@@ -1,8 +1,6 @@
 ---
 tags:
-  - noodles
   - noodles/yakisoba
-  - pork
   - pork/belly
   - pork/bacon
   - cabbage

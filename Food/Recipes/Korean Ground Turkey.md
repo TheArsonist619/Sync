@@ -6,8 +6,7 @@ Source: Emily Bites
 Link: https://emilybites.com/2020/06/korean-inspired-ground-turkey.html
 Cuisine:
   - Asian
-Type:
-  - Main
+Type: Main
 Meal:
   - Dinner
 Difficulty: Easy

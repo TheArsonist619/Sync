@@ -1,6 +1,5 @@
 ---
 tags:
-  - chicken
   - chicken/breasts
   - scallions
   - ginger

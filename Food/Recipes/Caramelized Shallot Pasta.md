@@ -4,7 +4,6 @@ tags:
   - seafood/anchovies
   - tomatopaste
   - parsley
-  - seafood
   - wishlist
   - noodles
   - dutchoven

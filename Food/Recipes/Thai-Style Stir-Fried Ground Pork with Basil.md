@@ -4,7 +4,6 @@ tags:
   - basil/thai
   - chiles/thai
   - shallots
-  - basil
   - sugar/palm
   - wishlist
   - wok

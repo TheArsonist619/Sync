@@ -7,8 +7,7 @@ tags:
 Source: All Recipes
 Link: https://www.allrecipes.com/recipe/204958/pork-sinigang/
 Cuisine: Filipino
-Type:
-  - Main
+Type: Main
 Meal:
   - Dinner
 Difficulty: Easy

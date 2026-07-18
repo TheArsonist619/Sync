@@ -1,13 +1,9 @@
 ---
 tags:
-  - pork
   - pork/ground
-  - beef
   - beef/ground
-  - tomato
-  - noodles
+  - tomatoes
   - noodles/lasagna
-  - cheese
   - cheese/parmesan
   - wishlist
 Source: Bon Apetit

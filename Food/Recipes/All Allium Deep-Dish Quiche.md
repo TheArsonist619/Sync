@@ -4,7 +4,6 @@ tags:
   - scallions
   - leeks
   - shallots
-  - pork
   - pork/pancetta
   - pork/bacon
   - party

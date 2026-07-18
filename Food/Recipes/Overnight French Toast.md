@@ -7,9 +7,7 @@ Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1019102-overnight-french-toast?eafs_enabled=false
 Cuisine:
   - American
-Type:
-  - Main
-  - Side
+Type: Main
 Meal:
   - Breakfast
 Difficulty: Easy

@@ -1,8 +1,6 @@
 ---
 tags:
-  - chicken
   - chicken/ground
-  - chiles
   - chiles/thai
   - chiles/serrano
   - curry

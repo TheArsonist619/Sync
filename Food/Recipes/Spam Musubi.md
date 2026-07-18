@@ -1,15 +1,14 @@
 ---
 tags:
   - rice
-  - spam
+  - pork/spam
   - nori
   - party
   - camping
 Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1020160-spam-musubi?eafs_enabled=false
 Cuisine: Hawaiian
-Type:
-  - Side
+Type: Side
 Meal:
   - Snack
   - Lunch

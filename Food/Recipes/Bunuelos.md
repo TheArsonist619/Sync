@@ -7,8 +7,7 @@ tags:
 Source: Mom
 Cuisine:
   - Mexican
-Type:
-  - Side
+Type: Side
 Meal: 
 Difficulty: Hard
 Author: Mom

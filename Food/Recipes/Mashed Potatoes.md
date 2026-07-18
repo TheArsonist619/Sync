@@ -1,7 +1,6 @@
 ---
 tags:
-  - potatoes
-  - potatoes/yukonGold
+  - potatoes/yukongold
   - garlic
   - milk/whole
   - heavycream

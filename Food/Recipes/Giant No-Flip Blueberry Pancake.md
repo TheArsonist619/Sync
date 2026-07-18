@@ -2,7 +2,6 @@
 tags:
   - blueberries
   - cornmeal
-  - milk
   - milk/buttermilk
   - maple
   - pancake

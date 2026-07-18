@@ -1,14 +1,11 @@
 ---
 tags:
   - tofu
-  - beef
   - beef/ground
-  - pork
   - pork/ground
   - ginger
   - scallions
   - doubanjiang
-  - oil
   - oil/chile
   - sichuanpeppercorns
   - wok

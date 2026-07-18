@@ -9,9 +9,7 @@ Source: Made with Lau
 Link: https://www.madewithlau.com/recipes/salt-pepper-pork-chops
 Cuisine:
   - Asian
-Type:
-  - Main
-  - Side
+Type: Main
 Meal:
   - Dinner
   - Lunch

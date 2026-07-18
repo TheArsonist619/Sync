@@ -1,8 +1,8 @@
 ---
 tags:
-  - shrimp
+  - seafood/shrimp
   - avocado
-  - chile/jalapeno
+  - chiles/jalapeno
   - tomatillos
   - cilantro
   - limes
@@ -12,8 +12,7 @@ Source: Food Network
 Link: https://www.foodnetwork.com/recipes/food-network-kitchen/chipotle-shrimp-taco-with-avocado-salsa-verde-recipe-1927939
 Cuisine:
   - Mexican
-Type:
-  - Main
+Type: Main
 Meal:
   - Dinner
   - Lunch

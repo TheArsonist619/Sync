@@ -1,6 +1,5 @@
 ---
 tags:
-  - noodles
   - noodles/chowmein
   - beansprouts
   - scallions

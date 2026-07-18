@@ -1,8 +1,6 @@
 ---
 tags:
-  - pork
   - pork/bacon
-  - chiles
   - achiote
   - chipotlesinadobo
   - pork/bladeendloin

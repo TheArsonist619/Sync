@@ -1,7 +1,6 @@
 ---
 tags:
   - tofu
-  - beef
   - beef/ground
   - ginger
   - scallions

@@ -1,6 +1,5 @@
 ---
 tags:
-  - noodles
   - noodles/egg
   - lettuce
   - bokchoy

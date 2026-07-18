@@ -1,12 +1,11 @@
 ---
 tags:
   - pork/trocitos
-  - chile/dried
+  - chiles/dried
 Source: Mom
 Cuisine:
   - Mexican
-Type:
-  - Main
+Type: Main
 Meal:
   - Dinner
 Difficulty: Easy

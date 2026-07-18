@@ -1,8 +1,6 @@
 ---
 tags:
-  - pork
   - pork/ground
-  - seafood
   - seafood/shrimp
   - ginger
   - wok
