@@ -24,7 +24,7 @@ servings: 8 servings
 
 **Special Equipment:** 9-inch pie plate, pie weights or 4 cups dried beans or rice (for parbaking)
 
-- [ ] [[Sync/Food/Recipes/Flaky All-Butter Pie Dough.md|Flaky All-Butter Pie Dough]], parbaked in a 9-inch pie plate and cooled
+- [ ] [[Flaky All-Butter Pie Dough]], parbaked in a 9-inch pie plate and cooled
 - [ ] 5 tablespoons unsalted butter (2.5 oz / 71g)
 - [ ] ⅓ cup honey (4 oz / 113g) ①
 - [ ] ¾ cup heavy cream (6 oz / 170g), at room temperature

@@ -25,7 +25,7 @@ servings: Makes 16 palmiers
 - [ ] ½ cup demerara sugar (3.5 oz / 100g)
 - [ ] 2 teaspoons ground cinnamon ①
 - [ ] Pinch of kosher salt
-- [ ] ½ recipe [[Sync/Food/Recipes/Rough Puff Pastry.md|Rough Puff Pastry]] or 1 recipe [[Sync/Food/Recipes/Flaky All-Butter Pie Dough.md|Flaky All-Butter Pie Dough]]
+- [ ] ½ recipe [[Rough Puff Pastry]] or 1 recipe [[Flaky All-Butter Pie Dough]]
 - [ ] All-purpose flour, for rolling out
 - [ ] 1 large egg, beaten
 

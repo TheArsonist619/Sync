@@ -29,7 +29,7 @@ servings: 8 servings
 - [ ] ½ teaspoon plus a pinch of Diamond Crystal kosher salt
 - [ ] 1 cup sugar (7 oz / 200g)
 - [ ] 3 tablespoons unsalted butter (1.5 oz / 43g), cut into ½-inch pieces
-- [ ] ½ recipe [[Sync/Food/Recipes/Rough Puff Pastry.md|Rough Puff Pastry]] or 1 sheet thawed store-bought frozen puff pastry
+- [ ] ½ recipe [[Rough Puff Pastry]] or 1 sheet thawed store-bought frozen puff pastry
 - [ ] All-purpose flour, for rolling out
 - [ ] Vanilla ice cream, for serving
 

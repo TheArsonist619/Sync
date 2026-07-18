@@ -38,4 +38,4 @@ servings: Makes enough pastry for two 10-inch crusts
 - **Do Ahead:** The rough puff pastry, well wrapped and refrigerated, will keep up to 2 days or can be frozen up to 2 months (let the dough thaw in the refrigerator overnight before rolling out).
 - ① **Grating shortcut:** You could also use the grating disk of a food processor to very quickly grate the partially frozen butter instead of a box grater. Place 2 tablespoons of the total flour in the food processor bowl first so it coats the butter shreds and keeps them separated.
 - ② **Rest before using:** Don't use the pastry right after the series of folds, even if it still seems cold and workable. The back-to-back rolling and folding develops gluten, which will cause the pastry to spring back when rolled (and shrink during baking). It needs to rest at least 1 hour in the refrigerator so the gluten can relax.
-- **Used in:** [[Sync/Food/Recipes/Foolproof Tarte Tatin.md|Foolproof Tarte Tatin]]
+- **Used in:** [[Foolproof Tarte Tatin]]

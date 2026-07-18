@@ -28,7 +28,7 @@ servings: 8 servings
 
 **Special Equipment:** 9-inch springform pan, pie weights or 4 cups dried beans or rice (for parbaking), standard or handheld blender (optional)
 
-- [ ] [[Sync/Food/Recipes/Flaky All-Butter Pie Dough.md|Flaky All-Butter Pie Dough]]
+- [ ] [[Flaky All-Butter Pie Dough]]
 - [ ] All-purpose flour, for rolling out and making a bit of paste for patching
 - [ ] 4 large eggs (7 oz / 200g), at room temperature
 - [ ] 1 medium yellow onion (8 oz / 227g), peeled and halved through the root end
