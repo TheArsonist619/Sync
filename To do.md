@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] iPad
 - [ ] Arizona tickets
+- [ ] testr
 
 
 ## Working
