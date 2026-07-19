@@ -11,6 +11,7 @@ views:
       - tags
       - Author
       - Cuisine
+      - Source
     image: note.image
     cardSize: 180
   - type: table

@@ -44,7 +44,8 @@ Yield:2 cups
 2. [ ] Step 2
     
     Uncover, stir well, and taste. If you prefer more sweetness, stir in some sweetener. Top with the nuts just before eating.
-    
+- **Fruit:** Bananas, Shredded Apples, Berries, Jam, Lemon Zest, Grated Carrots
+- **Other:** Peanut Butter, Chocolate Chips, Maple Syrup, Cinnamon, Vanilla, Almonds
 
 Tip
 
