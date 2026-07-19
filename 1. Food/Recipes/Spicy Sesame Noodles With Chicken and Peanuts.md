@@ -3,7 +3,6 @@ tags:
   - chicken/ground
   - peanuts
   - noodles
-  - sesame
   - wishlist
 Source: New York Times
 Link: https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts

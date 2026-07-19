@@ -2,7 +2,6 @@
 tags:
   - chicken/thighs
   - gochujang
-  - sesame
   - cabbage
   - avocado
   - cashews

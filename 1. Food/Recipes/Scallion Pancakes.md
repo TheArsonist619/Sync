@@ -1,7 +1,6 @@
 ---
 tags:
   - scallions
-  - sesame
   - party
 Source: The Wok, p. 394
 Link:

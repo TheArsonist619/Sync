@@ -3,7 +3,6 @@ tags:
   - chicken/thighs
   - ginger
   - wine/shaoxing
-  - sesame
   - rice
   - wok
   - oil

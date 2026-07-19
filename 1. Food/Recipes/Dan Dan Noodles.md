@@ -4,7 +4,6 @@ tags:
   - pork/ground
   - wok
   - wine/shaoxing
-  - sesame
   - scallions
   - sichuanpeppercorns
   - wishlist
