@@ -1,2 +1,0 @@
-
-Billy chinook anchor
