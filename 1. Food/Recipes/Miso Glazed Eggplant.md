@@ -49,11 +49,13 @@ servings: 3 servings (as a side dish)
 ![[misoeggplant2.webp|400]]
 4. [ ] Soak the eggplants in water for 10 minutes. Blot dry with paper towels.
 5. [ ] Brush the cut surfaces with sesame oil. Place cut-side down on a parchment-lined baking sheet.
+![[misoeggplant5.webp|400]]
 6. [ ] Bake 15 minutes, until the flesh softens and the skin slightly shrivels.
 7. [ ] Preheat the broiler.
 8. [ ] Turn the eggplants cut-side up. Brush the flesh with the miso glaze.
 ![[misoeggplant3.webp|400]]
 9. [ ] Broil 3–5 minutes, until the glaze bubbles and caramelizes.
+![[misoeggplant4.webp|400]]
 10. [ ] Sprinkle with sesame seeds, sliced green onions, and julienned shiso. Serve immediately.
 
 ## Notes
