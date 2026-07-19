@@ -53,4 +53,8 @@ views:
         - file.folder.contains("sync/1. food/recipes")
         - '!file.folder.contains("images")'
         - file.tags.contains("healthy")
+    order:
+      - file.name
+      - tags
+      - Source
     image: note.image
