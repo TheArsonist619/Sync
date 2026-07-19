@@ -135,62 +135,56 @@ kanban-plugin: board
 
 ## Kitchen
 
-- [x] big bowl
-- [x] big propane
-- [x] blackstone
-- [x] cast iron
-- [x] coffee mug
-- [x] cooler
-- [x] cutting board
-- [x] dish soap
-- [x] gloves
-- [x] hot saucex2
-- [x] kitchen table
-- [x] knife
-- [x] small propane
-- [x] paper towels
-- [x] Pour over
-- [x] salad utensils
-- [x] salt/pepper/oil
-- [x] scale
-- [x] scissors
-- [x] spatulas, tongs, etc
-- [x] squeeze bottles
-- [x] Thermometer
-- [x] travel cooler
-- [x] Serving utensils
-- [x] paper plates
-- [x] paper bowls
-- [x] pot
-- [x] fans
+- [ ] big bowl
+- [ ] big propane
+- [ ] blackstone
+- [ ] cast iron
+- [ ] coffee mug
+- [ ] cooler
+- [ ] cutting board
+- [ ] dish soap
+- [ ] gloves
+- [ ] hot saucex2
+- [ ] kitchen table
+- [ ] knife
+- [ ] small propane
+- [ ] paper towels
+- [ ] Pour over
+- [ ] salad utensils
+- [ ] salt/pepper/oil
+- [ ] scale
+- [ ] scissors
+- [ ] spatulas, tongs, etc
+- [ ] squeeze bottles
+- [ ] Thermometer
+- [ ] travel cooler
+- [ ] Serving utensils
+- [ ] paper plates
+- [ ] paper bowls
+- [ ] pot
+- [ ] fans
 
 
 ## Water
 
-- [x] beach toys
-- [x] dry bag
-- [x] float toys
-- [x] Kids boat
-- [x] paddles
-- [x] sunscreen
-- [x] SUP
-- [x] towels
-- [x] pump
+- [ ] beach toys
+- [ ] dry bag
+- [ ] float toys
+- [ ] Kids boat
+- [ ] paddles
+- [ ] sunscreen
+- [ ] SUP
+- [ ] towels
+- [ ] pump
 
 
 ## To do
 
-- [x] grind coffee
-- [x] sponge in bin
-- [x] macrolens
-- [x] charge radios
-- [x] Fix leak in boat
-- [x] cut cheddar
-- [x] charge pump
-- [x] grate cheddar
-- [x] fix boat
-- [x] trash
-- [x] pill
+- [ ] grind coffee
+- [ ] sponge in bin
+- [ ] macrolens
+- [ ] charge radios
+- [ ] trash
 
 
 ## Working
