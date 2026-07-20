@@ -12,6 +12,8 @@ kanban-plugin: board
 - [ ] Felix Birthday
 - [ ] Felix Gift
 - [ ] Anniversary
+- [ ] start LSIT Vault
+- [ ] Plan Session
 
 
 ## Working
