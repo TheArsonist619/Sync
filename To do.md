@@ -8,7 +8,10 @@ kanban-plugin: board
 
 - [ ] iPad
 - [ ] Arizona tickets
-- [ ] testr
+- [ ] Insurance claim
+- [ ] Felix Birthday
+- [ ] Felix Gift
+- [ ] Anniversary
 
 
 ## Working
