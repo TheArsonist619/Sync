@@ -17,7 +17,7 @@ Date added: 2026-07-15
 image: velveting.webp
 obsidianUIMode: preview
 ---
-![[z-Assets/Config/Recipes_Backup_2026-07-18/Images/velveting.webp|hs-med locr]]
+![[velveting.webp|hs-med locr]]
 ## Overview
 
 This basic velveting technique will work for any lean poultry, pork, or firm-fleshed fish as the first step in a wide range of stir-fries where a tender, slippery texture is desired.

@@ -16,7 +16,7 @@ Date added: 2026-07-15
 image: stirfriednoodles.webp
 obsidianUIMode: preview
 ---
-![[z-Assets/Config/Recipes_Backup_2026-07-18/Images/stirfriednoodles.webp|hs-med locr]]
+![[stirfriednoodles.webp|hs-med locr]]
 # Stir-Fried Noodles
 
 As with standard stir-fries, the most important part of stir-frying noodles is managing heat, making sure that ingredients are cooked rapidly and successively, and keeping the wok uncrowded so that ingredients sear and remain vibrant and fresh rather than steamed and drab. The major difference between stir-frying noodles and other stir-fries is the tendency of noodles to break if stirred too aggressively with a metal wok spatula or tongs. With especially delicate noodles like hor fun, many professional chefs will completely avoid using any utensils after the noodles are added, instead relying only on their ability to rapidly and effectively flip and toss the contents of the wok to combine the ingredients. You don't have to do that. It's OK to use your spatula or tongs so long as you are gentle with them. Sure, you may break a few noodles along the way, but I promise you, they still going to taste delicious.

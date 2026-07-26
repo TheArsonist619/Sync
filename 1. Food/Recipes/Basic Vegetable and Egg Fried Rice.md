@@ -22,7 +22,7 @@ obsidianUIMode: preview
 ---
 
 
-![[z-Assets/Config/Recipes_Backup_2026-07-18/Images/friedrice.webp|locr hs-med]]
+![[friedrice.webp|locr hs-med]]
 
 ## Ingredients
 

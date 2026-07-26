@@ -19,7 +19,7 @@ aliases:
   - Hot and Numbing Fried Peanuts
 ---
 
-![[z-Assets/Config/Recipes_Backup_2026-07-18/Images/friedpeanuts.webp|hs-med locr]]
+![[friedpeanuts.webp|hs-med locr]]
 
 ## Ingredients
 

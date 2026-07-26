@@ -24,7 +24,7 @@ aliases:
   - Tofu with Black Bean Sauce
 ---
 
-![[z-Assets/Config/Recipes_Backup_2026-07-18/Images/tofublackbean.webp|hs-med locr]]
+![[tofublackbean.webp|hs-med locr]]
 
 ## Ingredients
 

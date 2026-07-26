@@ -19,7 +19,7 @@ obsidianUIMode: preview
 ---
 
 
-![[z-Assets/Config/Recipes_Backup_2026-07-18/Images/chickenwithbasilchiles.webp|locr hs-med]]
+![[chickenwithbasilchiles.webp|locr hs-med]]
 
 ## Ingredients
 

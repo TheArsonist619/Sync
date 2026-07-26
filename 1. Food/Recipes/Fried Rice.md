@@ -13,7 +13,7 @@ Date added: 2026-07-15
 image: friedricebase.webp
 obsidianUIMode: preview
 ---
-![[z-Assets/Config/Recipes_Backup_2026-07-18/Images/friedricebase.webp|hs-med locr]]
+![[friedricebase.webp|hs-med locr]]
 # Fried Rice
 
 We eat a lot of rice at home, and a lot of rice means a lot of leftover rice, which means fried rice makes an appearance on our lunch or dinner table at least a couple times a month.

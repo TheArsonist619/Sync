@@ -25,7 +25,7 @@ image: sesamenoodles.webp
 obsidianUIMode: preview
 ---
 
-![[z-Assets/Config/Recipes_Backup_2026-07-18/Images/sesamenoodles.webp|hs-med locr]]
+![[sesamenoodles.webp|hs-med locr]]
 
 
 

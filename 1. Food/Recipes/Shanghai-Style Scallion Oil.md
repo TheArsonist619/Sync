@@ -17,7 +17,7 @@ aliases:
   - Scallion Oil
 ---
 
-![[z-Assets/Config/Recipes_Backup_2026-07-18/Images/scallionoil.webp|hs-med locr]]
+![[scallionoil.webp|hs-med locr]]
 
 Scallion oil is a classic Shanghai condiment that's used in everything from simple bowls of noodles to marinades to dipping sauces. It's one of the easiest oils to make and extraordinarily versatile. Its flavor will meld beautifully with just about any savory dish.
 
@@ -58,7 +58,7 @@ Wok, sealed containers for storage
 
 ## Other Good Uses for Scallion Oil
 
-- [[z-Assets/Config/Recipes_Backup_2026-07-18/Shanghai-Style Noodles with Scallion Oil]]
+- [[Shanghai-Style Noodles with Scallion Oil]]
 - Splash a few teaspoons of scallion oil into the wok toward the end of a stir-fry to give it an extra boost of aroma.
 - Use it to stir-fry eggs in any of the egg dishes on pages 156–168.
 - Drizzle a few drops of it over any soup and allow the heat of the soup to bring out its aroma. (This is a quick and easy way to boost your favorite instant ramen.)

@@ -24,7 +24,7 @@ aliases:
   - Tofu with Broccoli
 ---
 
-![[z-Assets/Config/Recipes_Backup_2026-07-18/Images/tofubroccoli.webp|hs-med locr]]
+![[tofubroccoli.webp|hs-med locr]]
 
 ## Ingredients
 

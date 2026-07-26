@@ -18,7 +18,7 @@ aliases:
   - Fragrant Scallion-Ginger Oil
 ---
 
-![[z-Assets/Config/Recipes_Backup_2026-07-18/Images/scalliongingeroil.webp|hs-med locr]]
+![[scalliongingeroil.webp|hs-med locr]]
 
 ## Ingredients
 
