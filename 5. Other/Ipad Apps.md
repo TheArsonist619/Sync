@@ -5,4 +5,36 @@
 - flipboard
 - retroarch and delta and manic EMU
 - subnautica
+- company of heroes
+- rimworld
+- kingdom two crowns
+- dont starve
+- alien isolation
+- reeder or feedly
+- FTL
+- loop hero
+- 
+
+
+## Maybe
+- Infuse
+- pdf expert
+- kiwix
+- Vampire Survivors
+- monster train
+- balatro
+- cult of the lamb
+- terraforming mars
+- pocket city
+- bloons td6
+- the room
+- baba is you
+- Gorogoa
+- mini metro
+- mini motorways
+- Patrick's Parabox
+- A Monster's Expedition
+- cocoon
+- **Disco Elysium**
+- sail forth
 - 
