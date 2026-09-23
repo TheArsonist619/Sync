@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1790081633701-djbhvke9i",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1790081633787-zkdpgxu",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1790081633691-jjkz7j0",
+      "timestamp": 1790081633691,
+      "rawDisplayText": "can you see this document? https://reports.spectora.com/v/reports/592d1b36-9407-47b3-b3f6-7b1fe722e278?access=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MTE3NDgyNzIsImV4cCI6MTc5MDQwMjM5OX0.V_A7ViBbnBP2L9HI1psN9MdqS_YtCcoG3dK7Sh5-uiE&id_token=2804c3939407c9705866045a0a053824\n\nI want to create a new folder titled \"Inspection\" within the House folder. I want to convey all the info on the document in one md. I want to include the pictures as well as wether or not repairs are needed",
+      "canonicalText": "can you see this document? https://reports.spectora.com/v/reports/592d1b36-9407-47b3-b3f6-7b1fe722e278?access=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6MTE3NDgyNzIsImV4cCI6MTc5MDQwMjM5OX0.V_A7ViBbnBP2L9HI1psN9MdqS_YtCcoG3dK7Sh5-uiE&id_token=2804c3939407c9705866045a0a053824\n\nI want to create a new folder titled \"Inspection\" within the House folder. I want to convey all the info on the document in one md. I want to include the pictures as well as wether or not repairs are needed",
+      "images": [],
+      "contentDigest": "84f44d7de3e5302799751d1d3c3ebc0e3a1cc6459b574135440b26dadab16359",
+      "providerUserMessageId": "b5fbc8cf-7150-4b78-8084-609417b54b3e",
+      "providerAssistantMessageId": "1a5529a3-fc65-4b56-8464-473fbe4aae5a"
+    }
+  ]
+}

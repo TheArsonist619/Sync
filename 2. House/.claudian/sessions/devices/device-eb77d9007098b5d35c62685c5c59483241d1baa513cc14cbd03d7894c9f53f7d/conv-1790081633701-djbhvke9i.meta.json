@@ -1,0 +1,23 @@
+{
+  "id": "conv-1790081633701-djbhvke9i",
+  "providerId": "claude",
+  "title": "Create inspection markdown from report",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790081633707,
+  "lastActivityAt": 1790082054341,
+  "sessionId": "fc995cb7-8346-4afd-bcc5-7fc11137afea",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "fc995cb7-8346-4afd-bcc5-7fc11137afea"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 664,
+    "cacheReadInputTokens": 61568,
+    "contextWindow": 1000000,
+    "contextTokens": 62234,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}
